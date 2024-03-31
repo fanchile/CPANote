@@ -1,66 +1,89 @@
-\contentsline {section}{\numberline {1}审计概述}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}审计的概念与保证程度}{3}{subsection.1.1}%
-\contentsline {paragraph}{审计的分类}{3}{paragraph*.2}%
-\contentsline {paragraph}{CPA的业务以及审计和审阅的区分}{3}{paragraph*.3}%
-\contentsline {paragraph}{财务报表审计的含义}{3}{paragraph*.4}%
-\contentsline {paragraph}{职业责任、期望差距和信息差距}{4}{paragraph*.5}%
-\contentsline {subsection}{\numberline {1.2}审计要素}{4}{subsection.1.2}%
-\contentsline {paragraph}{审计业务的三方关系人}{4}{paragraph*.6}%
-\contentsline {paragraph}{财务报表}{5}{paragraph*.7}%
-\contentsline {paragraph}{财务报告编制基础}{5}{paragraph*.8}%
-\contentsline {paragraph}{审计证据}{5}{paragraph*.9}%
-\contentsline {paragraph}{审计报告}{5}{paragraph*.10}%
-\contentsline {subsection}{\numberline {1.3}审计目标}{5}{subsection.1.3}%
-\contentsline {paragraph}{财务报表审计的总体目标}{6}{paragraph*.11}%
-\contentsline {paragraph}{认定和具体审计目标}{6}{paragraph*.12}%
-\contentsline {subsection}{\numberline {1.4}审计基本要求}{7}{subsection.1.4}%
-\contentsline {paragraph}{遵守审计准则}{7}{paragraph*.13}%
-\contentsline {paragraph}{遵守职业道德守则}{7}{paragraph*.14}%
-\contentsline {paragraph}{保持职业怀疑}{7}{paragraph*.15}%
-\contentsline {paragraph}{运用职业判断}{8}{paragraph*.16}%
-\contentsline {subsection}{\numberline {1.5}审计风险}{9}{subsection.1.5}%
-\contentsline {paragraph}{重大错报风险}{9}{paragraph*.17}%
-\contentsline {paragraph}{检查风险}{9}{paragraph*.18}%
-\contentsline {paragraph}{审计风险模型——重大错报风险与检查风险的关系}{10}{paragraph*.19}%
-\contentsline {paragraph}{审计固有限制}{10}{paragraph*.20}%
-\contentsline {section}{\numberline {2}审计计划}{11}{section.2}%
-\contentsline {subsection}{\numberline {2.1}初步业务活动}{11}{subsection.2.1}%
-\contentsline {paragraph}{初步业务活动的目的和内容}{11}{paragraph*.21}%
-\contentsline {paragraph}{审计前提条件}{11}{paragraph*.22}%
-\contentsline {paragraph}{审计业务约定书的基本内容和特殊考虑}{12}{paragraph*.23}%
-\contentsline {paragraph}{审计业务变更的影响}{12}{paragraph*.24}%
-\contentsline {subsection}{\numberline {2.2}总体审计策略和具体审计计划}{12}{subsection.2.2}%
-\contentsline {paragraph}{总体审计策略}{12}{paragraph*.25}%
-\contentsline {paragraph}{具体审计计划}{13}{figure.2.1}%
-\contentsline {paragraph}{审计过程中对计划的更改}{13}{paragraph*.27}%
-\contentsline {paragraph}{指导、监督与复核}{13}{paragraph*.28}%
-\contentsline {subsection}{\numberline {2.3}重要性}{14}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}重要性的概念}{14}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}重要性的确定}{14}{subsubsection.2.3.2}%
-\contentsline {paragraph}{财务报表整体重要性}{14}{paragraph*.29}%
-\contentsline {paragraph}{特定类别的交易、账户余额或披露的重要性水平}{16}{paragraph*.30}%
-\contentsline {paragraph}{实际执行的重要性}{16}{paragraph*.31}%
-\contentsline {paragraph}{明显微小错报的临界值}{16}{paragraph*.32}%
-\contentsline {subsubsection}{\numberline {2.3.3}审计过程中修改重要性}{17}{subsubsection.2.3.3}%
-\contentsline {subsubsection}{\numberline {2.3.4}错报}{17}{subsubsection.2.3.4}%
-\contentsline {section}{\numberline {3}审计证据}{18}{section.3}%
-\contentsline {section}{\numberline {4}审计抽样方法}{19}{section.4}%
-\contentsline {section}{\numberline {5}信息技术对审计的影响}{20}{section.5}%
-\contentsline {section}{\numberline {6}审计工作底稿}{21}{section.6}%
-\contentsline {section}{\numberline {7}风险评估}{22}{section.7}%
-\contentsline {section}{\numberline {8}风险对应}{23}{section.8}%
-\contentsline {section}{\numberline {9}销售与收款循环的审计}{24}{section.9}%
-\contentsline {section}{\numberline {10}采购与付款循环的审计}{25}{section.10}%
-\contentsline {section}{\numberline {11}生产与存货循环的审计}{26}{section.11}%
-\contentsline {section}{\numberline {12}货币资金的审计}{27}{section.12}%
-\contentsline {section}{\numberline {13}对舞弊和法律法规的考虑}{28}{section.13}%
-\contentsline {section}{\numberline {14}审计沟通}{29}{section.14}%
-\contentsline {section}{\numberline {15}注册会计师利用他人的工作}{30}{section.15}%
-\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{31}{section.16}%
-\contentsline {section}{\numberline {17}其他特殊项目的审计}{32}{section.17}%
-\contentsline {section}{\numberline {18}完成审计工作}{33}{section.18}%
-\contentsline {section}{\numberline {19}审计报告}{34}{section.19}%
-\contentsline {section}{\numberline {20}企业内部控制审计}{35}{section.20}%
-\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{36}{section.21}%
-\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{37}{section.22}%
-\contentsline {section}{\numberline {23}审计业务对独立性的要求}{38}{section.23}%
+\contentsline {section}{\numberline {1}审计概述}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}审计的概念与保证程度}{4}{subsection.1.1}%
+\contentsline {paragraph}{审计的分类}{4}{paragraph*.2}%
+\contentsline {paragraph}{CPA的业务以及审计和审阅的区分}{4}{paragraph*.3}%
+\contentsline {paragraph}{财务报表审计的含义}{4}{paragraph*.4}%
+\contentsline {paragraph}{职业责任、期望差距和信息差距}{5}{paragraph*.5}%
+\contentsline {subsection}{\numberline {1.2}审计要素}{5}{subsection.1.2}%
+\contentsline {paragraph}{审计业务的三方关系人}{5}{paragraph*.6}%
+\contentsline {paragraph}{财务报表}{6}{paragraph*.7}%
+\contentsline {paragraph}{财务报告编制基础}{6}{paragraph*.8}%
+\contentsline {paragraph}{审计证据}{6}{paragraph*.9}%
+\contentsline {paragraph}{审计报告}{6}{paragraph*.10}%
+\contentsline {subsection}{\numberline {1.3}审计目标}{6}{subsection.1.3}%
+\contentsline {paragraph}{财务报表审计的总体目标}{7}{paragraph*.11}%
+\contentsline {paragraph}{认定和具体审计目标}{7}{paragraph*.12}%
+\contentsline {subsection}{\numberline {1.4}审计基本要求}{8}{subsection.1.4}%
+\contentsline {paragraph}{遵守审计准则}{8}{paragraph*.13}%
+\contentsline {paragraph}{遵守职业道德守则}{8}{paragraph*.14}%
+\contentsline {paragraph}{保持职业怀疑}{8}{paragraph*.15}%
+\contentsline {paragraph}{运用职业判断}{9}{paragraph*.16}%
+\contentsline {subsection}{\numberline {1.5}审计风险}{10}{subsection.1.5}%
+\contentsline {paragraph}{重大错报风险}{10}{paragraph*.17}%
+\contentsline {paragraph}{检查风险}{10}{paragraph*.18}%
+\contentsline {paragraph}{审计风险模型——重大错报风险与检查风险的关系}{11}{paragraph*.19}%
+\contentsline {paragraph}{审计固有限制}{11}{paragraph*.20}%
+\contentsline {section}{\numberline {2}审计计划}{12}{section.2}%
+\contentsline {subsection}{\numberline {2.1}初步业务活动}{12}{subsection.2.1}%
+\contentsline {paragraph}{初步业务活动的目的和内容}{12}{paragraph*.21}%
+\contentsline {paragraph}{审计前提条件}{12}{paragraph*.22}%
+\contentsline {paragraph}{审计业务约定书的基本内容和特殊考虑}{13}{paragraph*.23}%
+\contentsline {paragraph}{审计业务变更的影响}{13}{paragraph*.24}%
+\contentsline {subsection}{\numberline {2.2}总体审计策略和具体审计计划}{13}{subsection.2.2}%
+\contentsline {paragraph}{总体审计策略}{13}{paragraph*.25}%
+\contentsline {paragraph}{具体审计计划}{14}{figure.2.1}%
+\contentsline {paragraph}{审计过程中对计划的更改}{14}{paragraph*.27}%
+\contentsline {paragraph}{指导、监督与复核}{14}{paragraph*.28}%
+\contentsline {subsection}{\numberline {2.3}重要性}{15}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}重要性的概念}{15}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}重要性的确定}{15}{subsubsection.2.3.2}%
+\contentsline {paragraph}{财务报表整体重要性}{15}{paragraph*.29}%
+\contentsline {paragraph}{特定类别的交易、账户余额或披露的重要性水平}{17}{paragraph*.30}%
+\contentsline {paragraph}{实际执行的重要性}{17}{paragraph*.31}%
+\contentsline {paragraph}{明显微小错报的临界值}{18}{paragraph*.32}%
+\contentsline {subsubsection}{\numberline {2.3.3}审计过程中修改重要性}{18}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}错报}{18}{subsubsection.2.3.4}%
+\contentsline {section}{\numberline {3}审计证据}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}审计证据的性质}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}审计程序}{19}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}函证}{19}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}函证决策}{20}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}函证设计}{20}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}函证发出}{21}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}函证收回与否}{21}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}舞弊风险}{21}{subsubsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.4}分析程序}{21}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}用作风险评估}{22}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}用作实质性程序}{22}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}用作总体复核}{22}{subsubsection.3.4.3}%
+\contentsline {section}{\numberline {4}审计抽样方法}{23}{section.4}%
+\contentsline {section}{\numberline {5}信息技术对审计的影响}{24}{section.5}%
+\contentsline {subsection}{\numberline {5.1}信息技术对企业财务报告和内部控制的影响}{24}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}信息技术一般控制、信息处理控制和公司层面信息技术控制}{24}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}信息技术对审计过程的影响}{24}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}计算机辅助审计技术和电子表格的应用}{24}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}数据分析}{24}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}不同信息技术环境下的信息管理}{24}{subsection.5.6}%
+\contentsline {section}{\numberline {6}审计工作底稿}{25}{section.6}%
+\contentsline {section}{\numberline {7}风险评估}{26}{section.7}%
+\contentsline {subsection}{\numberline {7.1}风险识别和评估概述}{26}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}风险评估程序、信息来源以及项目组内部的讨论}{27}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}了解被审计单位及其环境的和适用的财务报告编制基础}{27}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}了解被审计单位内部控制体系各要素}{27}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}识别和评估重大错报风险}{28}{subsection.7.5}%
+\contentsline {section}{\numberline {8}风险对应}{29}{section.8}%
+\contentsline {section}{\numberline {9}销售与收款循环的审计}{30}{section.9}%
+\contentsline {section}{\numberline {10}采购与付款循环的审计}{31}{section.10}%
+\contentsline {section}{\numberline {11}生产与存货循环的审计}{32}{section.11}%
+\contentsline {section}{\numberline {12}货币资金的审计}{33}{section.12}%
+\contentsline {section}{\numberline {13}对舞弊和法律法规的考虑}{34}{section.13}%
+\contentsline {section}{\numberline {14}审计沟通}{35}{section.14}%
+\contentsline {section}{\numberline {15}注册会计师利用他人的工作}{36}{section.15}%
+\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{37}{section.16}%
+\contentsline {section}{\numberline {17}其他特殊项目的审计}{38}{section.17}%
+\contentsline {section}{\numberline {18}完成审计工作}{39}{section.18}%
+\contentsline {section}{\numberline {19}审计报告}{40}{section.19}%
+\contentsline {section}{\numberline {20}企业内部控制审计}{41}{section.20}%
+\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{42}{section.21}%
+\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{43}{section.22}%
+\contentsline {section}{\numberline {23}审计业务对独立性的要求}{44}{section.23}%
