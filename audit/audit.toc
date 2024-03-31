@@ -70,20 +70,29 @@
 \contentsline {subsection}{\numberline {7.2}风险评估程序、信息来源以及项目组内部的讨论}{27}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}了解被审计单位及其环境的和适用的财务报告编制基础}{27}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}了解被审计单位内部控制体系各要素}{27}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}识别和评估重大错报风险}{28}{subsection.7.5}%
-\contentsline {section}{\numberline {8}风险对应}{29}{section.8}%
-\contentsline {section}{\numberline {9}销售与收款循环的审计}{30}{section.9}%
-\contentsline {section}{\numberline {10}采购与付款循环的审计}{31}{section.10}%
-\contentsline {section}{\numberline {11}生产与存货循环的审计}{32}{section.11}%
-\contentsline {section}{\numberline {12}货币资金的审计}{33}{section.12}%
-\contentsline {section}{\numberline {13}对舞弊和法律法规的考虑}{34}{section.13}%
-\contentsline {section}{\numberline {14}审计沟通}{35}{section.14}%
-\contentsline {section}{\numberline {15}注册会计师利用他人的工作}{36}{section.15}%
-\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{37}{section.16}%
-\contentsline {section}{\numberline {17}其他特殊项目的审计}{38}{section.17}%
-\contentsline {section}{\numberline {18}完成审计工作}{39}{section.18}%
-\contentsline {section}{\numberline {19}审计报告}{40}{section.19}%
-\contentsline {section}{\numberline {20}企业内部控制审计}{41}{section.20}%
-\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{42}{section.21}%
-\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{43}{section.22}%
-\contentsline {section}{\numberline {23}审计业务对独立性的要求}{44}{section.23}%
+\contentsline {paragraph}{了解内控的目的}{28}{paragraph*.33}%
+\contentsline {paragraph}{直接控制与间接控制}{28}{paragraph*.34}%
+\contentsline {paragraph}{内部控制的局限性}{28}{paragraph*.35}%
+\contentsline {paragraph}{内部环境}{29}{paragraph*.36}%
+\contentsline {paragraph}{风险评估}{29}{paragraph*.37}%
+\contentsline {paragraph}{信息系统与沟通}{29}{paragraph*.38}%
+\contentsline {paragraph}{控制活动}{29}{paragraph*.39}%
+\contentsline {paragraph}{内部监督}{30}{paragraph*.40}%
+\contentsline {paragraph}{在整体层面和业务流程层面了解内部控制}{30}{paragraph*.41}%
+\contentsline {subsection}{\numberline {7.5}识别和评估重大错报风险}{30}{subsection.7.5}%
+\contentsline {section}{\numberline {8}风险对应}{31}{section.8}%
+\contentsline {section}{\numberline {9}销售与收款循环的审计}{32}{section.9}%
+\contentsline {section}{\numberline {10}采购与付款循环的审计}{33}{section.10}%
+\contentsline {section}{\numberline {11}生产与存货循环的审计}{34}{section.11}%
+\contentsline {section}{\numberline {12}货币资金的审计}{35}{section.12}%
+\contentsline {section}{\numberline {13}对舞弊和法律法规的考虑}{36}{section.13}%
+\contentsline {section}{\numberline {14}审计沟通}{37}{section.14}%
+\contentsline {section}{\numberline {15}注册会计师利用他人的工作}{38}{section.15}%
+\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{39}{section.16}%
+\contentsline {section}{\numberline {17}其他特殊项目的审计}{40}{section.17}%
+\contentsline {section}{\numberline {18}完成审计工作}{41}{section.18}%
+\contentsline {section}{\numberline {19}审计报告}{42}{section.19}%
+\contentsline {section}{\numberline {20}企业内部控制审计}{43}{section.20}%
+\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{44}{section.21}%
+\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{45}{section.22}%
+\contentsline {section}{\numberline {23}审计业务对独立性的要求}{46}{section.23}%
