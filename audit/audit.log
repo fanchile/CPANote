@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  2 APR 2024 09:42
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  2 APR 2024 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -685,7 +685,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 96.
+t line 107.
  [2])
 \tf@toc=\write4
 \openout4 = `audit.toc'.
@@ -750,28 +750,21 @@ Missing character: There is no ④ (U+2463) in font [lmroman12-regular]:mapping=
 ex-text;!
 [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
 [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-[47] [48] (./audit.aux)
+[47] [48] [49] [50] [51] [52] (./audit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
-
-
-Package rerunfilecheck Warning: File `audit.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `audit.out':
-(rerunfilecheck)             Before: FA5F9D96B706600C05648B1D99FDF72D;7039
-(rerunfilecheck)             After:  ACAF96E4C6641CD0D6966324659882CD;7671.
+Package rerunfilecheck Info: File `audit.out' has not changed.
+(rerunfilecheck)             Checksum: 10EDB93BC4E97C551479F10D7CECB0FE;7777.
  ) 
 Here is how much of TeX's memory you used:
- 17298 strings out of 474773
- 384315 string characters out of 5757724
+ 17299 strings out of 474773
+ 384326 string characters out of 5757724
  1946839 words of memory out of 5000000
- 39197 multiletter control sequences out of 15000+600000
+ 39198 multiletter control sequences out of 15000+600000
  573056 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,97p,542b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on audit.pdf (48 pages).
+Output written on audit.pdf (52 pages).
