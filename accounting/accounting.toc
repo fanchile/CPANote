@@ -68,639 +68,639 @@
 \contentsline {paragraph}{被投资单位宣告分配现金股利或利润的处理}{41}{paragraph*.24}%
 \contentsline {paragraph}{其他综合收益的处理}{41}{paragraph*.25}%
 \contentsline {paragraph}{被投资单位所有者权益其他变动的处理}{41}{paragraph*.26}%
-\contentsline {paragraph}{超额亏损}{41}{paragraph*.27}%
-\contentsline {paragraph}{因被动稀释导致持股比例下降时，内含商誉的结转}{41}{paragraph*.28}%
-\contentsline {paragraph}{减值}{41}{paragraph*.29}%
+\contentsline {paragraph}{超额亏损}{42}{paragraph*.27}%
+\contentsline {paragraph}{因被动稀释导致持股比例下降时，内含商誉的结转}{42}{paragraph*.28}%
+\contentsline {paragraph}{减值}{42}{paragraph*.29}%
 \contentsline {subsection}{\numberline {6.4}核算方法的转换与处置}{42}{subsection.6.4}%
 \contentsline {subsubsection}{\numberline {6.4.1}成本法转权益法}{42}{subsubsection.6.4.1}%
 \contentsline {subsubsection}{\numberline {6.4.2}公允价值或权益法转成本法（非同控）}{43}{subsubsection.6.4.2}%
-\contentsline {subsubsection}{\numberline {6.4.3}公允价值计量转为权益法}{43}{subsubsection.6.4.3}%
+\contentsline {subsubsection}{\numberline {6.4.3}公允价值计量转为权益法}{44}{subsubsection.6.4.3}%
 \contentsline {subsubsection}{\numberline {6.4.4}权益法转为公允价值计量}{44}{subsubsection.6.4.4}%
 \contentsline {subsubsection}{\numberline {6.4.5}成本法转为公允价值计量}{44}{subsubsection.6.4.5}%
-\contentsline {subsubsection}{\numberline {6.4.6}长期股权投资处置}{44}{subsubsection.6.4.6}%
+\contentsline {subsubsection}{\numberline {6.4.6}长期股权投资处置}{45}{subsubsection.6.4.6}%
 \contentsline {subsection}{\numberline {6.5}合营安排}{45}{subsection.6.5}%
-\contentsline {subsubsection}{\numberline {6.5.1}合营方的会计处理原则}{45}{subsubsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.1}合营方的会计处理原则}{46}{subsubsection.6.5.1}%
 \contentsline {subsubsection}{\numberline {6.5.2}对非合营方的会计处理原则}{47}{subsubsection.6.5.2}%
 \contentsline {subsection}{\numberline {6.6}其他}{47}{subsection.6.6}%
-\contentsline {section}{\numberline {7}资产减值}{48}{section.7}%
-\contentsline {subsection}{\numberline {7.1}资产减值概述}{48}{subsection.7.1}%
-\contentsline {paragraph}{什么是资产减值}{48}{paragraph*.30}%
-\contentsline {paragraph}{特殊情况}{48}{paragraph*.31}%
-\contentsline {subsection}{\numberline {7.2}资产可收回金额的计量}{49}{subsection.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.1}资产公允价值减去处置费用}{49}{subsubsection.7.2.1}%
-\contentsline {subsubsection}{\numberline {7.2.2}未来现金流量的现值}{50}{subsubsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.3}资产减值损失的确认与计量}{51}{subsection.7.3}%
-\contentsline {paragraph}{关于转回}{51}{paragraph*.32}%
-\contentsline {paragraph}{账务处理}{51}{paragraph*.33}%
-\contentsline {subsection}{\numberline {7.4}资产组的认定及减值处理}{51}{subsection.7.4}%
-\contentsline {paragraph}{资产组减值测试}{51}{paragraph*.34}%
-\contentsline {paragraph}{资产组减值的会计处理}{52}{paragraph*.35}%
-\contentsline {paragraph}{总部资产的减值测试}{52}{paragraph*.36}%
-\contentsline {subsection}{\numberline {7.5}商誉减值测试与处理}{52}{subsection.7.5}%
-\contentsline {paragraph}{商誉减值测试的方法与会计处理}{52}{paragraph*.37}%
-\contentsline {subsection}{\numberline {7.6}小结}{53}{subsection.7.6}%
-\contentsline {section}{\numberline {8}负债}{54}{section.8}%
-\contentsline {subsection}{\numberline {8.1}流动负债}{54}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}短期借款}{54}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}应付票据}{54}{subsubsection.8.1.2}%
-\contentsline {subsubsection}{\numberline {8.1.3}应付账款}{55}{subsubsection.8.1.3}%
-\contentsline {subsubsection}{\numberline {8.1.4}应交税费}{55}{subsubsection.8.1.4}%
-\contentsline {paragraph}{应交税费-增值税}{55}{paragraph*.38}%
-\contentsline {paragraph}{增值税-视同销售的情况}{56}{paragraph*.39}%
-\contentsline {paragraph}{增值税-进项税额不予抵扣的情况}{56}{paragraph*.40}%
-\contentsline {paragraph}{增值税-差额征税}{56}{paragraph*.41}%
-\contentsline {paragraph}{增值税-多交与未交}{57}{paragraph*.42}%
-\contentsline {paragraph}{增值税-缴纳增值税}{57}{paragraph*.43}%
-\contentsline {paragraph}{增值税税控系统专用设备和技术维护费用抵减增值税额的会计处理}{57}{paragraph*.44}%
-\contentsline {paragraph}{减免增值税的处理}{58}{paragraph*.45}%
-\contentsline {paragraph}{消费税}{58}{paragraph*.46}%
-\contentsline {paragraph}{资源税}{59}{paragraph*.47}%
-\contentsline {paragraph}{土地增值税}{59}{paragraph*.48}%
-\contentsline {paragraph}{房产税、土地使用税、车船税和印花税}{59}{paragraph*.49}%
-\contentsline {paragraph}{城市维护建设税}{59}{paragraph*.50}%
-\contentsline {paragraph}{所得税}{59}{paragraph*.51}%
-\contentsline {paragraph}{耕地占用税}{59}{paragraph*.52}%
-\contentsline {subsubsection}{\numberline {8.1.5}应付股利（现金股利）}{59}{subsubsection.8.1.5}%
-\contentsline {subsubsection}{\numberline {8.1.6}其他应付款}{60}{subsubsection.8.1.6}%
-\contentsline {subsection}{\numberline {8.2}非流动负债}{60}{subsection.8.2}%
-\contentsline {subsubsection}{\numberline {8.2.1}长期借款}{60}{subsubsection.8.2.1}%
-\contentsline {subsubsection}{\numberline {8.2.2}公司债券}{61}{subsubsection.8.2.2}%
-\contentsline {paragraph}{可转换公司债券}{62}{paragraph*.53}%
-\contentsline {subsubsection}{\numberline {8.2.3}长期应付款}{63}{subsubsection.8.2.3}%
-\contentsline {subsection}{\numberline {8.3}小结}{63}{subsection.8.3}%
-\contentsline {section}{\numberline {9}职工薪酬}{64}{section.9}%
-\contentsline {subsection}{\numberline {9.1}职工和职工薪酬的范围及分类}{64}{subsection.9.1}%
-\contentsline {paragraph}{分类}{64}{paragraph*.54}%
-\contentsline {subsection}{\numberline {9.2}短期薪酬的确认与计量}{65}{subsection.9.2}%
-\contentsline {subsubsection}{\numberline {9.2.1}货币性短期薪酬}{65}{subsubsection.9.2.1}%
-\contentsline {subsubsection}{\numberline {9.2.2}带薪缺勤}{65}{subsubsection.9.2.2}%
-\contentsline {paragraph}{累积带薪缺勤}{65}{paragraph*.55}%
-\contentsline {paragraph}{非累积带薪缺勤}{66}{paragraph*.56}%
-\contentsline {subsubsection}{\numberline {9.2.3}短期利润分享计划}{66}{subsubsection.9.2.3}%
-\contentsline {subsubsection}{\numberline {9.2.4}非货币性福利}{66}{subsubsection.9.2.4}%
-\contentsline {paragraph}{自产产品}{67}{paragraph*.57}%
-\contentsline {paragraph}{外购产品}{67}{paragraph*.58}%
-\contentsline {paragraph}{自有住房无偿给员工使用}{67}{paragraph*.59}%
-\contentsline {paragraph}{租赁住房无偿给员工使用}{67}{paragraph*.60}%
-\contentsline {paragraph}{提供支付了补贴的商品或服务}{68}{paragraph*.61}%
-\contentsline {subsection}{\numberline {9.3}离职后福利的确认与计量}{68}{subsection.9.3}%
-\contentsline {subsubsection}{\numberline {9.3.1}设定提存计划}{69}{subsubsection.9.3.1}%
-\contentsline {subsubsection}{\numberline {9.3.2}设定收益计划}{69}{subsubsection.9.3.2}%
-\contentsline {subsection}{\numberline {9.4}辞退福利的确认与计量}{70}{subsection.9.4}%
-\contentsline {paragraph}{主要内容}{71}{paragraph*.62}%
-\contentsline {paragraph}{确认日期}{71}{paragraph*.63}%
-\contentsline {paragraph}{计量}{71}{paragraph*.64}%
-\contentsline {paragraph}{其他注意事项}{72}{paragraph*.65}%
-\contentsline {subsection}{\numberline {9.5}其他长期职工福利的确认与计量}{72}{subsection.9.5}%
-\contentsline {paragraph}{设定提存计划}{72}{paragraph*.66}%
-\contentsline {paragraph}{设定受益计划}{72}{paragraph*.67}%
-\contentsline {section}{\numberline {10}股份支付}{73}{section.10}%
-\contentsline {subsection}{\numberline {10.1}股份支付概述}{73}{subsection.10.1}%
-\contentsline {subsubsection}{\numberline {10.1.1}股份支付的含义和特征}{73}{subsubsection.10.1.1}%
-\contentsline {subsubsection}{\numberline {10.1.2}股份支付的四个主要环节}{73}{subsubsection.10.1.2}%
-\contentsline {paragraph}{一次授予、分期行权}{74}{paragraph*.68}%
-\contentsline {subsubsection}{\numberline {10.1.3}股份支付工具的主要类型}{74}{subsubsection.10.1.3}%
-\contentsline {subsection}{\numberline {10.2}股份支付的确认和计量}{75}{subsection.10.2}%
-\contentsline {subsubsection}{\numberline {10.2.1}股份支付工具的确认和计量原则}{75}{subsubsection.10.2.1}%
-\contentsline {paragraph}{权益结算}{75}{paragraph*.69}%
-\contentsline {paragraph}{现金结算}{76}{paragraph*.70}%
-\contentsline {subsubsection}{\numberline {10.2.2}可行权条件的种类、处理和修改}{76}{subsubsection.10.2.2}%
-\contentsline {paragraph}{可行权条件}{76}{paragraph*.71}%
-\contentsline {paragraph}{特殊情况处理}{77}{paragraph*.72}%
-\contentsline {paragraph}{股份支付条件和条款的修改}{78}{paragraph*.73}%
-\contentsline {paragraph}{有利修改}{78}{paragraph*.74}%
-\contentsline {paragraph}{不利修改}{78}{paragraph*.75}%
-\contentsline {subsubsection}{\numberline {10.2.3}权益工具的公允价值的确定}{78}{subsubsection.10.2.3}%
-\contentsline {subsubsection}{\numberline {10.2.4}股份支付的处理}{79}{subsubsection.10.2.4}%
-\contentsline {paragraph}{授予日}{79}{paragraph*.76}%
-\contentsline {paragraph}{等待期内每个资产负债表日}{79}{paragraph*.77}%
-\contentsline {paragraph}{可行权日之后}{79}{paragraph*.78}%
-\contentsline {paragraph}{回购股份进行职工期权激励}{79}{paragraph*.79}%
-\contentsline {paragraph}{限制性股票的股权激励的账务处理}{80}{paragraph*.80}%
-\contentsline {paragraph}{发放现金股利的处理原则}{81}{paragraph*.81}%
-\contentsline {subsubsection}{\numberline {10.2.5}集团股份支付的处理}{82}{subsubsection.10.2.5}%
-\contentsline {paragraph}{以自身权益工具进行结算}{82}{paragraph*.82}%
-\contentsline {paragraph}{以其他权益工具进行结算}{82}{paragraph*.83}%
-\contentsline {paragraph}{子公司有结算义务，拿其他子公司权益工具进行支付}{83}{paragraph*.84}%
-\contentsline {paragraph}{特殊情况}{83}{paragraph*.85}%
-\contentsline {subsection}{\numberline {10.3}应用举例}{83}{subsection.10.3}%
-\contentsline {subsubsection}{\numberline {10.3.1}附带服务年限条件的权益结算的股份支付}{83}{subsubsection.10.3.1}%
-\contentsline {subsubsection}{\numberline {10.3.2}附带市场业绩条件的权益结算的股份支付}{83}{subsubsection.10.3.2}%
-\contentsline {subsubsection}{\numberline {10.3.3}现金结算的股份支付}{83}{subsubsection.10.3.3}%
-\contentsline {section}{\numberline {11}借款费用}{84}{section.11}%
-\contentsline {subsection}{\numberline {11.1}借款费用概述}{84}{subsection.11.1}%
-\contentsline {subsubsection}{\numberline {11.1.1}借款费用的范围}{84}{subsubsection.11.1.1}%
-\contentsline {subsubsection}{\numberline {11.1.2}借款的范围}{84}{subsubsection.11.1.2}%
-\contentsline {subsubsection}{\numberline {11.1.3}符合资本化条件的资产}{84}{subsubsection.11.1.3}%
-\contentsline {subsection}{\numberline {11.2}借款费用的确认}{85}{subsection.11.2}%
-\contentsline {subsubsection}{\numberline {11.2.1}借款费用开始资本化的时点}{85}{subsubsection.11.2.1}%
-\contentsline {subsubsection}{\numberline {11.2.2}借款费用暂停资本化的时间}{85}{subsubsection.11.2.2}%
-\contentsline {paragraph}{非正常中断}{86}{paragraph*.86}%
-\contentsline {paragraph}{正常中断}{86}{paragraph*.87}%
-\contentsline {subsubsection}{\numberline {11.2.3}借款费用停止资本化的时点}{86}{subsubsection.11.2.3}%
-\contentsline {paragraph}{基本原则}{86}{paragraph*.88}%
-\contentsline {paragraph}{如何判断达到预定可使用或可销售状态}{86}{paragraph*.89}%
-\contentsline {paragraph}{分别建造、分别完工}{87}{paragraph*.90}%
-\contentsline {subsection}{\numberline {11.3}借款费用的计量}{87}{subsection.11.3}%
-\contentsline {subsubsection}{\numberline {11.3.1}借款利息资本化金额的确认}{87}{subsubsection.11.3.1}%
-\contentsline {paragraph}{专门借款}{87}{paragraph*.91}%
-\contentsline {paragraph}{一般借款}{87}{paragraph*.92}%
-\contentsline {paragraph}{与土地使用权相关的资本化金额确认的}{88}{paragraph*.93}%
-\contentsline {subsubsection}{\numberline {11.3.2}借款辅助费用资本化金额的确认}{88}{subsubsection.11.3.2}%
-\contentsline {subsubsection}{\numberline {11.3.3}外币专门借款汇兑差额资本化金额的确定}{88}{subsubsection.11.3.3}%
-\contentsline {section}{\numberline {12}或有事项}{89}{section.12}%
-\contentsline {subsection}{\numberline {12.1}或有事项概述}{89}{subsection.12.1}%
-\contentsline {subsubsection}{\numberline {12.1.1}或有事项的概念和特征}{89}{subsubsection.12.1.1}%
-\contentsline {subsubsection}{\numberline {12.1.2}或有资产和或有负债}{89}{subsubsection.12.1.2}%
-\contentsline {paragraph}{或有负债}{89}{paragraph*.94}%
-\contentsline {paragraph}{或有资产}{90}{paragraph*.95}%
-\contentsline {subsection}{\numberline {12.2}或有事项的确认和计量}{90}{subsection.12.2}%
-\contentsline {subsubsection}{\numberline {12.2.1}或有事项的确认}{90}{subsubsection.12.2.1}%
-\contentsline {subsubsection}{\numberline {12.2.2}预计负债的计量}{90}{subsubsection.12.2.2}%
-\contentsline {paragraph}{最佳估计数的确定}{90}{paragraph*.96}%
-\contentsline {paragraph}{预期可获得补偿的处理}{91}{paragraph*.97}%
-\contentsline {paragraph}{预计负债的计量需要考虑的其他因素}{91}{paragraph*.98}%
-\contentsline {subsubsection}{\numberline {12.2.3}对预计负债账面价值的复核}{92}{subsubsection.12.2.3}%
-\contentsline {subsection}{\numberline {12.3}或有事项会计处理的具体应用}{92}{subsection.12.3}%
-\contentsline {subsubsection}{\numberline {12.3.1}未决诉讼或未决仲裁}{92}{subsubsection.12.3.1}%
-\contentsline {subsubsection}{\numberline {12.3.2}债务担保}{92}{subsubsection.12.3.2}%
-\contentsline {subsubsection}{\numberline {12.3.3}产品质量保证}{93}{subsubsection.12.3.3}%
-\contentsline {subsubsection}{\numberline {12.3.4}亏损合同}{93}{subsubsection.12.3.4}%
-\contentsline {subsubsection}{\numberline {12.3.5}重组义务}{94}{subsubsection.12.3.5}%
-\contentsline {subsection}{\numberline {12.4}或有事项的列报}{95}{subsection.12.4}%
-\contentsline {subsubsection}{\numberline {12.4.1}预计负债的列报}{95}{subsubsection.12.4.1}%
-\contentsline {subsubsection}{\numberline {12.4.2}或有负债的披露}{95}{subsubsection.12.4.2}%
-\contentsline {subsubsection}{\numberline {12.4.3}或有资产的披露}{95}{subsubsection.12.4.3}%
-\contentsline {section}{\numberline {13}金融工具}{96}{section.13}%
-\contentsline {subsection}{\numberline {13.1}金融工具概述}{96}{subsection.13.1}%
-\contentsline {subsubsection}{\numberline {13.1.1}金融资产和金融负债的含义}{96}{subsubsection.13.1.1}%
-\contentsline {paragraph}{金融资产}{96}{paragraph*.99}%
-\contentsline {paragraph}{金融负债}{96}{paragraph*.100}%
-\contentsline {paragraph}{特别提示}{97}{paragraph*.101}%
-\contentsline {subsubsection}{\numberline {13.1.2}衍生工具}{97}{subsubsection.13.1.2}%
-\contentsline {subsection}{\numberline {13.2}金融资产和金融负债的分类}{97}{subsection.13.2}%
-\contentsline {subsubsection}{\numberline {13.2.1}金融资产的分类}{98}{subsubsection.13.2.1}%
-\contentsline {paragraph}{业务模式}{98}{paragraph*.102}%
-\contentsline {paragraph}{收取合同现金流量为目标的业务模式}{98}{paragraph*.103}%
-\contentsline {paragraph}{收取合同现金流量和出售金融资产为目标的业务模式}{99}{paragraph*.104}%
-\contentsline {paragraph}{合同现金流量特征}{99}{paragraph*.105}%
-\contentsline {paragraph}{金融资产的分类}{100}{paragraph*.106}%
-\contentsline {paragraph}{交易性的判断}{100}{paragraph*.107}%
-\contentsline {paragraph}{金融资产分类的特殊规定}{101}{paragraph*.108}%
-\contentsline {subsubsection}{\numberline {13.2.2}金融负债的分类}{101}{subsubsection.13.2.2}%
-\contentsline {paragraph}{公允价值选择权}{101}{paragraph*.109}%
-\contentsline {subsection}{\numberline {13.3}金融负债和权益工具的区分}{102}{subsection.13.3}%
-\contentsline {subsubsection}{\numberline {13.3.1}金融负债和权益工具的区分}{102}{subsubsection.13.3.1}%
-\contentsline {paragraph}{基本原则-无法避免交付现金}{103}{paragraph*.110}%
-\contentsline {paragraph}{基本原则-交付固定数量自身权益工具结算}{104}{paragraph*.111}%
-\contentsline {paragraph}{以外币计价的配股权、期权或认股权证}{104}{paragraph*.112}%
-\contentsline {paragraph}{或有结算条款}{104}{paragraph*.113}%
-\contentsline {paragraph}{合并财务报表中金融负债和权益工具的区分}{105}{paragraph*.114}%
-\contentsline {paragraph}{特殊金融工具的区分}{105}{paragraph*.115}%
-\contentsline {paragraph}{金融负债和权益工具之间的重分类}{106}{paragraph*.116}%
-\contentsline {paragraph}{收益和库存股}{106}{paragraph*.117}%
-\contentsline {subsubsection}{\numberline {13.3.2}复合金融工具}{107}{subsubsection.13.3.2}%
-\contentsline {subsubsection}{\numberline {13.3.3}永续债等类似金融工具的会计处理}{108}{subsubsection.13.3.3}%
-\contentsline {subsection}{\numberline {13.4}金融工具的计量和重分类}{108}{subsection.13.4}%
-\contentsline {subsubsection}{\numberline {13.4.1}金融资产和金融负债的初始计量}{108}{subsubsection.13.4.1}%
-\contentsline {subsubsection}{\numberline {13.4.2}金融资产的后续计量}{109}{subsubsection.13.4.2}%
-\contentsline {paragraph}{以摊余成本计量的金融资产的会计处理}{109}{paragraph*.118}%
-\contentsline {paragraph}{以公允价值计量且其变动计入损益的金融资产}{111}{paragraph*.119}%
-\contentsline {paragraph}{以公允价值计量且其变动计入其他综合收益的金融资产}{112}{paragraph*.120}%
-\contentsline {subsubsection}{\numberline {13.4.3}金融负债的后续计量}{115}{subsubsection.13.4.3}%
-\contentsline {subsubsection}{\numberline {13.4.4}金融工具的减值}{115}{subsubsection.13.4.4}%
-\contentsline {subsubsection}{\numberline {13.4.5}金融工具的重分类}{117}{subsubsection.13.4.5}%
-\contentsline {subsection}{\numberline {13.5}金融资产转移}{118}{subsection.13.5}%
-\contentsline {subsubsection}{\numberline {13.5.1}金融资产终止确认的一般原则}{118}{subsubsection.13.5.1}%
-\contentsline {subsubsection}{\numberline {13.5.2}金融资产终止确认的判断流程}{119}{subsubsection.13.5.2}%
-\contentsline {subsubsection}{\numberline {13.5.3}金融资产转移的会计处理}{122}{subsubsection.13.5.3}%
-\contentsline {paragraph}{满足终止确认条件的金融资产转移的会计处理}{122}{paragraph*.121}%
-\contentsline {paragraph}{继续确认被转移金融资产的会计处理（保留了所有权上几乎所有的风险和报酬）}{123}{paragraph*.122}%
-\contentsline {paragraph}{继续涉入被转移金融资产的会计处理}{123}{paragraph*.123}%
-\contentsline {subsection}{\numberline {13.6}套期会计}{124}{subsection.13.6}%
-\contentsline {subsubsection}{\numberline {13.6.1}套期会计概述}{124}{subsubsection.13.6.1}%
-\contentsline {subsubsection}{\numberline {13.6.2}套期工具和被套期项目}{125}{subsubsection.13.6.2}%
-\contentsline {paragraph}{套期工具}{125}{paragraph*.124}%
-\contentsline {paragraph}{被套期项目}{126}{paragraph*.125}%
-\contentsline {subsubsection}{\numberline {13.6.3}套期关系评估}{127}{subsubsection.13.6.3}%
-\contentsline {paragraph}{运用套期会计的条件}{127}{paragraph*.126}%
-\contentsline {paragraph}{套期关系再平衡（仅仅是数量失衡）}{128}{paragraph*.127}%
-\contentsline {paragraph}{套期关系的终止}{128}{paragraph*.128}%
-\contentsline {subsubsection}{\numberline {13.6.4}确认和计量}{128}{subsubsection.13.6.4}%
-\contentsline {paragraph}{公允价值套期}{129}{paragraph*.129}%
-\contentsline {paragraph}{现金流量套期}{129}{paragraph*.130}%
-\contentsline {paragraph}{境外经营净投资套期}{130}{paragraph*.131}%
-\contentsline {subsubsection}{\numberline {13.6.5}信用风险敞口的公允价值选择权}{131}{subsubsection.13.6.5}%
-\contentsline {subsection}{\numberline {13.7}金融工具的披露}{131}{subsection.13.7}%
-\contentsline {subsubsection}{\numberline {13.7.1}金融工具一般信息披露要求}{131}{subsubsection.13.7.1}%
-\contentsline {subsubsection}{\numberline {13.7.2}资产负债表相关信息的披露}{131}{subsubsection.13.7.2}%
-\contentsline {subsubsection}{\numberline {13.7.3}利润表相关信息的披露}{131}{subsubsection.13.7.3}%
-\contentsline {subsubsection}{\numberline {13.7.4}公允价值相关信息的披露}{131}{subsubsection.13.7.4}%
-\contentsline {subsubsection}{\numberline {13.7.5}金融工具风险信息披露}{131}{subsubsection.13.7.5}%
-\contentsline {section}{\numberline {14}租赁}{132}{section.14}%
-\contentsline {subsection}{\numberline {14.1}租赁概述}{132}{subsection.14.1}%
-\contentsline {subsubsection}{\numberline {14.1.1}适用范围}{132}{subsubsection.14.1.1}%
-\contentsline {subsubsection}{\numberline {14.1.2}租赁的识别}{132}{subsubsection.14.1.2}%
-\contentsline {subsubsection}{\numberline {14.1.3}租赁构成要素的具体判断}{133}{subsubsection.14.1.3}%
-\contentsline {subsubsection}{\numberline {14.1.4}租赁的分拆与合并}{133}{subsubsection.14.1.4}%
-\contentsline {paragraph}{分拆}{134}{paragraph*.132}%
-\contentsline {paragraph}{合并}{134}{paragraph*.133}%
-\contentsline {subsubsection}{\numberline {14.1.5}租赁期}{134}{subsubsection.14.1.5}%
-\contentsline {paragraph}{不可撤销期间}{135}{paragraph*.134}%
-\contentsline {paragraph}{续租选择权和终止租赁权}{135}{paragraph*.135}%
-\contentsline {subsection}{\numberline {14.2}承租人会计处理}{136}{subsection.14.2}%
-\contentsline {subsubsection}{\numberline {14.2.1}基本处理原则}{136}{subsubsection.14.2.1}%
-\contentsline {subsubsection}{\numberline {14.2.2}相关概念}{136}{subsubsection.14.2.2}%
-\contentsline {paragraph}{租赁激励}{136}{paragraph*.136}%
-\contentsline {paragraph}{可变租赁付款项}{136}{paragraph*.137}%
-\contentsline {paragraph}{担保余值}{136}{paragraph*.138}%
-\contentsline {paragraph}{未担保余值}{136}{paragraph*.139}%
-\contentsline {paragraph}{租赁付款额}{136}{paragraph*.140}%
-\contentsline {paragraph}{初始直接费用}{137}{paragraph*.141}%
-\contentsline {paragraph}{租赁内含利率}{137}{paragraph*.142}%
-\contentsline {paragraph}{承租人增量借款利率}{137}{paragraph*.143}%
-\contentsline {subsubsection}{\numberline {14.2.3}初始计量}{137}{subsubsection.14.2.3}%
-\contentsline {paragraph}{租赁负债}{137}{paragraph*.144}%
-\contentsline {paragraph}{使用权资产}{137}{paragraph*.145}%
-\contentsline {subsubsection}{\numberline {14.2.4}后续计量}{138}{subsubsection.14.2.4}%
-\contentsline {paragraph}{租赁负债}{138}{paragraph*.146}%
-\contentsline {paragraph}{使用权资产}{140}{paragraph*.147}%
-\contentsline {subsubsection}{\numberline {14.2.5}短期租赁和低价值资产租赁}{141}{subsubsection.14.2.5}%
-\contentsline {subsection}{\numberline {14.3}出租人会计处理}{142}{subsection.14.3}%
-\contentsline {subsubsection}{\numberline {14.3.1}出租人的租赁分类}{142}{subsubsection.14.3.1}%
-\contentsline {subsubsection}{\numberline {14.3.2}出租人对融资租赁的会计处理}{143}{subsubsection.14.3.2}%
-\contentsline {paragraph}{初始计量}{143}{paragraph*.148}%
-\contentsline {paragraph}{后续计量}{144}{paragraph*.149}%
-\contentsline {paragraph}{融资租赁变更的会计处理}{144}{paragraph*.150}%
-\contentsline {subsubsection}{\numberline {14.3.3}出租人对经营租赁的会计处理}{145}{subsubsection.14.3.3}%
-\contentsline {paragraph}{租金的处理}{145}{paragraph*.151}%
-\contentsline {paragraph}{出租人对经营租赁提供激励措施}{145}{paragraph*.152}%
-\contentsline {paragraph}{初始直接费用}{145}{paragraph*.153}%
-\contentsline {paragraph}{折旧和减值}{145}{paragraph*.154}%
-\contentsline {paragraph}{可变租赁付款额}{145}{paragraph*.155}%
-\contentsline {paragraph}{经营租赁的变更}{145}{paragraph*.156}%
-\contentsline {subsection}{\numberline {14.4}特殊租赁业务的会计处理}{146}{subsection.14.4}%
-\contentsline {subsubsection}{\numberline {14.4.1}转租赁}{146}{subsubsection.14.4.1}%
-\contentsline {subsubsection}{\numberline {14.4.2}生产商或经销商出租人的融资租赁会计处理}{146}{subsubsection.14.4.2}%
-\contentsline {subsubsection}{\numberline {14.4.3}售后租回交易的会计处理}{147}{subsubsection.14.4.3}%
-\contentsline {paragraph}{不属于销售}{147}{paragraph*.157}%
-\contentsline {paragraph}{属于销售}{148}{paragraph*.158}%
-\contentsline {section}{\numberline {15}持有待售的非流动资产、处置组和终止经营}{149}{section.15}%
-\contentsline {subsection}{\numberline {15.1}持有待售的非流动资产和处置组}{149}{subsection.15.1}%
-\contentsline {subsubsection}{\numberline {15.1.1}持有待售类别的分类}{149}{subsubsection.15.1.1}%
-\contentsline {paragraph}{基本要求}{149}{paragraph*.159}%
-\contentsline {paragraph}{某些特定持有待售类别分类的具体应用}{150}{paragraph*.160}%
-\contentsline {subsubsection}{\numberline {15.1.2}持有待售类别的计量}{151}{subsubsection.15.1.2}%
-\contentsline {paragraph}{划分前}{151}{paragraph*.161}%
-\contentsline {paragraph}{划分时}{151}{paragraph*.162}%
-\contentsline {paragraph}{划分后}{152}{paragraph*.163}%
-\contentsline {paragraph}{不再划分}{153}{paragraph*.164}%
-\contentsline {paragraph}{终止确认}{153}{paragraph*.165}%
-\contentsline {subsubsection}{\numberline {15.1.3}持有待售类别的列报}{153}{subsubsection.15.1.3}%
-\contentsline {subsection}{\numberline {15.2}终止经营}{153}{subsection.15.2}%
-\contentsline {subsubsection}{\numberline {15.2.1}终止经营的定义}{154}{subsubsection.15.2.1}%
-\contentsline {subsubsection}{\numberline {15.2.2}终止经营的列报}{154}{subsubsection.15.2.2}%
-\contentsline {subsubsection}{\numberline {15.2.3}特殊事项的列报}{155}{subsubsection.15.2.3}%
-\contentsline {section}{\numberline {16}所有者权益}{157}{section.16}%
-\contentsline {subsection}{\numberline {16.1}实收资本}{157}{subsection.16.1}%
-\contentsline {subsubsection}{\numberline {16.1.1}实收资本概述}{157}{subsubsection.16.1.1}%
-\contentsline {subsubsection}{\numberline {16.1.2}实收资本增减变动的会计处理}{157}{subsubsection.16.1.2}%
-\contentsline {paragraph}{实收资本增加}{157}{paragraph*.166}%
-\contentsline {paragraph}{实收资本减少}{158}{paragraph*.167}%
-\contentsline {subsection}{\numberline {16.2}其他权益工具}{158}{subsection.16.2}%
-\contentsline {subsubsection}{\numberline {16.2.1}其他权益工具会计处理的基本原则}{158}{subsubsection.16.2.1}%
-\contentsline {subsubsection}{\numberline {16.2.2}科目设置}{158}{subsubsection.16.2.2}%
-\contentsline {subsubsection}{\numberline {16.2.3}主要账务处理}{159}{subsubsection.16.2.3}%
-\contentsline {subsection}{\numberline {16.3}资本公积、其他综合收益及留存收益}{159}{subsection.16.3}%
-\contentsline {subsubsection}{\numberline {16.3.1}资本公积确认和计量}{159}{subsubsection.16.3.1}%
-\contentsline {paragraph}{资本溢价或股本溢价的会计处理}{159}{paragraph*.168}%
-\contentsline {paragraph}{其他资本公积的会计处理}{159}{paragraph*.169}%
-\contentsline {paragraph}{资本公积转增资本的会计处理}{159}{paragraph*.170}%
-\contentsline {subsubsection}{\numberline {16.3.2}其他综合收益的确认与计量基础}{159}{subsubsection.16.3.2}%
-\contentsline {subsubsection}{\numberline {16.3.3}盈余公积}{160}{subsubsection.16.3.3}%
-\contentsline {subsubsection}{\numberline {16.3.4}未分配利润}{160}{subsubsection.16.3.4}%
-\contentsline {section}{\numberline {17}收入、费用和利润}{161}{section.17}%
-\contentsline {subsection}{\numberline {17.1}收入}{161}{subsection.17.1}%
-\contentsline {subsubsection}{\numberline {17.1.1}收入的定义及分类}{161}{subsubsection.17.1.1}%
-\contentsline {subsubsection}{\numberline {17.1.2}收入的确认和计量}{161}{subsubsection.17.1.2}%
-\contentsline {paragraph}{识别与客户订立的合同}{162}{paragraph*.171}%
-\contentsline {paragraph}{识别合同中的单项履约义务}{163}{paragraph*.172}%
-\contentsline {paragraph}{确定交易价格}{164}{paragraph*.173}%
-\contentsline {paragraph}{将交易价格分摊至各单项履行义务}{166}{paragraph*.174}%
-\contentsline {paragraph}{履行各单项义务时确认收入}{167}{paragraph*.175}%
-\contentsline {subsubsection}{\numberline {17.1.3}关于合同成本}{170}{subsubsection.17.1.3}%
-\contentsline {paragraph}{合同履约成本}{170}{paragraph*.176}%
-\contentsline {paragraph}{合同取得成本}{170}{paragraph*.177}%
-\contentsline {paragraph}{合同履约成本和合同取得成本的摊销和减值}{171}{paragraph*.178}%
-\contentsline {subsubsection}{\numberline {17.1.4}关于特定交易的会计处理}{171}{subsubsection.17.1.4}%
-\contentsline {paragraph}{附有销售退回条款的销售}{172}{paragraph*.179}%
-\contentsline {paragraph}{附有质量保证条款的销售}{172}{paragraph*.180}%
-\contentsline {paragraph}{主要责任人和代理人}{173}{paragraph*.181}%
-\contentsline {paragraph}{附有客户额外购买选择权的销售}{173}{paragraph*.182}%
-\contentsline {paragraph}{授予知识产权许可}{175}{paragraph*.183}%
-\contentsline {paragraph}{售后回购}{176}{paragraph*.184}%
-\contentsline {paragraph}{客户未行使权利}{177}{paragraph*.185}%
-\contentsline {paragraph}{无须退回初始费用}{177}{paragraph*.186}%
-\contentsline {subsubsection}{\numberline {17.1.5}社会资本方对政府和社会资本合作（PPP）项目合同的会计处理}{177}{subsubsection.17.1.5}%
-\contentsline {paragraph}{无形资产模式}{178}{paragraph*.187}%
-\contentsline {paragraph}{金融资产模式}{179}{paragraph*.188}%
-\contentsline {paragraph}{混合模式}{179}{paragraph*.189}%
-\contentsline {subsection}{\numberline {17.2}费用}{179}{subsection.17.2}%
-\contentsline {subsubsection}{\numberline {17.2.1}费用的确认}{179}{subsubsection.17.2.1}%
-\contentsline {subsubsection}{\numberline {17.2.2}期间费用}{179}{subsubsection.17.2.2}%
-\contentsline {paragraph}{管理费用}{179}{paragraph*.190}%
-\contentsline {paragraph}{销售费用}{179}{paragraph*.191}%
-\contentsline {paragraph}{研发费用}{180}{paragraph*.192}%
-\contentsline {paragraph}{财务费用}{180}{paragraph*.193}%
-\contentsline {subsection}{\numberline {17.3}利润}{180}{subsection.17.3}%
-\contentsline {subsubsection}{\numberline {17.3.1}利润的构成}{180}{subsubsection.17.3.1}%
-\contentsline {subsubsection}{\numberline {17.3.2}营业外收支的会计处理}{180}{subsubsection.17.3.2}%
-\contentsline {subsubsection}{\numberline {17.3.3}本年利润的会计处理}{181}{subsubsection.17.3.3}%
-\contentsline {subsubsection}{\numberline {17.3.4}综合收益总额}{181}{subsubsection.17.3.4}%
-\contentsline {section}{\numberline {18}政府补助}{182}{section.18}%
-\contentsline {subsection}{\numberline {18.1}政府补助的概述}{182}{subsection.18.1}%
-\contentsline {subsubsection}{\numberline {18.1.1}政府补助的定义}{182}{subsubsection.18.1.1}%
-\contentsline {subsubsection}{\numberline {18.1.2}政府补助的特征}{182}{subsubsection.18.1.2}%
-\contentsline {subsubsection}{\numberline {18.1.3}政府补助的分类}{182}{subsubsection.18.1.3}%
-\contentsline {subsection}{\numberline {18.2}政府补助的会计处理}{183}{subsection.18.2}%
-\contentsline {subsubsection}{\numberline {18.2.1}会计处理方法}{183}{subsubsection.18.2.1}%
-\contentsline {subsubsection}{\numberline {18.2.2}与资产相关的政府补助}{184}{subsubsection.18.2.2}%
-\contentsline {paragraph}{总额法}{184}{paragraph*.194}%
-\contentsline {paragraph}{净额法}{184}{paragraph*.195}%
-\contentsline {paragraph}{特殊情况}{184}{paragraph*.196}%
-\contentsline {subsubsection}{\numberline {18.2.3}与收益相关的政府补助}{184}{subsubsection.18.2.3}%
-\contentsline {subsubsection}{\numberline {18.2.4}政府补助的退回}{185}{subsubsection.18.2.4}%
-\contentsline {subsubsection}{\numberline {18.2.5}特定业务的会计处理}{185}{subsubsection.18.2.5}%
-\contentsline {paragraph}{综合性项目政府补助}{185}{paragraph*.197}%
-\contentsline {paragraph}{政策性优惠贷款贴息}{185}{paragraph*.198}%
-\contentsline {subsection}{\numberline {18.3}政府补助的列报}{186}{subsection.18.3}%
-\contentsline {subsubsection}{\numberline {18.3.1}政府补助在利润表上的列示}{186}{subsubsection.18.3.1}%
-\contentsline {subsubsection}{\numberline {18.3.2}政府补助的附注披露}{186}{subsubsection.18.3.2}%
-\contentsline {section}{\numberline {19}所得税}{187}{section.19}%
-\contentsline {subsection}{\numberline {19.1}所得税核算的基本原理}{187}{subsection.19.1}%
-\contentsline {subsubsection}{\numberline {19.1.1}资产负债表债务法}{187}{subsubsection.19.1.1}%
-\contentsline {subsubsection}{\numberline {19.1.2}所得税会计的一般程序}{187}{subsubsection.19.1.2}%
-\contentsline {subsection}{\numberline {19.2}资产、负债的计税基础}{187}{subsection.19.2}%
-\contentsline {subsubsection}{\numberline {19.2.1}资产的计税基础}{187}{subsubsection.19.2.1}%
-\contentsline {paragraph}{固定资产}{188}{paragraph*.199}%
-\contentsline {paragraph}{无形资产}{188}{paragraph*.200}%
-\contentsline {paragraph}{以公允价值计量的金融资产}{188}{paragraph*.201}%
-\contentsline {paragraph}{其他资产}{188}{paragraph*.202}%
-\contentsline {subsubsection}{\numberline {19.2.2}负债的计税基础}{189}{subsubsection.19.2.2}%
-\contentsline {paragraph}{预计负债}{189}{paragraph*.203}%
-\contentsline {paragraph}{合同负债}{189}{paragraph*.204}%
-\contentsline {paragraph}{应付职工薪酬}{189}{paragraph*.205}%
-\contentsline {paragraph}{递延收益}{190}{paragraph*.206}%
-\contentsline {paragraph}{以公允价值计量且其变动计入当期损益的金融负债}{190}{paragraph*.207}%
-\contentsline {paragraph}{其他负债，如罚款、滞纳金}{190}{paragraph*.208}%
-\contentsline {subsubsection}{\numberline {19.2.3}特殊交易或事项中产生资产、负债计税基础的确定}{190}{subsubsection.19.2.3}%
-\contentsline {subsection}{\numberline {19.3}暂时性差异}{190}{subsection.19.3}%
-\contentsline {subsubsection}{\numberline {19.3.1}暂时性差异的含义和种类}{190}{subsubsection.19.3.1}%
-\contentsline {subsubsection}{\numberline {19.3.2}特殊项目产生的暂时性差异}{191}{subsubsection.19.3.2}%
-\contentsline {subsection}{\numberline {19.4}递延所得税资产及负债的确认和计量}{191}{subsection.19.4}%
-\contentsline {subsubsection}{\numberline {19.4.1}递延所得税负债的确认和计量}{191}{subsubsection.19.4.1}%
-\contentsline {paragraph}{递延所得税负债的确认}{191}{paragraph*.209}%
-\contentsline {paragraph}{递延所得税负债的计量}{193}{paragraph*.210}%
-\contentsline {subsubsection}{\numberline {19.4.2}递延所得税资产的确认和计量}{193}{subsubsection.19.4.2}%
-\contentsline {paragraph}{递延所得税资产的确认}{193}{paragraph*.211}%
-\contentsline {paragraph}{递延所得税资产的计量}{194}{paragraph*.212}%
-\contentsline {subsubsection}{\numberline {19.4.3}特殊交易或事项中涉及递延所得税的确认和计量}{194}{subsubsection.19.4.3}%
-\contentsline {paragraph}{直接计入所有者权益的交易或事项相关的所得税}{194}{paragraph*.213}%
-\contentsline {paragraph}{与企业合并相关的递延所得税}{194}{paragraph*.214}%
-\contentsline {paragraph}{与股份支付相关的当期递延所得税}{195}{paragraph*.215}%
-\contentsline {subsubsection}{\numberline {19.4.4}适用税率变化对已确认递延所得税}{195}{subsubsection.19.4.4}%
-\contentsline {subsubsection}{\numberline {19.4.5}资产和递延所得税负债的影响}{195}{subsubsection.19.4.5}%
-\contentsline {subsection}{\numberline {19.5}所得税费用的确认和计量}{195}{subsection.19.5}%
-\contentsline {subsubsection}{\numberline {19.5.1}当期所得税}{196}{subsubsection.19.5.1}%
-\contentsline {subsubsection}{\numberline {19.5.2}递延所得税}{196}{subsubsection.19.5.2}%
-\contentsline {subsubsection}{\numberline {19.5.3}所得税费用}{196}{subsubsection.19.5.3}%
-\contentsline {subsection}{\numberline {19.6}所得税的列报}{196}{subsection.19.6}%
-\contentsline {subsubsection}{\numberline {19.6.1}列报的基本原则}{196}{subsubsection.19.6.1}%
-\contentsline {subsubsection}{\numberline {19.6.2}所得税费用（收益）与会计利润关系的说明}{197}{subsubsection.19.6.2}%
-\contentsline {section}{\numberline {20}非货币性资产交换}{198}{section.20}%
-\contentsline {subsection}{\numberline {20.1}非货币性资产交换的概念}{198}{subsection.20.1}%
-\contentsline {subsubsection}{\numberline {20.1.1}非货币性资产交换的相关概念}{198}{subsubsection.20.1.1}%
-\contentsline {subsubsection}{\numberline {20.1.2}涉及的特殊交易和事项的处理原则}{198}{subsubsection.20.1.2}%
-\contentsline {subsection}{\numberline {20.2}非货币性资产交换的确认和计量}{199}{subsection.20.2}%
-\contentsline {subsubsection}{\numberline {20.2.1}非货币性资产交换的确认原则}{199}{subsubsection.20.2.1}%
-\contentsline {subsubsection}{\numberline {20.2.2}非货币性资产交换的计量原则}{200}{subsubsection.20.2.2}%
-\contentsline {paragraph}{以公允价值为基础计量}{200}{paragraph*.216}%
-\contentsline {paragraph}{以账面价值为基础计量}{200}{paragraph*.217}%
-\contentsline {subsubsection}{\numberline {20.2.3}商业实质的判断}{200}{subsubsection.20.2.3}%
-\contentsline {subsection}{\numberline {20.3}非货币性资产交换的会计处理}{201}{subsection.20.3}%
-\contentsline {subsubsection}{\numberline {20.3.1}以公允价值为基础计量的会计处理}{201}{subsubsection.20.3.1}%
-\contentsline {paragraph}{不涉及补价的情况}{201}{paragraph*.218}%
-\contentsline {paragraph}{涉及补价的情况}{201}{paragraph*.219}%
-\contentsline {subsubsection}{\numberline {20.3.2}以账面价值为基础计量的会计处理}{202}{subsubsection.20.3.2}%
-\contentsline {paragraph}{不涉及补价}{202}{paragraph*.220}%
-\contentsline {paragraph}{涉及补价}{202}{paragraph*.221}%
-\contentsline {subsubsection}{\numberline {20.3.3}涉及多项非货币性资产交换的会计处理}{202}{subsubsection.20.3.3}%
-\contentsline {paragraph}{以公允价值为基础计量的情况}{202}{paragraph*.222}%
-\contentsline {paragraph}{以账面价值为基础计量的情况}{203}{paragraph*.223}%
-\contentsline {section}{\numberline {21}债务重组}{204}{section.21}%
-\contentsline {subsection}{\numberline {21.1}债务重组的定义及方法}{204}{subsection.21.1}%
-\contentsline {subsubsection}{\numberline {21.1.1}债务重组的定义}{204}{subsubsection.21.1.1}%
-\contentsline {subsubsection}{\numberline {21.1.2}债务重组的方式}{204}{subsubsection.21.1.2}%
-\contentsline {subsection}{\numberline {21.2}债务重组的会计处理}{205}{subsection.21.2}%
-\contentsline {subsubsection}{\numberline {21.2.1}债权和债务的终止确认}{205}{subsubsection.21.2.1}%
-\contentsline {paragraph}{以资产清偿债务或将债务转为权益工具}{205}{paragraph*.224}%
-\contentsline {paragraph}{修改其他条款（调整债务本金、改变债务利息、变更还款期限等）}{205}{paragraph*.225}%
-\contentsline {paragraph}{组合方式}{206}{paragraph*.226}%
-\contentsline {subsubsection}{\numberline {21.2.2}债权人和债务人的具体账务处理原则}{206}{subsubsection.21.2.2}%
-\contentsline {paragraph}{以资产清偿债务或将债务转为权益工具}{206}{paragraph*.227}%
-\contentsline {paragraph}{债权人受让金融资产/债务人以金融资产清偿债务}{206}{paragraph*.228}%
-\contentsline {paragraph}{债权人受让非金融资产/债务人以非金融资产清偿债务}{208}{paragraph*.229}%
-\contentsline {paragraph}{受让多项资产的特殊情况}{208}{paragraph*.230}%
-\contentsline {paragraph}{债权人受让处置组/债务人以处置组情场债务}{209}{paragraph*.231}%
-\contentsline {paragraph}{修改其他条款}{210}{paragraph*.232}%
-\contentsline {paragraph}{组合方式}{211}{paragraph*.233}%
-\contentsline {subsection}{\numberline {21.3}债务重组的相关披露}{211}{subsection.21.3}%
-\contentsline {subsubsection}{\numberline {21.3.1}信息披露的基本要求}{211}{subsubsection.21.3.1}%
-\contentsline {subsubsection}{\numberline {21.3.2}应当披露的信息}{212}{subsubsection.21.3.2}%
-\contentsline {section}{\numberline {22}外币折算}{213}{section.22}%
-\contentsline {subsection}{\numberline {22.1}记账本位币的确定}{213}{subsection.22.1}%
-\contentsline {subsubsection}{\numberline {22.1.1}记账本位币的确定}{213}{subsubsection.22.1.1}%
-\contentsline {subsubsection}{\numberline {22.1.2}境外经营记账本位币的确定}{213}{subsubsection.22.1.2}%
-\contentsline {subsubsection}{\numberline {22.1.3}记账本位币变更的会计处理}{214}{subsubsection.22.1.3}%
-\contentsline {subsection}{\numberline {22.2}外币交易的会计处理}{214}{subsection.22.2}%
-\contentsline {subsubsection}{\numberline {22.2.1}汇率}{214}{subsubsection.22.2.1}%
-\contentsline {subsubsection}{\numberline {22.2.2}外币交易的记账方法}{214}{subsubsection.22.2.2}%
-\contentsline {subsubsection}{\numberline {22.2.3}外币交易的会计处理}{215}{subsubsection.22.2.3}%
-\contentsline {subsection}{\numberline {22.3}外币财务报表折算}{216}{subsection.22.3}%
-\contentsline {subsubsection}{\numberline {22.3.1}境外经营财务报表的折算}{216}{subsubsection.22.3.1}%
-\contentsline {subsubsection}{\numberline {22.3.2}境外经营的处置}{218}{subsubsection.22.3.2}%
-\contentsline {section}{\numberline {23}财务报告}{219}{section.23}%
-\contentsline {subsection}{\numberline {23.1}财务报表概述}{219}{subsection.23.1}%
-\contentsline {subsubsection}{\numberline {23.1.1}财务报表的定义和构成}{219}{subsubsection.23.1.1}%
-\contentsline {subsubsection}{\numberline {23.1.2}财务报表列报的基本要求}{219}{subsubsection.23.1.2}%
-\contentsline {subsection}{\numberline {23.2}资产负债表}{220}{subsection.23.2}%
-\contentsline {subsubsection}{\numberline {23.2.1}资产负债表的内容及结构}{220}{subsubsection.23.2.1}%
-\contentsline {subsubsection}{\numberline {23.2.2}资产和负债按流动性列报}{220}{subsubsection.23.2.2}%
-\contentsline {paragraph}{资产的流动性划分}{220}{paragraph*.234}%
-\contentsline {paragraph}{负债的流动性划分}{221}{paragraph*.235}%
-\contentsline {subsubsection}{\numberline {23.2.3}资产负债表的填列方法}{222}{subsubsection.23.2.3}%
-\contentsline {paragraph}{资产负债表期末余额栏的填列方法}{222}{paragraph*.236}%
-\contentsline {subsection}{\numberline {23.3}利润表}{226}{subsection.23.3}%
-\contentsline {subsubsection}{\numberline {23.3.1}利润表的内容及结构}{226}{subsubsection.23.3.1}%
-\contentsline {subsubsection}{\numberline {23.3.2}利润表的填列方法}{226}{subsubsection.23.3.2}%
-\contentsline {subsection}{\numberline {23.4}现金流量表}{226}{subsection.23.4}%
-\contentsline {subsubsection}{\numberline {23.4.1}现金流量表的内容及结构}{226}{subsubsection.23.4.1}%
-\contentsline {subsubsection}{\numberline {23.4.2}现金流量表的填列方法}{227}{subsubsection.23.4.2}%
-\contentsline {subsubsection}{\numberline {23.4.3}现金流量表的编制方法及程序}{228}{subsubsection.23.4.3}%
-\contentsline {subsubsection}{\numberline {23.4.4}现金流量表编制示例}{228}{subsubsection.23.4.4}%
-\contentsline {subsection}{\numberline {23.5}所有者权益变动表}{228}{subsection.23.5}%
-\contentsline {subsubsection}{\numberline {23.5.1}所有者权益变动表的内容及结构}{228}{subsubsection.23.5.1}%
-\contentsline {subsubsection}{\numberline {23.5.2}所有者权益变动表的填列方法}{228}{subsubsection.23.5.2}%
-\contentsline {subsection}{\numberline {23.6}财务报表附注披露}{228}{subsection.23.6}%
-\contentsline {subsubsection}{\numberline {23.6.1}附注披露的总体要求}{228}{subsubsection.23.6.1}%
-\contentsline {subsubsection}{\numberline {23.6.2}附注的主要内容}{229}{subsubsection.23.6.2}%
-\contentsline {subsubsection}{\numberline {23.6.3}分部报告}{229}{subsubsection.23.6.3}%
-\contentsline {subsubsection}{\numberline {23.6.4}关联方披露}{232}{subsubsection.23.6.4}%
-\contentsline {subsection}{\numberline {23.7}中期财务报表}{233}{subsection.23.7}%
-\contentsline {subsubsection}{\numberline {23.7.1}中期财务报告的定义及其构成}{233}{subsubsection.23.7.1}%
-\contentsline {subsubsection}{\numberline {23.7.2}中期财务报告的编制要求}{233}{subsubsection.23.7.2}%
-\contentsline {subsubsection}{\numberline {23.7.3}中期财务报告附注的编制要求}{235}{subsubsection.23.7.3}%
-\contentsline {section}{\numberline {24}会计政策、会计估计及其变更和差错更正}{236}{section.24}%
-\contentsline {subsection}{\numberline {24.1}会计政策及其变更的概述}{236}{subsection.24.1}%
-\contentsline {subsubsection}{\numberline {24.1.1}会计政策的概述}{236}{subsubsection.24.1.1}%
-\contentsline {subsubsection}{\numberline {24.1.2}会计政策变更的概述}{237}{subsubsection.24.1.2}%
-\contentsline {subsection}{\numberline {24.2}会计估计及其变更的概述}{237}{subsection.24.2}%
-\contentsline {subsubsection}{\numberline {24.2.1}会计估计的概述}{237}{subsubsection.24.2.1}%
-\contentsline {subsubsection}{\numberline {24.2.2}会计估计变更的概述}{238}{subsubsection.24.2.2}%
-\contentsline {subsection}{\numberline {24.3}会计政策与会计估计及其变更的划分}{238}{subsection.24.3}%
-\contentsline {subsection}{\numberline {24.4}会计政策和会计估计变更的会计处理}{238}{subsection.24.4}%
-\contentsline {subsubsection}{\numberline {24.4.1}会计政策变更的会计处理}{238}{subsubsection.24.4.1}%
-\contentsline {paragraph}{追溯调整法}{239}{paragraph*.237}%
-\contentsline {paragraph}{未来适用法}{239}{paragraph*.238}%
-\contentsline {paragraph}{处理方法的选择}{239}{paragraph*.239}%
-\contentsline {paragraph}{会计政策变更的披露}{240}{paragraph*.240}%
-\contentsline {subsubsection}{\numberline {24.4.2}会计估计变更的会计处理}{240}{subsubsection.24.4.2}%
-\contentsline {subsection}{\numberline {24.5}前期差错及其更正}{240}{subsection.24.5}%
-\contentsline {subsubsection}{\numberline {24.5.1}前期差错概述}{240}{subsubsection.24.5.1}%
-\contentsline {subsubsection}{\numberline {24.5.2}前期差错更正的会计处理}{240}{subsubsection.24.5.2}%
-\contentsline {subsubsection}{\numberline {24.5.3}前期差错更正的披露}{241}{subsubsection.24.5.3}%
-\contentsline {section}{\numberline {25}资产负债表日后事项}{242}{section.25}%
-\contentsline {subsection}{\numberline {25.1}资产负债表日后事项概述}{242}{subsection.25.1}%
-\contentsline {subsubsection}{\numberline {25.1.1}资产负债表日后事项的定义}{242}{subsubsection.25.1.1}%
-\contentsline {subsubsection}{\numberline {25.1.2}资产负债表日后事项涵盖的期间}{242}{subsubsection.25.1.2}%
-\contentsline {subsubsection}{\numberline {25.1.3}资产负债表日后事项的内容}{242}{subsubsection.25.1.3}%
-\contentsline {subsection}{\numberline {25.2}调整事项的会计处理}{243}{subsection.25.2}%
-\contentsline {subsubsection}{\numberline {25.2.1}调整事项的处理原则}{243}{subsubsection.25.2.1}%
-\contentsline {subsubsection}{\numberline {25.2.2}资产负债表日后调整事项的具体会计处理方法}{244}{subsubsection.25.2.2}%
-\contentsline {subsection}{\numberline {25.3}非调整事项的会计处理}{244}{subsection.25.3}%
-\contentsline {subsubsection}{\numberline {25.3.1}非调整事项的处理原则}{244}{subsubsection.25.3.1}%
-\contentsline {subsubsection}{\numberline {25.3.2}非调整事项的具体会计处理办法}{244}{subsubsection.25.3.2}%
-\contentsline {section}{\numberline {26}企业合并}{246}{section.26}%
-\contentsline {subsection}{\numberline {26.1}企业合并概述}{246}{subsection.26.1}%
-\contentsline {subsubsection}{\numberline {26.1.1}企业合并的界定}{246}{subsubsection.26.1.1}%
-\contentsline {subsubsection}{\numberline {26.1.2}企业合并的方式}{247}{subsubsection.26.1.2}%
-\contentsline {subsubsection}{\numberline {26.1.3}企业合并类型的划分}{247}{subsubsection.26.1.3}%
-\contentsline {subsection}{\numberline {26.2}企业合并的会计处理}{247}{subsection.26.2}%
-\contentsline {subsubsection}{\numberline {26.2.1}同一控制下的企业合并的处理}{247}{subsubsection.26.2.1}%
-\contentsline {subsubsection}{\numberline {26.2.2}非同一控制下的企业合并的处理}{248}{subsubsection.26.2.2}%
-\contentsline {subsubsection}{\numberline {26.2.3}同一控制下企业合并涉及的或有对价}{248}{subsubsection.26.2.3}%
-\contentsline {subsubsection}{\numberline {26.2.4}非同一控制下企业合并涉及的或有对价}{248}{subsubsection.26.2.4}%
-\contentsline {subsubsection}{\numberline {26.2.5}反向购买的处理}{249}{subsubsection.26.2.5}%
-\contentsline {subsubsection}{\numberline {26.2.6}被购买方的会计处理}{250}{subsubsection.26.2.6}%
-\contentsline {section}{\numberline {27}合并财务报表}{251}{section.27}%
-\contentsline {subsection}{\numberline {27.1}合并范围的确定}{251}{subsection.27.1}%
-\contentsline {subsubsection}{\numberline {27.1.1}以控制为基础，确定合并范围}{251}{subsubsection.27.1.1}%
-\contentsline {subsubsection}{\numberline {27.1.2}纳入合并范围的特殊情况}{254}{subsubsection.27.1.2}%
-\contentsline {subsubsection}{\numberline {27.1.3}合并范围的豁免}{254}{subsubsection.27.1.3}%
-\contentsline {subsubsection}{\numberline {27.1.4}控制的持续评估}{255}{subsubsection.27.1.4}%
-\contentsline {subsection}{\numberline {27.2}合并财务报表编制原则、前期准备事项及程序}{255}{subsection.27.2}%
-\contentsline {subsubsection}{\numberline {27.2.1}合并财务报表的编制原则}{255}{subsubsection.27.2.1}%
-\contentsline {subsubsection}{\numberline {27.2.2}合并财务报表的构成}{255}{subsubsection.27.2.2}%
-\contentsline {subsubsection}{\numberline {27.2.3}合并财务报表编制的前期准备事项}{256}{subsubsection.27.2.3}%
-\contentsline {subsubsection}{\numberline {27.2.4}合并财务报表的编制程序}{256}{subsubsection.27.2.4}%
-\contentsline {subsubsection}{\numberline {27.2.5}编制合并财务报表需要调整抵消的科目}{256}{subsubsection.27.2.5}%
-\contentsline {subsubsection}{\numberline {27.2.6}合并财务报表的格式}{256}{subsubsection.27.2.6}%
-\contentsline {subsection}{\numberline {27.3}同一控制下长期股权投资与所有者权益的合并处理}{257}{subsection.27.3}%
-\contentsline {subsubsection}{\numberline {27.3.1}同一控制下取得子公司合并日合并财务报表的编制}{257}{subsubsection.27.3.1}%
-\contentsline {subsubsection}{\numberline {27.3.2}直接投资及同一控制下取得子公司合并日后合并财务报表的编制}{258}{subsubsection.27.3.2}%
-\contentsline {subsection}{\numberline {27.4}非同一控制下长期股权投资与所有者权益的合并处理}{258}{subsection.27.4}%
-\contentsline {subsubsection}{\numberline {27.4.1}非同一控制下取得子公司购买日合并财务报表的编制}{258}{subsubsection.27.4.1}%
-\contentsline {subsubsection}{\numberline {27.4.2}非同一控制下取得子公司购买日后合并财务报表的编制}{259}{subsubsection.27.4.2}%
-\contentsline {subsection}{\numberline {27.5}内部商品交易的合并处理}{260}{subsection.27.5}%
-\contentsline {subsubsection}{\numberline {27.5.1}内部销售收入和内部销售成本的抵消处理}{260}{subsubsection.27.5.1}%
-\contentsline {paragraph}{购买企业内部购进的商品当期全部实现销售时的抵消处理}{260}{paragraph*.241}%
-\contentsline {paragraph}{购买企业内部购进的商品未实现对外销售时的抵消处理}{260}{paragraph*.242}%
-\contentsline {paragraph}{购买企业内部购进的商品作为固定资产使用时的抵消处理}{260}{paragraph*.243}%
-\contentsline {paragraph}{集团内部商品购销交易抵消土地增值税和增值税的处理}{260}{paragraph*.244}%
-\contentsline {subsubsection}{\numberline {27.5.2}连续编制合并财务报表时内部销售商品的合并处理}{260}{subsubsection.27.5.2}%
-\contentsline {subsubsection}{\numberline {27.5.3}存货跌价准备的合并处理}{261}{subsubsection.27.5.3}%
-\contentsline {subsection}{\numberline {27.6}内部债券债务的合并处理}{261}{subsection.27.6}%
-\contentsline {subsubsection}{\numberline {27.6.1}内部债券债务抵消概述}{261}{subsubsection.27.6.1}%
-\contentsline {subsubsection}{\numberline {27.6.2}内部应收应付款项及其坏账准备的合并处理}{262}{subsubsection.27.6.2}%
-\contentsline {subsubsection}{\numberline {27.6.3}连续编制合并财务报表时内部应收应付款项及其坏账准备的合并处理}{262}{subsubsection.27.6.3}%
-\contentsline {subsection}{\numberline {27.7}内部固定资产交易的合并处理}{263}{subsection.27.7}%
-\contentsline {subsubsection}{\numberline {27.7.1}内部固定资产交易概述}{263}{subsubsection.27.7.1}%
-\contentsline {subsubsection}{\numberline {27.7.2}内部固定资产交易当期的合并处理}{263}{subsubsection.27.7.2}%
-\contentsline {subsubsection}{\numberline {27.7.3}内部交易固定资产取得后处置前期间的合并处理}{263}{subsubsection.27.7.3}%
-\contentsline {subsubsection}{\numberline {27.7.4}内部交易固定资产清理期间的合并处理}{263}{subsubsection.27.7.4}%
-\contentsline {subsection}{\numberline {27.8}内部无形资产交易的合并处理}{263}{subsection.27.8}%
-\contentsline {subsubsection}{\numberline {27.8.1}内部无形资产交易当期的合并处理}{263}{subsubsection.27.8.1}%
-\contentsline {subsubsection}{\numberline {27.8.2}内部交易无形资产持有期间的合并处理}{263}{subsubsection.27.8.2}%
-\contentsline {subsubsection}{\numberline {27.8.3}内部无形资产交易摊销完毕的期间的合并处理}{263}{subsubsection.27.8.3}%
-\contentsline {subsection}{\numberline {27.9}特殊交易在合并财务报表中的会计处理}{263}{subsection.27.9}%
-\contentsline {subsubsection}{\numberline {27.9.1}追加投资的会计处理}{263}{subsubsection.27.9.1}%
-\contentsline {subsubsection}{\numberline {27.9.2}处置对子公司投资的会计处理}{263}{subsubsection.27.9.2}%
-\contentsline {subsubsection}{\numberline {27.9.3}因子公司少数股东增资导致母公司股权稀释的会计处理}{263}{subsubsection.27.9.3}%
-\contentsline {subsubsection}{\numberline {27.9.4}交叉持股的合并处理}{263}{subsubsection.27.9.4}%
-\contentsline {subsubsection}{\numberline {27.9.5}逆流交易的合并处理}{263}{subsubsection.27.9.5}%
-\contentsline {subsubsection}{\numberline {27.9.6}其他特殊交易}{263}{subsubsection.27.9.6}%
-\contentsline {subsection}{\numberline {27.10}所得税会计相关的合并处理}{263}{subsection.27.10}%
-\contentsline {subsection}{\numberline {27.11}合并现金流量表的编制}{263}{subsection.27.11}%
-\contentsline {subsubsection}{\numberline {27.11.1}合并现金流量表概述}{263}{subsubsection.27.11.1}%
-\contentsline {subsubsection}{\numberline {27.11.2}编制合并现金流量表需要抵消的项目}{263}{subsubsection.27.11.2}%
-\contentsline {section}{\numberline {28}每股收益}{264}{section.28}%
-\contentsline {subsection}{\numberline {28.1}每股收益的基本概念}{264}{subsection.28.1}%
-\contentsline {subsection}{\numberline {28.2}基本每股收益}{264}{subsection.28.2}%
-\contentsline {subsubsection}{\numberline {28.2.1}分子的确定}{264}{subsubsection.28.2.1}%
-\contentsline {subsubsection}{\numberline {28.2.2}分母的确定}{264}{subsubsection.28.2.2}%
-\contentsline {subsection}{\numberline {28.3}稀释每股收益}{265}{subsection.28.3}%
-\contentsline {subsubsection}{\numberline {28.3.1}基本计算原则}{265}{subsubsection.28.3.1}%
-\contentsline {subsubsection}{\numberline {28.3.2}可转换公司债券}{265}{subsubsection.28.3.2}%
-\contentsline {subsubsection}{\numberline {28.3.3}认股权证、股份期权}{266}{subsubsection.28.3.3}%
-\contentsline {subsubsection}{\numberline {28.3.4}限制性股票}{266}{subsubsection.28.3.4}%
-\contentsline {subsubsection}{\numberline {28.3.5}企业承诺将回购其股份的合同}{267}{subsubsection.28.3.5}%
-\contentsline {subsubsection}{\numberline {28.3.6}多项潜在普通股}{267}{subsubsection.28.3.6}%
-\contentsline {subsubsection}{\numberline {28.3.7}子公司、合营企业或联营企业发行的潜在普通股}{268}{subsubsection.28.3.7}%
-\contentsline {subsection}{\numberline {28.4}每股收益的列报}{268}{subsection.28.4}%
-\contentsline {subsubsection}{\numberline {28.4.1}重新计算}{268}{subsubsection.28.4.1}%
-\contentsline {paragraph}{派发股票股利、公积金转增资本、拆股和并股}{268}{paragraph*.245}%
-\contentsline {paragraph}{配股}{268}{paragraph*.246}%
-\contentsline {subsubsection}{\numberline {28.4.2}列报}{269}{subsubsection.28.4.2}%
-\contentsline {section}{\numberline {29}公允价值计量}{270}{section.29}%
-\contentsline {subsection}{\numberline {29.1}公允价值概述}{270}{subsection.29.1}%
-\contentsline {subsubsection}{\numberline {29.1.1}公允价值的定义}{270}{subsubsection.29.1.1}%
-\contentsline {subsubsection}{\numberline {29.1.2}公允价值计量的基本要求}{270}{subsubsection.29.1.2}%
-\contentsline {subsection}{\numberline {29.2}公允价值计量要求}{272}{subsection.29.2}%
-\contentsline {subsubsection}{\numberline {29.2.1}公允价值的初始计量}{272}{subsubsection.29.2.1}%
-\contentsline {subsubsection}{\numberline {29.2.2}估值技术}{272}{subsubsection.29.2.2}%
-\contentsline {subsubsection}{\numberline {29.2.3}输入值}{274}{subsubsection.29.2.3}%
-\contentsline {subsubsection}{\numberline {29.2.4}公允价值层次}{274}{subsubsection.29.2.4}%
-\contentsline {subsection}{\numberline {29.3}公允价值计量的具体应用}{275}{subsection.29.3}%
-\contentsline {subsubsection}{\numberline {29.3.1}非金融资产}{275}{subsubsection.29.3.1}%
-\contentsline {subsubsection}{\numberline {29.3.2}负债和企业自身权益工具的公允价值计量}{275}{subsubsection.29.3.2}%
-\contentsline {subsubsection}{\numberline {29.3.3}市场风险或信用风险可抵消的金额}{276}{subsubsection.29.3.3}%
-\contentsline {subsubsection}{\numberline {29.3.4}资产和金融负债的公允价值计量}{276}{subsubsection.29.3.4}%
-\contentsline {section}{\numberline {30}政府及民间非盈利组织会计}{277}{section.30}%
-\contentsline {subsection}{\numberline {30.1}政府会计概述}{277}{subsection.30.1}%
-\contentsline {subsubsection}{\numberline {30.1.1}政府会计标准体系}{277}{subsubsection.30.1.1}%
-\contentsline {subsubsection}{\numberline {30.1.2}政府会计核算模式}{277}{subsubsection.30.1.2}%
-\contentsline {subsubsection}{\numberline {30.1.3}政府会计要素及其确认和计量}{277}{subsubsection.30.1.3}%
-\contentsline {subsubsection}{\numberline {30.1.4}政府财务报告和决算报告}{278}{subsubsection.30.1.4}%
-\contentsline {subsection}{\numberline {30.2}政府单位特定业务的会计核算}{278}{subsection.30.2}%
-\contentsline {subsubsection}{\numberline {30.2.1}单位会计核算一般原则}{278}{subsubsection.30.2.1}%
-\contentsline {subsubsection}{\numberline {30.2.2}财政拨款收支业务}{278}{subsubsection.30.2.2}%
-\contentsline {subsubsection}{\numberline {30.2.3}非财政拨款收支业务}{280}{subsubsection.30.2.3}%
-\contentsline {subsubsection}{\numberline {30.2.4}预算结转结余及分配业务}{282}{subsubsection.30.2.4}%
-\contentsline {subsubsection}{\numberline {30.2.5}净资产业务}{284}{subsubsection.30.2.5}%
-\contentsline {subsubsection}{\numberline {30.2.6}资产业务}{284}{subsubsection.30.2.6}%
-\contentsline {subsubsection}{\numberline {30.2.7}负债业务}{284}{subsubsection.30.2.7}%
-\contentsline {subsubsection}{\numberline {30.2.8}PPP项目合同}{284}{subsubsection.30.2.8}%
-\contentsline {subsubsection}{\numberline {30.2.9}部门（单位）合并财务报表}{284}{subsubsection.30.2.9}%
-\contentsline {subsection}{\numberline {30.3}民间非盈利组织会计}{284}{subsection.30.3}%
-\contentsline {subsubsection}{\numberline {30.3.1}民间非盈利组织会计概述}{284}{subsubsection.30.3.1}%
-\contentsline {subsubsection}{\numberline {30.3.2}民间非盈利组织特定业务的会计核算}{284}{subsubsection.30.3.2}%
+\contentsline {section}{\numberline {7}资产减值}{49}{section.7}%
+\contentsline {subsection}{\numberline {7.1}资产减值概述}{49}{subsection.7.1}%
+\contentsline {paragraph}{什么是资产减值}{49}{paragraph*.30}%
+\contentsline {paragraph}{特殊情况}{49}{paragraph*.31}%
+\contentsline {subsection}{\numberline {7.2}资产可收回金额的计量}{50}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}资产公允价值减去处置费用}{50}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}未来现金流量的现值}{51}{subsubsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.3}资产减值损失的确认与计量}{52}{subsection.7.3}%
+\contentsline {paragraph}{关于转回}{52}{paragraph*.32}%
+\contentsline {paragraph}{账务处理}{52}{paragraph*.33}%
+\contentsline {subsection}{\numberline {7.4}资产组的认定及减值处理}{52}{subsection.7.4}%
+\contentsline {paragraph}{资产组减值测试}{52}{paragraph*.34}%
+\contentsline {paragraph}{资产组减值的会计处理}{53}{paragraph*.35}%
+\contentsline {paragraph}{总部资产的减值测试}{53}{paragraph*.36}%
+\contentsline {subsection}{\numberline {7.5}商誉减值测试与处理}{53}{subsection.7.5}%
+\contentsline {paragraph}{商誉减值测试的方法与会计处理}{53}{paragraph*.37}%
+\contentsline {subsection}{\numberline {7.6}小结}{54}{subsection.7.6}%
+\contentsline {section}{\numberline {8}负债}{55}{section.8}%
+\contentsline {subsection}{\numberline {8.1}流动负债}{55}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}短期借款}{55}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}应付票据}{55}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}应付账款}{56}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}应交税费}{56}{subsubsection.8.1.4}%
+\contentsline {paragraph}{应交税费-增值税}{56}{paragraph*.38}%
+\contentsline {paragraph}{增值税-视同销售的情况}{57}{paragraph*.39}%
+\contentsline {paragraph}{增值税-进项税额不予抵扣的情况}{57}{paragraph*.40}%
+\contentsline {paragraph}{增值税-差额征税}{57}{paragraph*.41}%
+\contentsline {paragraph}{增值税-多交与未交}{58}{paragraph*.42}%
+\contentsline {paragraph}{增值税-缴纳增值税}{58}{paragraph*.43}%
+\contentsline {paragraph}{增值税税控系统专用设备和技术维护费用抵减增值税额的会计处理}{58}{paragraph*.44}%
+\contentsline {paragraph}{减免增值税的处理}{59}{paragraph*.45}%
+\contentsline {paragraph}{消费税}{59}{paragraph*.46}%
+\contentsline {paragraph}{资源税}{60}{paragraph*.47}%
+\contentsline {paragraph}{土地增值税}{60}{paragraph*.48}%
+\contentsline {paragraph}{房产税、土地使用税、车船税和印花税}{60}{paragraph*.49}%
+\contentsline {paragraph}{城市维护建设税}{60}{paragraph*.50}%
+\contentsline {paragraph}{所得税}{60}{paragraph*.51}%
+\contentsline {paragraph}{耕地占用税}{60}{paragraph*.52}%
+\contentsline {subsubsection}{\numberline {8.1.5}应付股利（现金股利）}{60}{subsubsection.8.1.5}%
+\contentsline {subsubsection}{\numberline {8.1.6}其他应付款}{61}{subsubsection.8.1.6}%
+\contentsline {subsection}{\numberline {8.2}非流动负债}{61}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}长期借款}{61}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}公司债券}{62}{subsubsection.8.2.2}%
+\contentsline {paragraph}{可转换公司债券}{63}{paragraph*.53}%
+\contentsline {subsubsection}{\numberline {8.2.3}长期应付款}{64}{subsubsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.3}小结}{64}{subsection.8.3}%
+\contentsline {section}{\numberline {9}职工薪酬}{65}{section.9}%
+\contentsline {subsection}{\numberline {9.1}职工和职工薪酬的范围及分类}{65}{subsection.9.1}%
+\contentsline {paragraph}{分类}{65}{paragraph*.54}%
+\contentsline {subsection}{\numberline {9.2}短期薪酬的确认与计量}{66}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}货币性短期薪酬}{66}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}带薪缺勤}{66}{subsubsection.9.2.2}%
+\contentsline {paragraph}{累积带薪缺勤}{66}{paragraph*.55}%
+\contentsline {paragraph}{非累积带薪缺勤}{67}{paragraph*.56}%
+\contentsline {subsubsection}{\numberline {9.2.3}短期利润分享计划}{67}{subsubsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.4}非货币性福利}{67}{subsubsection.9.2.4}%
+\contentsline {paragraph}{自产产品}{68}{paragraph*.57}%
+\contentsline {paragraph}{外购产品}{68}{paragraph*.58}%
+\contentsline {paragraph}{自有住房无偿给员工使用}{68}{paragraph*.59}%
+\contentsline {paragraph}{租赁住房无偿给员工使用}{68}{paragraph*.60}%
+\contentsline {paragraph}{提供支付了补贴的商品或服务}{69}{paragraph*.61}%
+\contentsline {subsection}{\numberline {9.3}离职后福利的确认与计量}{69}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}设定提存计划}{70}{subsubsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.2}设定收益计划}{70}{subsubsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.4}辞退福利的确认与计量}{71}{subsection.9.4}%
+\contentsline {paragraph}{主要内容}{72}{paragraph*.62}%
+\contentsline {paragraph}{确认日期}{72}{paragraph*.63}%
+\contentsline {paragraph}{计量}{72}{paragraph*.64}%
+\contentsline {paragraph}{其他注意事项}{73}{paragraph*.65}%
+\contentsline {subsection}{\numberline {9.5}其他长期职工福利的确认与计量}{73}{subsection.9.5}%
+\contentsline {paragraph}{设定提存计划}{73}{paragraph*.66}%
+\contentsline {paragraph}{设定受益计划}{73}{paragraph*.67}%
+\contentsline {section}{\numberline {10}股份支付}{74}{section.10}%
+\contentsline {subsection}{\numberline {10.1}股份支付概述}{74}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1}股份支付的含义和特征}{74}{subsubsection.10.1.1}%
+\contentsline {subsubsection}{\numberline {10.1.2}股份支付的四个主要环节}{74}{subsubsection.10.1.2}%
+\contentsline {paragraph}{一次授予、分期行权}{75}{paragraph*.68}%
+\contentsline {subsubsection}{\numberline {10.1.3}股份支付工具的主要类型}{75}{subsubsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.2}股份支付的确认和计量}{76}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}股份支付工具的确认和计量原则}{76}{subsubsection.10.2.1}%
+\contentsline {paragraph}{权益结算}{76}{paragraph*.69}%
+\contentsline {paragraph}{现金结算}{77}{paragraph*.70}%
+\contentsline {subsubsection}{\numberline {10.2.2}可行权条件的种类、处理和修改}{77}{subsubsection.10.2.2}%
+\contentsline {paragraph}{可行权条件}{77}{paragraph*.71}%
+\contentsline {paragraph}{特殊情况处理}{78}{paragraph*.72}%
+\contentsline {paragraph}{股份支付条件和条款的修改}{79}{paragraph*.73}%
+\contentsline {paragraph}{有利修改}{79}{paragraph*.74}%
+\contentsline {paragraph}{不利修改}{79}{paragraph*.75}%
+\contentsline {subsubsection}{\numberline {10.2.3}权益工具的公允价值的确定}{79}{subsubsection.10.2.3}%
+\contentsline {subsubsection}{\numberline {10.2.4}股份支付的处理}{80}{subsubsection.10.2.4}%
+\contentsline {paragraph}{授予日}{80}{paragraph*.76}%
+\contentsline {paragraph}{等待期内每个资产负债表日}{80}{paragraph*.77}%
+\contentsline {paragraph}{可行权日之后}{80}{paragraph*.78}%
+\contentsline {paragraph}{回购股份进行职工期权激励}{80}{paragraph*.79}%
+\contentsline {paragraph}{限制性股票的股权激励的账务处理}{81}{paragraph*.80}%
+\contentsline {paragraph}{发放现金股利的处理原则}{82}{paragraph*.81}%
+\contentsline {subsubsection}{\numberline {10.2.5}集团股份支付的处理}{83}{subsubsection.10.2.5}%
+\contentsline {paragraph}{以自身权益工具进行结算}{83}{paragraph*.82}%
+\contentsline {paragraph}{以其他权益工具进行结算}{83}{paragraph*.83}%
+\contentsline {paragraph}{子公司有结算义务，拿其他子公司权益工具进行支付}{84}{paragraph*.84}%
+\contentsline {paragraph}{特殊情况}{84}{paragraph*.85}%
+\contentsline {subsection}{\numberline {10.3}应用举例}{84}{subsection.10.3}%
+\contentsline {subsubsection}{\numberline {10.3.1}附带服务年限条件的权益结算的股份支付}{84}{subsubsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.2}附带市场业绩条件的权益结算的股份支付}{84}{subsubsection.10.3.2}%
+\contentsline {subsubsection}{\numberline {10.3.3}现金结算的股份支付}{84}{subsubsection.10.3.3}%
+\contentsline {section}{\numberline {11}借款费用}{85}{section.11}%
+\contentsline {subsection}{\numberline {11.1}借款费用概述}{85}{subsection.11.1}%
+\contentsline {subsubsection}{\numberline {11.1.1}借款费用的范围}{85}{subsubsection.11.1.1}%
+\contentsline {subsubsection}{\numberline {11.1.2}借款的范围}{85}{subsubsection.11.1.2}%
+\contentsline {subsubsection}{\numberline {11.1.3}符合资本化条件的资产}{85}{subsubsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.2}借款费用的确认}{86}{subsection.11.2}%
+\contentsline {subsubsection}{\numberline {11.2.1}借款费用开始资本化的时点}{86}{subsubsection.11.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.2}借款费用暂停资本化的时间}{86}{subsubsection.11.2.2}%
+\contentsline {paragraph}{非正常中断}{87}{paragraph*.86}%
+\contentsline {paragraph}{正常中断}{87}{paragraph*.87}%
+\contentsline {subsubsection}{\numberline {11.2.3}借款费用停止资本化的时点}{87}{subsubsection.11.2.3}%
+\contentsline {paragraph}{基本原则}{87}{paragraph*.88}%
+\contentsline {paragraph}{如何判断达到预定可使用或可销售状态}{87}{paragraph*.89}%
+\contentsline {paragraph}{分别建造、分别完工}{88}{paragraph*.90}%
+\contentsline {subsection}{\numberline {11.3}借款费用的计量}{88}{subsection.11.3}%
+\contentsline {subsubsection}{\numberline {11.3.1}借款利息资本化金额的确认}{88}{subsubsection.11.3.1}%
+\contentsline {paragraph}{专门借款}{88}{paragraph*.91}%
+\contentsline {paragraph}{一般借款}{88}{paragraph*.92}%
+\contentsline {paragraph}{与土地使用权相关的资本化金额确认的}{89}{paragraph*.93}%
+\contentsline {subsubsection}{\numberline {11.3.2}借款辅助费用资本化金额的确认}{89}{subsubsection.11.3.2}%
+\contentsline {subsubsection}{\numberline {11.3.3}外币专门借款汇兑差额资本化金额的确定}{89}{subsubsection.11.3.3}%
+\contentsline {section}{\numberline {12}或有事项}{90}{section.12}%
+\contentsline {subsection}{\numberline {12.1}或有事项概述}{90}{subsection.12.1}%
+\contentsline {subsubsection}{\numberline {12.1.1}或有事项的概念和特征}{90}{subsubsection.12.1.1}%
+\contentsline {subsubsection}{\numberline {12.1.2}或有资产和或有负债}{90}{subsubsection.12.1.2}%
+\contentsline {paragraph}{或有负债}{90}{paragraph*.94}%
+\contentsline {paragraph}{或有资产}{91}{paragraph*.95}%
+\contentsline {subsection}{\numberline {12.2}或有事项的确认和计量}{91}{subsection.12.2}%
+\contentsline {subsubsection}{\numberline {12.2.1}或有事项的确认}{91}{subsubsection.12.2.1}%
+\contentsline {subsubsection}{\numberline {12.2.2}预计负债的计量}{91}{subsubsection.12.2.2}%
+\contentsline {paragraph}{最佳估计数的确定}{91}{paragraph*.96}%
+\contentsline {paragraph}{预期可获得补偿的处理}{92}{paragraph*.97}%
+\contentsline {paragraph}{预计负债的计量需要考虑的其他因素}{92}{paragraph*.98}%
+\contentsline {subsubsection}{\numberline {12.2.3}对预计负债账面价值的复核}{93}{subsubsection.12.2.3}%
+\contentsline {subsection}{\numberline {12.3}或有事项会计处理的具体应用}{93}{subsection.12.3}%
+\contentsline {subsubsection}{\numberline {12.3.1}未决诉讼或未决仲裁}{93}{subsubsection.12.3.1}%
+\contentsline {subsubsection}{\numberline {12.3.2}债务担保}{93}{subsubsection.12.3.2}%
+\contentsline {subsubsection}{\numberline {12.3.3}产品质量保证}{94}{subsubsection.12.3.3}%
+\contentsline {subsubsection}{\numberline {12.3.4}亏损合同}{94}{subsubsection.12.3.4}%
+\contentsline {subsubsection}{\numberline {12.3.5}重组义务}{95}{subsubsection.12.3.5}%
+\contentsline {subsection}{\numberline {12.4}或有事项的列报}{96}{subsection.12.4}%
+\contentsline {subsubsection}{\numberline {12.4.1}预计负债的列报}{96}{subsubsection.12.4.1}%
+\contentsline {subsubsection}{\numberline {12.4.2}或有负债的披露}{96}{subsubsection.12.4.2}%
+\contentsline {subsubsection}{\numberline {12.4.3}或有资产的披露}{96}{subsubsection.12.4.3}%
+\contentsline {section}{\numberline {13}金融工具}{97}{section.13}%
+\contentsline {subsection}{\numberline {13.1}金融工具概述}{97}{subsection.13.1}%
+\contentsline {subsubsection}{\numberline {13.1.1}金融资产和金融负债的含义}{97}{subsubsection.13.1.1}%
+\contentsline {paragraph}{金融资产}{97}{paragraph*.99}%
+\contentsline {paragraph}{金融负债}{97}{paragraph*.100}%
+\contentsline {paragraph}{特别提示}{98}{paragraph*.101}%
+\contentsline {subsubsection}{\numberline {13.1.2}衍生工具}{98}{subsubsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.2}金融资产和金融负债的分类}{98}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}金融资产的分类}{99}{subsubsection.13.2.1}%
+\contentsline {paragraph}{业务模式}{99}{paragraph*.102}%
+\contentsline {paragraph}{收取合同现金流量为目标的业务模式}{99}{paragraph*.103}%
+\contentsline {paragraph}{收取合同现金流量和出售金融资产为目标的业务模式}{100}{paragraph*.104}%
+\contentsline {paragraph}{合同现金流量特征}{100}{paragraph*.105}%
+\contentsline {paragraph}{金融资产的分类}{101}{paragraph*.106}%
+\contentsline {paragraph}{交易性的判断}{101}{paragraph*.107}%
+\contentsline {paragraph}{金融资产分类的特殊规定}{102}{paragraph*.108}%
+\contentsline {subsubsection}{\numberline {13.2.2}金融负债的分类}{102}{subsubsection.13.2.2}%
+\contentsline {paragraph}{公允价值选择权}{102}{paragraph*.109}%
+\contentsline {subsection}{\numberline {13.3}金融负债和权益工具的区分}{103}{subsection.13.3}%
+\contentsline {subsubsection}{\numberline {13.3.1}金融负债和权益工具的区分}{103}{subsubsection.13.3.1}%
+\contentsline {paragraph}{基本原则-无法避免交付现金}{104}{paragraph*.110}%
+\contentsline {paragraph}{基本原则-交付固定数量自身权益工具结算}{105}{paragraph*.111}%
+\contentsline {paragraph}{以外币计价的配股权、期权或认股权证}{105}{paragraph*.112}%
+\contentsline {paragraph}{或有结算条款}{105}{paragraph*.113}%
+\contentsline {paragraph}{合并财务报表中金融负债和权益工具的区分}{106}{paragraph*.114}%
+\contentsline {paragraph}{特殊金融工具的区分}{106}{paragraph*.115}%
+\contentsline {paragraph}{金融负债和权益工具之间的重分类}{107}{paragraph*.116}%
+\contentsline {paragraph}{收益和库存股}{107}{paragraph*.117}%
+\contentsline {subsubsection}{\numberline {13.3.2}复合金融工具}{108}{subsubsection.13.3.2}%
+\contentsline {subsubsection}{\numberline {13.3.3}永续债等类似金融工具的会计处理}{109}{subsubsection.13.3.3}%
+\contentsline {subsection}{\numberline {13.4}金融工具的计量和重分类}{109}{subsection.13.4}%
+\contentsline {subsubsection}{\numberline {13.4.1}金融资产和金融负债的初始计量}{109}{subsubsection.13.4.1}%
+\contentsline {subsubsection}{\numberline {13.4.2}金融资产的后续计量}{110}{subsubsection.13.4.2}%
+\contentsline {paragraph}{以摊余成本计量的金融资产的会计处理}{110}{paragraph*.118}%
+\contentsline {paragraph}{以公允价值计量且其变动计入损益的金融资产}{112}{paragraph*.119}%
+\contentsline {paragraph}{以公允价值计量且其变动计入其他综合收益的金融资产}{113}{paragraph*.120}%
+\contentsline {subsubsection}{\numberline {13.4.3}金融负债的后续计量}{116}{subsubsection.13.4.3}%
+\contentsline {subsubsection}{\numberline {13.4.4}金融工具的减值}{116}{subsubsection.13.4.4}%
+\contentsline {subsubsection}{\numberline {13.4.5}金融工具的重分类}{118}{subsubsection.13.4.5}%
+\contentsline {subsection}{\numberline {13.5}金融资产转移}{119}{subsection.13.5}%
+\contentsline {subsubsection}{\numberline {13.5.1}金融资产终止确认的一般原则}{119}{subsubsection.13.5.1}%
+\contentsline {subsubsection}{\numberline {13.5.2}金融资产终止确认的判断流程}{120}{subsubsection.13.5.2}%
+\contentsline {subsubsection}{\numberline {13.5.3}金融资产转移的会计处理}{123}{subsubsection.13.5.3}%
+\contentsline {paragraph}{满足终止确认条件的金融资产转移的会计处理}{123}{paragraph*.121}%
+\contentsline {paragraph}{继续确认被转移金融资产的会计处理（保留了所有权上几乎所有的风险和报酬）}{124}{paragraph*.122}%
+\contentsline {paragraph}{继续涉入被转移金融资产的会计处理}{124}{paragraph*.123}%
+\contentsline {subsection}{\numberline {13.6}套期会计}{125}{subsection.13.6}%
+\contentsline {subsubsection}{\numberline {13.6.1}套期会计概述}{125}{subsubsection.13.6.1}%
+\contentsline {subsubsection}{\numberline {13.6.2}套期工具和被套期项目}{126}{subsubsection.13.6.2}%
+\contentsline {paragraph}{套期工具}{126}{paragraph*.124}%
+\contentsline {paragraph}{被套期项目}{127}{paragraph*.125}%
+\contentsline {subsubsection}{\numberline {13.6.3}套期关系评估}{128}{subsubsection.13.6.3}%
+\contentsline {paragraph}{运用套期会计的条件}{128}{paragraph*.126}%
+\contentsline {paragraph}{套期关系再平衡（仅仅是数量失衡）}{129}{paragraph*.127}%
+\contentsline {paragraph}{套期关系的终止}{129}{paragraph*.128}%
+\contentsline {subsubsection}{\numberline {13.6.4}确认和计量}{129}{subsubsection.13.6.4}%
+\contentsline {paragraph}{公允价值套期}{130}{paragraph*.129}%
+\contentsline {paragraph}{现金流量套期}{130}{paragraph*.130}%
+\contentsline {paragraph}{境外经营净投资套期}{131}{paragraph*.131}%
+\contentsline {subsubsection}{\numberline {13.6.5}信用风险敞口的公允价值选择权}{132}{subsubsection.13.6.5}%
+\contentsline {subsection}{\numberline {13.7}金融工具的披露}{132}{subsection.13.7}%
+\contentsline {subsubsection}{\numberline {13.7.1}金融工具一般信息披露要求}{132}{subsubsection.13.7.1}%
+\contentsline {subsubsection}{\numberline {13.7.2}资产负债表相关信息的披露}{132}{subsubsection.13.7.2}%
+\contentsline {subsubsection}{\numberline {13.7.3}利润表相关信息的披露}{132}{subsubsection.13.7.3}%
+\contentsline {subsubsection}{\numberline {13.7.4}公允价值相关信息的披露}{132}{subsubsection.13.7.4}%
+\contentsline {subsubsection}{\numberline {13.7.5}金融工具风险信息披露}{132}{subsubsection.13.7.5}%
+\contentsline {section}{\numberline {14}租赁}{133}{section.14}%
+\contentsline {subsection}{\numberline {14.1}租赁概述}{133}{subsection.14.1}%
+\contentsline {subsubsection}{\numberline {14.1.1}适用范围}{133}{subsubsection.14.1.1}%
+\contentsline {subsubsection}{\numberline {14.1.2}租赁的识别}{133}{subsubsection.14.1.2}%
+\contentsline {subsubsection}{\numberline {14.1.3}租赁构成要素的具体判断}{134}{subsubsection.14.1.3}%
+\contentsline {subsubsection}{\numberline {14.1.4}租赁的分拆与合并}{134}{subsubsection.14.1.4}%
+\contentsline {paragraph}{分拆}{135}{paragraph*.132}%
+\contentsline {paragraph}{合并}{135}{paragraph*.133}%
+\contentsline {subsubsection}{\numberline {14.1.5}租赁期}{135}{subsubsection.14.1.5}%
+\contentsline {paragraph}{不可撤销期间}{136}{paragraph*.134}%
+\contentsline {paragraph}{续租选择权和终止租赁权}{136}{paragraph*.135}%
+\contentsline {subsection}{\numberline {14.2}承租人会计处理}{137}{subsection.14.2}%
+\contentsline {subsubsection}{\numberline {14.2.1}基本处理原则}{137}{subsubsection.14.2.1}%
+\contentsline {subsubsection}{\numberline {14.2.2}相关概念}{137}{subsubsection.14.2.2}%
+\contentsline {paragraph}{租赁激励}{137}{paragraph*.136}%
+\contentsline {paragraph}{可变租赁付款项}{137}{paragraph*.137}%
+\contentsline {paragraph}{担保余值}{137}{paragraph*.138}%
+\contentsline {paragraph}{未担保余值}{137}{paragraph*.139}%
+\contentsline {paragraph}{租赁付款额}{137}{paragraph*.140}%
+\contentsline {paragraph}{初始直接费用}{138}{paragraph*.141}%
+\contentsline {paragraph}{租赁内含利率}{138}{paragraph*.142}%
+\contentsline {paragraph}{承租人增量借款利率}{138}{paragraph*.143}%
+\contentsline {subsubsection}{\numberline {14.2.3}初始计量}{138}{subsubsection.14.2.3}%
+\contentsline {paragraph}{租赁负债}{138}{paragraph*.144}%
+\contentsline {paragraph}{使用权资产}{138}{paragraph*.145}%
+\contentsline {subsubsection}{\numberline {14.2.4}后续计量}{139}{subsubsection.14.2.4}%
+\contentsline {paragraph}{租赁负债}{139}{paragraph*.146}%
+\contentsline {paragraph}{使用权资产}{141}{paragraph*.147}%
+\contentsline {subsubsection}{\numberline {14.2.5}短期租赁和低价值资产租赁}{142}{subsubsection.14.2.5}%
+\contentsline {subsection}{\numberline {14.3}出租人会计处理}{143}{subsection.14.3}%
+\contentsline {subsubsection}{\numberline {14.3.1}出租人的租赁分类}{143}{subsubsection.14.3.1}%
+\contentsline {subsubsection}{\numberline {14.3.2}出租人对融资租赁的会计处理}{144}{subsubsection.14.3.2}%
+\contentsline {paragraph}{初始计量}{144}{paragraph*.148}%
+\contentsline {paragraph}{后续计量}{145}{paragraph*.149}%
+\contentsline {paragraph}{融资租赁变更的会计处理}{145}{paragraph*.150}%
+\contentsline {subsubsection}{\numberline {14.3.3}出租人对经营租赁的会计处理}{146}{subsubsection.14.3.3}%
+\contentsline {paragraph}{租金的处理}{146}{paragraph*.151}%
+\contentsline {paragraph}{出租人对经营租赁提供激励措施}{146}{paragraph*.152}%
+\contentsline {paragraph}{初始直接费用}{146}{paragraph*.153}%
+\contentsline {paragraph}{折旧和减值}{146}{paragraph*.154}%
+\contentsline {paragraph}{可变租赁付款额}{146}{paragraph*.155}%
+\contentsline {paragraph}{经营租赁的变更}{146}{paragraph*.156}%
+\contentsline {subsection}{\numberline {14.4}特殊租赁业务的会计处理}{147}{subsection.14.4}%
+\contentsline {subsubsection}{\numberline {14.4.1}转租赁}{147}{subsubsection.14.4.1}%
+\contentsline {subsubsection}{\numberline {14.4.2}生产商或经销商出租人的融资租赁会计处理}{147}{subsubsection.14.4.2}%
+\contentsline {subsubsection}{\numberline {14.4.3}售后租回交易的会计处理}{148}{subsubsection.14.4.3}%
+\contentsline {paragraph}{不属于销售}{148}{paragraph*.157}%
+\contentsline {paragraph}{属于销售}{149}{paragraph*.158}%
+\contentsline {section}{\numberline {15}持有待售的非流动资产、处置组和终止经营}{150}{section.15}%
+\contentsline {subsection}{\numberline {15.1}持有待售的非流动资产和处置组}{150}{subsection.15.1}%
+\contentsline {subsubsection}{\numberline {15.1.1}持有待售类别的分类}{150}{subsubsection.15.1.1}%
+\contentsline {paragraph}{基本要求}{150}{paragraph*.159}%
+\contentsline {paragraph}{某些特定持有待售类别分类的具体应用}{151}{paragraph*.160}%
+\contentsline {subsubsection}{\numberline {15.1.2}持有待售类别的计量}{152}{subsubsection.15.1.2}%
+\contentsline {paragraph}{划分前}{152}{paragraph*.161}%
+\contentsline {paragraph}{划分时}{152}{paragraph*.162}%
+\contentsline {paragraph}{划分后}{153}{paragraph*.163}%
+\contentsline {paragraph}{不再划分}{154}{paragraph*.164}%
+\contentsline {paragraph}{终止确认}{154}{paragraph*.165}%
+\contentsline {subsubsection}{\numberline {15.1.3}持有待售类别的列报}{154}{subsubsection.15.1.3}%
+\contentsline {subsection}{\numberline {15.2}终止经营}{154}{subsection.15.2}%
+\contentsline {subsubsection}{\numberline {15.2.1}终止经营的定义}{155}{subsubsection.15.2.1}%
+\contentsline {subsubsection}{\numberline {15.2.2}终止经营的列报}{155}{subsubsection.15.2.2}%
+\contentsline {subsubsection}{\numberline {15.2.3}特殊事项的列报}{156}{subsubsection.15.2.3}%
+\contentsline {section}{\numberline {16}所有者权益}{158}{section.16}%
+\contentsline {subsection}{\numberline {16.1}实收资本}{158}{subsection.16.1}%
+\contentsline {subsubsection}{\numberline {16.1.1}实收资本概述}{158}{subsubsection.16.1.1}%
+\contentsline {subsubsection}{\numberline {16.1.2}实收资本增减变动的会计处理}{158}{subsubsection.16.1.2}%
+\contentsline {paragraph}{实收资本增加}{158}{paragraph*.166}%
+\contentsline {paragraph}{实收资本减少}{159}{paragraph*.167}%
+\contentsline {subsection}{\numberline {16.2}其他权益工具}{159}{subsection.16.2}%
+\contentsline {subsubsection}{\numberline {16.2.1}其他权益工具会计处理的基本原则}{159}{subsubsection.16.2.1}%
+\contentsline {subsubsection}{\numberline {16.2.2}科目设置}{159}{subsubsection.16.2.2}%
+\contentsline {subsubsection}{\numberline {16.2.3}主要账务处理}{160}{subsubsection.16.2.3}%
+\contentsline {subsection}{\numberline {16.3}资本公积、其他综合收益及留存收益}{160}{subsection.16.3}%
+\contentsline {subsubsection}{\numberline {16.3.1}资本公积确认和计量}{160}{subsubsection.16.3.1}%
+\contentsline {paragraph}{资本溢价或股本溢价的会计处理}{160}{paragraph*.168}%
+\contentsline {paragraph}{其他资本公积的会计处理}{160}{paragraph*.169}%
+\contentsline {paragraph}{资本公积转增资本的会计处理}{160}{paragraph*.170}%
+\contentsline {subsubsection}{\numberline {16.3.2}其他综合收益的确认与计量基础}{160}{subsubsection.16.3.2}%
+\contentsline {subsubsection}{\numberline {16.3.3}盈余公积}{161}{subsubsection.16.3.3}%
+\contentsline {subsubsection}{\numberline {16.3.4}未分配利润}{161}{subsubsection.16.3.4}%
+\contentsline {section}{\numberline {17}收入、费用和利润}{162}{section.17}%
+\contentsline {subsection}{\numberline {17.1}收入}{162}{subsection.17.1}%
+\contentsline {subsubsection}{\numberline {17.1.1}收入的定义及分类}{162}{subsubsection.17.1.1}%
+\contentsline {subsubsection}{\numberline {17.1.2}收入的确认和计量}{162}{subsubsection.17.1.2}%
+\contentsline {paragraph}{识别与客户订立的合同}{163}{paragraph*.171}%
+\contentsline {paragraph}{识别合同中的单项履约义务}{164}{paragraph*.172}%
+\contentsline {paragraph}{确定交易价格}{165}{paragraph*.173}%
+\contentsline {paragraph}{将交易价格分摊至各单项履行义务}{167}{paragraph*.174}%
+\contentsline {paragraph}{履行各单项义务时确认收入}{168}{paragraph*.175}%
+\contentsline {subsubsection}{\numberline {17.1.3}关于合同成本}{171}{subsubsection.17.1.3}%
+\contentsline {paragraph}{合同履约成本}{171}{paragraph*.176}%
+\contentsline {paragraph}{合同取得成本}{171}{paragraph*.177}%
+\contentsline {paragraph}{合同履约成本和合同取得成本的摊销和减值}{172}{paragraph*.178}%
+\contentsline {subsubsection}{\numberline {17.1.4}关于特定交易的会计处理}{172}{subsubsection.17.1.4}%
+\contentsline {paragraph}{附有销售退回条款的销售}{173}{paragraph*.179}%
+\contentsline {paragraph}{附有质量保证条款的销售}{173}{paragraph*.180}%
+\contentsline {paragraph}{主要责任人和代理人}{174}{paragraph*.181}%
+\contentsline {paragraph}{附有客户额外购买选择权的销售}{174}{paragraph*.182}%
+\contentsline {paragraph}{授予知识产权许可}{176}{paragraph*.183}%
+\contentsline {paragraph}{售后回购}{177}{paragraph*.184}%
+\contentsline {paragraph}{客户未行使权利}{178}{paragraph*.185}%
+\contentsline {paragraph}{无须退回初始费用}{178}{paragraph*.186}%
+\contentsline {subsubsection}{\numberline {17.1.5}社会资本方对政府和社会资本合作（PPP）项目合同的会计处理}{178}{subsubsection.17.1.5}%
+\contentsline {paragraph}{无形资产模式}{179}{paragraph*.187}%
+\contentsline {paragraph}{金融资产模式}{180}{paragraph*.188}%
+\contentsline {paragraph}{混合模式}{180}{paragraph*.189}%
+\contentsline {subsection}{\numberline {17.2}费用}{180}{subsection.17.2}%
+\contentsline {subsubsection}{\numberline {17.2.1}费用的确认}{180}{subsubsection.17.2.1}%
+\contentsline {subsubsection}{\numberline {17.2.2}期间费用}{180}{subsubsection.17.2.2}%
+\contentsline {paragraph}{管理费用}{180}{paragraph*.190}%
+\contentsline {paragraph}{销售费用}{180}{paragraph*.191}%
+\contentsline {paragraph}{研发费用}{181}{paragraph*.192}%
+\contentsline {paragraph}{财务费用}{181}{paragraph*.193}%
+\contentsline {subsection}{\numberline {17.3}利润}{181}{subsection.17.3}%
+\contentsline {subsubsection}{\numberline {17.3.1}利润的构成}{181}{subsubsection.17.3.1}%
+\contentsline {subsubsection}{\numberline {17.3.2}营业外收支的会计处理}{181}{subsubsection.17.3.2}%
+\contentsline {subsubsection}{\numberline {17.3.3}本年利润的会计处理}{182}{subsubsection.17.3.3}%
+\contentsline {subsubsection}{\numberline {17.3.4}综合收益总额}{182}{subsubsection.17.3.4}%
+\contentsline {section}{\numberline {18}政府补助}{183}{section.18}%
+\contentsline {subsection}{\numberline {18.1}政府补助的概述}{183}{subsection.18.1}%
+\contentsline {subsubsection}{\numberline {18.1.1}政府补助的定义}{183}{subsubsection.18.1.1}%
+\contentsline {subsubsection}{\numberline {18.1.2}政府补助的特征}{183}{subsubsection.18.1.2}%
+\contentsline {subsubsection}{\numberline {18.1.3}政府补助的分类}{183}{subsubsection.18.1.3}%
+\contentsline {subsection}{\numberline {18.2}政府补助的会计处理}{184}{subsection.18.2}%
+\contentsline {subsubsection}{\numberline {18.2.1}会计处理方法}{184}{subsubsection.18.2.1}%
+\contentsline {subsubsection}{\numberline {18.2.2}与资产相关的政府补助}{185}{subsubsection.18.2.2}%
+\contentsline {paragraph}{总额法}{185}{paragraph*.194}%
+\contentsline {paragraph}{净额法}{185}{paragraph*.195}%
+\contentsline {paragraph}{特殊情况}{185}{paragraph*.196}%
+\contentsline {subsubsection}{\numberline {18.2.3}与收益相关的政府补助}{185}{subsubsection.18.2.3}%
+\contentsline {subsubsection}{\numberline {18.2.4}政府补助的退回}{186}{subsubsection.18.2.4}%
+\contentsline {subsubsection}{\numberline {18.2.5}特定业务的会计处理}{186}{subsubsection.18.2.5}%
+\contentsline {paragraph}{综合性项目政府补助}{186}{paragraph*.197}%
+\contentsline {paragraph}{政策性优惠贷款贴息}{186}{paragraph*.198}%
+\contentsline {subsection}{\numberline {18.3}政府补助的列报}{187}{subsection.18.3}%
+\contentsline {subsubsection}{\numberline {18.3.1}政府补助在利润表上的列示}{187}{subsubsection.18.3.1}%
+\contentsline {subsubsection}{\numberline {18.3.2}政府补助的附注披露}{187}{subsubsection.18.3.2}%
+\contentsline {section}{\numberline {19}所得税}{188}{section.19}%
+\contentsline {subsection}{\numberline {19.1}所得税核算的基本原理}{188}{subsection.19.1}%
+\contentsline {subsubsection}{\numberline {19.1.1}资产负债表债务法}{188}{subsubsection.19.1.1}%
+\contentsline {subsubsection}{\numberline {19.1.2}所得税会计的一般程序}{188}{subsubsection.19.1.2}%
+\contentsline {subsection}{\numberline {19.2}资产、负债的计税基础}{188}{subsection.19.2}%
+\contentsline {subsubsection}{\numberline {19.2.1}资产的计税基础}{188}{subsubsection.19.2.1}%
+\contentsline {paragraph}{固定资产}{189}{paragraph*.199}%
+\contentsline {paragraph}{无形资产}{189}{paragraph*.200}%
+\contentsline {paragraph}{以公允价值计量的金融资产}{189}{paragraph*.201}%
+\contentsline {paragraph}{其他资产}{189}{paragraph*.202}%
+\contentsline {subsubsection}{\numberline {19.2.2}负债的计税基础}{190}{subsubsection.19.2.2}%
+\contentsline {paragraph}{预计负债}{190}{paragraph*.203}%
+\contentsline {paragraph}{合同负债}{190}{paragraph*.204}%
+\contentsline {paragraph}{应付职工薪酬}{190}{paragraph*.205}%
+\contentsline {paragraph}{递延收益}{191}{paragraph*.206}%
+\contentsline {paragraph}{以公允价值计量且其变动计入当期损益的金融负债}{191}{paragraph*.207}%
+\contentsline {paragraph}{其他负债，如罚款、滞纳金}{191}{paragraph*.208}%
+\contentsline {subsubsection}{\numberline {19.2.3}特殊交易或事项中产生资产、负债计税基础的确定}{191}{subsubsection.19.2.3}%
+\contentsline {subsection}{\numberline {19.3}暂时性差异}{191}{subsection.19.3}%
+\contentsline {subsubsection}{\numberline {19.3.1}暂时性差异的含义和种类}{191}{subsubsection.19.3.1}%
+\contentsline {subsubsection}{\numberline {19.3.2}特殊项目产生的暂时性差异}{192}{subsubsection.19.3.2}%
+\contentsline {subsection}{\numberline {19.4}递延所得税资产及负债的确认和计量}{192}{subsection.19.4}%
+\contentsline {subsubsection}{\numberline {19.4.1}递延所得税负债的确认和计量}{192}{subsubsection.19.4.1}%
+\contentsline {paragraph}{递延所得税负债的确认}{192}{paragraph*.209}%
+\contentsline {paragraph}{递延所得税负债的计量}{194}{paragraph*.210}%
+\contentsline {subsubsection}{\numberline {19.4.2}递延所得税资产的确认和计量}{194}{subsubsection.19.4.2}%
+\contentsline {paragraph}{递延所得税资产的确认}{194}{paragraph*.211}%
+\contentsline {paragraph}{递延所得税资产的计量}{195}{paragraph*.212}%
+\contentsline {subsubsection}{\numberline {19.4.3}特殊交易或事项中涉及递延所得税的确认和计量}{195}{subsubsection.19.4.3}%
+\contentsline {paragraph}{直接计入所有者权益的交易或事项相关的所得税}{195}{paragraph*.213}%
+\contentsline {paragraph}{与企业合并相关的递延所得税}{195}{paragraph*.214}%
+\contentsline {paragraph}{与股份支付相关的当期递延所得税}{196}{paragraph*.215}%
+\contentsline {subsubsection}{\numberline {19.4.4}适用税率变化对已确认递延所得税}{196}{subsubsection.19.4.4}%
+\contentsline {subsubsection}{\numberline {19.4.5}资产和递延所得税负债的影响}{196}{subsubsection.19.4.5}%
+\contentsline {subsection}{\numberline {19.5}所得税费用的确认和计量}{196}{subsection.19.5}%
+\contentsline {subsubsection}{\numberline {19.5.1}当期所得税}{197}{subsubsection.19.5.1}%
+\contentsline {subsubsection}{\numberline {19.5.2}递延所得税}{197}{subsubsection.19.5.2}%
+\contentsline {subsubsection}{\numberline {19.5.3}所得税费用}{197}{subsubsection.19.5.3}%
+\contentsline {subsection}{\numberline {19.6}所得税的列报}{197}{subsection.19.6}%
+\contentsline {subsubsection}{\numberline {19.6.1}列报的基本原则}{197}{subsubsection.19.6.1}%
+\contentsline {subsubsection}{\numberline {19.6.2}所得税费用（收益）与会计利润关系的说明}{198}{subsubsection.19.6.2}%
+\contentsline {section}{\numberline {20}非货币性资产交换}{199}{section.20}%
+\contentsline {subsection}{\numberline {20.1}非货币性资产交换的概念}{199}{subsection.20.1}%
+\contentsline {subsubsection}{\numberline {20.1.1}非货币性资产交换的相关概念}{199}{subsubsection.20.1.1}%
+\contentsline {subsubsection}{\numberline {20.1.2}涉及的特殊交易和事项的处理原则}{199}{subsubsection.20.1.2}%
+\contentsline {subsection}{\numberline {20.2}非货币性资产交换的确认和计量}{200}{subsection.20.2}%
+\contentsline {subsubsection}{\numberline {20.2.1}非货币性资产交换的确认原则}{200}{subsubsection.20.2.1}%
+\contentsline {subsubsection}{\numberline {20.2.2}非货币性资产交换的计量原则}{201}{subsubsection.20.2.2}%
+\contentsline {paragraph}{以公允价值为基础计量}{201}{paragraph*.216}%
+\contentsline {paragraph}{以账面价值为基础计量}{201}{paragraph*.217}%
+\contentsline {subsubsection}{\numberline {20.2.3}商业实质的判断}{201}{subsubsection.20.2.3}%
+\contentsline {subsection}{\numberline {20.3}非货币性资产交换的会计处理}{202}{subsection.20.3}%
+\contentsline {subsubsection}{\numberline {20.3.1}以公允价值为基础计量的会计处理}{202}{subsubsection.20.3.1}%
+\contentsline {paragraph}{不涉及补价的情况}{202}{paragraph*.218}%
+\contentsline {paragraph}{涉及补价的情况}{202}{paragraph*.219}%
+\contentsline {subsubsection}{\numberline {20.3.2}以账面价值为基础计量的会计处理}{203}{subsubsection.20.3.2}%
+\contentsline {paragraph}{不涉及补价}{203}{paragraph*.220}%
+\contentsline {paragraph}{涉及补价}{203}{paragraph*.221}%
+\contentsline {subsubsection}{\numberline {20.3.3}涉及多项非货币性资产交换的会计处理}{203}{subsubsection.20.3.3}%
+\contentsline {paragraph}{以公允价值为基础计量的情况}{203}{paragraph*.222}%
+\contentsline {paragraph}{以账面价值为基础计量的情况}{204}{paragraph*.223}%
+\contentsline {section}{\numberline {21}债务重组}{205}{section.21}%
+\contentsline {subsection}{\numberline {21.1}债务重组的定义及方法}{205}{subsection.21.1}%
+\contentsline {subsubsection}{\numberline {21.1.1}债务重组的定义}{205}{subsubsection.21.1.1}%
+\contentsline {subsubsection}{\numberline {21.1.2}债务重组的方式}{205}{subsubsection.21.1.2}%
+\contentsline {subsection}{\numberline {21.2}债务重组的会计处理}{206}{subsection.21.2}%
+\contentsline {subsubsection}{\numberline {21.2.1}债权和债务的终止确认}{206}{subsubsection.21.2.1}%
+\contentsline {paragraph}{以资产清偿债务或将债务转为权益工具}{206}{paragraph*.224}%
+\contentsline {paragraph}{修改其他条款（调整债务本金、改变债务利息、变更还款期限等）}{206}{paragraph*.225}%
+\contentsline {paragraph}{组合方式}{207}{paragraph*.226}%
+\contentsline {subsubsection}{\numberline {21.2.2}债权人和债务人的具体账务处理原则}{207}{subsubsection.21.2.2}%
+\contentsline {paragraph}{以资产清偿债务或将债务转为权益工具}{207}{paragraph*.227}%
+\contentsline {paragraph}{债权人受让金融资产/债务人以金融资产清偿债务}{207}{paragraph*.228}%
+\contentsline {paragraph}{债权人受让非金融资产/债务人以非金融资产清偿债务}{209}{paragraph*.229}%
+\contentsline {paragraph}{受让多项资产的特殊情况}{209}{paragraph*.230}%
+\contentsline {paragraph}{债权人受让处置组/债务人以处置组情场债务}{210}{paragraph*.231}%
+\contentsline {paragraph}{修改其他条款}{211}{paragraph*.232}%
+\contentsline {paragraph}{组合方式}{212}{paragraph*.233}%
+\contentsline {subsection}{\numberline {21.3}债务重组的相关披露}{212}{subsection.21.3}%
+\contentsline {subsubsection}{\numberline {21.3.1}信息披露的基本要求}{212}{subsubsection.21.3.1}%
+\contentsline {subsubsection}{\numberline {21.3.2}应当披露的信息}{213}{subsubsection.21.3.2}%
+\contentsline {section}{\numberline {22}外币折算}{214}{section.22}%
+\contentsline {subsection}{\numberline {22.1}记账本位币的确定}{214}{subsection.22.1}%
+\contentsline {subsubsection}{\numberline {22.1.1}记账本位币的确定}{214}{subsubsection.22.1.1}%
+\contentsline {subsubsection}{\numberline {22.1.2}境外经营记账本位币的确定}{214}{subsubsection.22.1.2}%
+\contentsline {subsubsection}{\numberline {22.1.3}记账本位币变更的会计处理}{215}{subsubsection.22.1.3}%
+\contentsline {subsection}{\numberline {22.2}外币交易的会计处理}{215}{subsection.22.2}%
+\contentsline {subsubsection}{\numberline {22.2.1}汇率}{215}{subsubsection.22.2.1}%
+\contentsline {subsubsection}{\numberline {22.2.2}外币交易的记账方法}{215}{subsubsection.22.2.2}%
+\contentsline {subsubsection}{\numberline {22.2.3}外币交易的会计处理}{216}{subsubsection.22.2.3}%
+\contentsline {subsection}{\numberline {22.3}外币财务报表折算}{217}{subsection.22.3}%
+\contentsline {subsubsection}{\numberline {22.3.1}境外经营财务报表的折算}{217}{subsubsection.22.3.1}%
+\contentsline {subsubsection}{\numberline {22.3.2}境外经营的处置}{219}{subsubsection.22.3.2}%
+\contentsline {section}{\numberline {23}财务报告}{220}{section.23}%
+\contentsline {subsection}{\numberline {23.1}财务报表概述}{220}{subsection.23.1}%
+\contentsline {subsubsection}{\numberline {23.1.1}财务报表的定义和构成}{220}{subsubsection.23.1.1}%
+\contentsline {subsubsection}{\numberline {23.1.2}财务报表列报的基本要求}{220}{subsubsection.23.1.2}%
+\contentsline {subsection}{\numberline {23.2}资产负债表}{221}{subsection.23.2}%
+\contentsline {subsubsection}{\numberline {23.2.1}资产负债表的内容及结构}{221}{subsubsection.23.2.1}%
+\contentsline {subsubsection}{\numberline {23.2.2}资产和负债按流动性列报}{221}{subsubsection.23.2.2}%
+\contentsline {paragraph}{资产的流动性划分}{221}{paragraph*.234}%
+\contentsline {paragraph}{负债的流动性划分}{222}{paragraph*.235}%
+\contentsline {subsubsection}{\numberline {23.2.3}资产负债表的填列方法}{223}{subsubsection.23.2.3}%
+\contentsline {paragraph}{资产负债表期末余额栏的填列方法}{223}{paragraph*.236}%
+\contentsline {subsection}{\numberline {23.3}利润表}{227}{subsection.23.3}%
+\contentsline {subsubsection}{\numberline {23.3.1}利润表的内容及结构}{227}{subsubsection.23.3.1}%
+\contentsline {subsubsection}{\numberline {23.3.2}利润表的填列方法}{227}{subsubsection.23.3.2}%
+\contentsline {subsection}{\numberline {23.4}现金流量表}{227}{subsection.23.4}%
+\contentsline {subsubsection}{\numberline {23.4.1}现金流量表的内容及结构}{227}{subsubsection.23.4.1}%
+\contentsline {subsubsection}{\numberline {23.4.2}现金流量表的填列方法}{228}{subsubsection.23.4.2}%
+\contentsline {subsubsection}{\numberline {23.4.3}现金流量表的编制方法及程序}{229}{subsubsection.23.4.3}%
+\contentsline {subsubsection}{\numberline {23.4.4}现金流量表编制示例}{229}{subsubsection.23.4.4}%
+\contentsline {subsection}{\numberline {23.5}所有者权益变动表}{229}{subsection.23.5}%
+\contentsline {subsubsection}{\numberline {23.5.1}所有者权益变动表的内容及结构}{229}{subsubsection.23.5.1}%
+\contentsline {subsubsection}{\numberline {23.5.2}所有者权益变动表的填列方法}{229}{subsubsection.23.5.2}%
+\contentsline {subsection}{\numberline {23.6}财务报表附注披露}{229}{subsection.23.6}%
+\contentsline {subsubsection}{\numberline {23.6.1}附注披露的总体要求}{229}{subsubsection.23.6.1}%
+\contentsline {subsubsection}{\numberline {23.6.2}附注的主要内容}{230}{subsubsection.23.6.2}%
+\contentsline {subsubsection}{\numberline {23.6.3}分部报告}{230}{subsubsection.23.6.3}%
+\contentsline {subsubsection}{\numberline {23.6.4}关联方披露}{233}{subsubsection.23.6.4}%
+\contentsline {subsection}{\numberline {23.7}中期财务报表}{234}{subsection.23.7}%
+\contentsline {subsubsection}{\numberline {23.7.1}中期财务报告的定义及其构成}{234}{subsubsection.23.7.1}%
+\contentsline {subsubsection}{\numberline {23.7.2}中期财务报告的编制要求}{234}{subsubsection.23.7.2}%
+\contentsline {subsubsection}{\numberline {23.7.3}中期财务报告附注的编制要求}{236}{subsubsection.23.7.3}%
+\contentsline {section}{\numberline {24}会计政策、会计估计及其变更和差错更正}{237}{section.24}%
+\contentsline {subsection}{\numberline {24.1}会计政策及其变更的概述}{237}{subsection.24.1}%
+\contentsline {subsubsection}{\numberline {24.1.1}会计政策的概述}{237}{subsubsection.24.1.1}%
+\contentsline {subsubsection}{\numberline {24.1.2}会计政策变更的概述}{238}{subsubsection.24.1.2}%
+\contentsline {subsection}{\numberline {24.2}会计估计及其变更的概述}{238}{subsection.24.2}%
+\contentsline {subsubsection}{\numberline {24.2.1}会计估计的概述}{238}{subsubsection.24.2.1}%
+\contentsline {subsubsection}{\numberline {24.2.2}会计估计变更的概述}{239}{subsubsection.24.2.2}%
+\contentsline {subsection}{\numberline {24.3}会计政策与会计估计及其变更的划分}{239}{subsection.24.3}%
+\contentsline {subsection}{\numberline {24.4}会计政策和会计估计变更的会计处理}{239}{subsection.24.4}%
+\contentsline {subsubsection}{\numberline {24.4.1}会计政策变更的会计处理}{239}{subsubsection.24.4.1}%
+\contentsline {paragraph}{追溯调整法}{240}{paragraph*.237}%
+\contentsline {paragraph}{未来适用法}{240}{paragraph*.238}%
+\contentsline {paragraph}{处理方法的选择}{240}{paragraph*.239}%
+\contentsline {paragraph}{会计政策变更的披露}{241}{paragraph*.240}%
+\contentsline {subsubsection}{\numberline {24.4.2}会计估计变更的会计处理}{241}{subsubsection.24.4.2}%
+\contentsline {subsection}{\numberline {24.5}前期差错及其更正}{241}{subsection.24.5}%
+\contentsline {subsubsection}{\numberline {24.5.1}前期差错概述}{241}{subsubsection.24.5.1}%
+\contentsline {subsubsection}{\numberline {24.5.2}前期差错更正的会计处理}{241}{subsubsection.24.5.2}%
+\contentsline {subsubsection}{\numberline {24.5.3}前期差错更正的披露}{242}{subsubsection.24.5.3}%
+\contentsline {section}{\numberline {25}资产负债表日后事项}{243}{section.25}%
+\contentsline {subsection}{\numberline {25.1}资产负债表日后事项概述}{243}{subsection.25.1}%
+\contentsline {subsubsection}{\numberline {25.1.1}资产负债表日后事项的定义}{243}{subsubsection.25.1.1}%
+\contentsline {subsubsection}{\numberline {25.1.2}资产负债表日后事项涵盖的期间}{243}{subsubsection.25.1.2}%
+\contentsline {subsubsection}{\numberline {25.1.3}资产负债表日后事项的内容}{243}{subsubsection.25.1.3}%
+\contentsline {subsection}{\numberline {25.2}调整事项的会计处理}{244}{subsection.25.2}%
+\contentsline {subsubsection}{\numberline {25.2.1}调整事项的处理原则}{244}{subsubsection.25.2.1}%
+\contentsline {subsubsection}{\numberline {25.2.2}资产负债表日后调整事项的具体会计处理方法}{245}{subsubsection.25.2.2}%
+\contentsline {subsection}{\numberline {25.3}非调整事项的会计处理}{245}{subsection.25.3}%
+\contentsline {subsubsection}{\numberline {25.3.1}非调整事项的处理原则}{245}{subsubsection.25.3.1}%
+\contentsline {subsubsection}{\numberline {25.3.2}非调整事项的具体会计处理办法}{245}{subsubsection.25.3.2}%
+\contentsline {section}{\numberline {26}企业合并}{247}{section.26}%
+\contentsline {subsection}{\numberline {26.1}企业合并概述}{247}{subsection.26.1}%
+\contentsline {subsubsection}{\numberline {26.1.1}企业合并的界定}{247}{subsubsection.26.1.1}%
+\contentsline {subsubsection}{\numberline {26.1.2}企业合并的方式}{248}{subsubsection.26.1.2}%
+\contentsline {subsubsection}{\numberline {26.1.3}企业合并类型的划分}{248}{subsubsection.26.1.3}%
+\contentsline {subsection}{\numberline {26.2}企业合并的会计处理}{248}{subsection.26.2}%
+\contentsline {subsubsection}{\numberline {26.2.1}同一控制下的企业合并的处理}{248}{subsubsection.26.2.1}%
+\contentsline {subsubsection}{\numberline {26.2.2}非同一控制下的企业合并的处理}{249}{subsubsection.26.2.2}%
+\contentsline {subsubsection}{\numberline {26.2.3}同一控制下企业合并涉及的或有对价}{249}{subsubsection.26.2.3}%
+\contentsline {subsubsection}{\numberline {26.2.4}非同一控制下企业合并涉及的或有对价}{249}{subsubsection.26.2.4}%
+\contentsline {subsubsection}{\numberline {26.2.5}反向购买的处理}{250}{subsubsection.26.2.5}%
+\contentsline {subsubsection}{\numberline {26.2.6}被购买方的会计处理}{251}{subsubsection.26.2.6}%
+\contentsline {section}{\numberline {27}合并财务报表}{252}{section.27}%
+\contentsline {subsection}{\numberline {27.1}合并范围的确定}{252}{subsection.27.1}%
+\contentsline {subsubsection}{\numberline {27.1.1}以控制为基础，确定合并范围}{252}{subsubsection.27.1.1}%
+\contentsline {subsubsection}{\numberline {27.1.2}纳入合并范围的特殊情况}{255}{subsubsection.27.1.2}%
+\contentsline {subsubsection}{\numberline {27.1.3}合并范围的豁免}{255}{subsubsection.27.1.3}%
+\contentsline {subsubsection}{\numberline {27.1.4}控制的持续评估}{256}{subsubsection.27.1.4}%
+\contentsline {subsection}{\numberline {27.2}合并财务报表编制原则、前期准备事项及程序}{256}{subsection.27.2}%
+\contentsline {subsubsection}{\numberline {27.2.1}合并财务报表的编制原则}{256}{subsubsection.27.2.1}%
+\contentsline {subsubsection}{\numberline {27.2.2}合并财务报表的构成}{256}{subsubsection.27.2.2}%
+\contentsline {subsubsection}{\numberline {27.2.3}合并财务报表编制的前期准备事项}{257}{subsubsection.27.2.3}%
+\contentsline {subsubsection}{\numberline {27.2.4}合并财务报表的编制程序}{257}{subsubsection.27.2.4}%
+\contentsline {subsubsection}{\numberline {27.2.5}编制合并财务报表需要调整抵消的科目}{257}{subsubsection.27.2.5}%
+\contentsline {subsubsection}{\numberline {27.2.6}合并财务报表的格式}{257}{subsubsection.27.2.6}%
+\contentsline {subsection}{\numberline {27.3}同一控制下长期股权投资与所有者权益的合并处理}{258}{subsection.27.3}%
+\contentsline {subsubsection}{\numberline {27.3.1}同一控制下取得子公司合并日合并财务报表的编制}{258}{subsubsection.27.3.1}%
+\contentsline {subsubsection}{\numberline {27.3.2}直接投资及同一控制下取得子公司合并日后合并财务报表的编制}{259}{subsubsection.27.3.2}%
+\contentsline {subsection}{\numberline {27.4}非同一控制下长期股权投资与所有者权益的合并处理}{259}{subsection.27.4}%
+\contentsline {subsubsection}{\numberline {27.4.1}非同一控制下取得子公司购买日合并财务报表的编制}{259}{subsubsection.27.4.1}%
+\contentsline {subsubsection}{\numberline {27.4.2}非同一控制下取得子公司购买日后合并财务报表的编制}{260}{subsubsection.27.4.2}%
+\contentsline {subsection}{\numberline {27.5}内部商品交易的合并处理}{261}{subsection.27.5}%
+\contentsline {subsubsection}{\numberline {27.5.1}内部销售收入和内部销售成本的抵消处理}{261}{subsubsection.27.5.1}%
+\contentsline {paragraph}{购买企业内部购进的商品当期全部实现销售时的抵消处理}{261}{paragraph*.241}%
+\contentsline {paragraph}{购买企业内部购进的商品未实现对外销售时的抵消处理}{261}{paragraph*.242}%
+\contentsline {paragraph}{购买企业内部购进的商品作为固定资产使用时的抵消处理}{261}{paragraph*.243}%
+\contentsline {paragraph}{集团内部商品购销交易抵消土地增值税和增值税的处理}{261}{paragraph*.244}%
+\contentsline {subsubsection}{\numberline {27.5.2}连续编制合并财务报表时内部销售商品的合并处理}{261}{subsubsection.27.5.2}%
+\contentsline {subsubsection}{\numberline {27.5.3}存货跌价准备的合并处理}{262}{subsubsection.27.5.3}%
+\contentsline {subsection}{\numberline {27.6}内部债券债务的合并处理}{262}{subsection.27.6}%
+\contentsline {subsubsection}{\numberline {27.6.1}内部债券债务抵消概述}{262}{subsubsection.27.6.1}%
+\contentsline {subsubsection}{\numberline {27.6.2}内部应收应付款项及其坏账准备的合并处理}{263}{subsubsection.27.6.2}%
+\contentsline {subsubsection}{\numberline {27.6.3}连续编制合并财务报表时内部应收应付款项及其坏账准备的合并处理}{263}{subsubsection.27.6.3}%
+\contentsline {subsection}{\numberline {27.7}内部固定资产交易的合并处理}{264}{subsection.27.7}%
+\contentsline {subsubsection}{\numberline {27.7.1}内部固定资产交易概述}{264}{subsubsection.27.7.1}%
+\contentsline {subsubsection}{\numberline {27.7.2}内部固定资产交易当期的合并处理}{264}{subsubsection.27.7.2}%
+\contentsline {subsubsection}{\numberline {27.7.3}内部交易固定资产取得后处置前期间的合并处理}{264}{subsubsection.27.7.3}%
+\contentsline {subsubsection}{\numberline {27.7.4}内部交易固定资产清理期间的合并处理}{264}{subsubsection.27.7.4}%
+\contentsline {subsection}{\numberline {27.8}内部无形资产交易的合并处理}{264}{subsection.27.8}%
+\contentsline {subsubsection}{\numberline {27.8.1}内部无形资产交易当期的合并处理}{264}{subsubsection.27.8.1}%
+\contentsline {subsubsection}{\numberline {27.8.2}内部交易无形资产持有期间的合并处理}{264}{subsubsection.27.8.2}%
+\contentsline {subsubsection}{\numberline {27.8.3}内部无形资产交易摊销完毕的期间的合并处理}{264}{subsubsection.27.8.3}%
+\contentsline {subsection}{\numberline {27.9}特殊交易在合并财务报表中的会计处理}{264}{subsection.27.9}%
+\contentsline {subsubsection}{\numberline {27.9.1}追加投资的会计处理}{264}{subsubsection.27.9.1}%
+\contentsline {subsubsection}{\numberline {27.9.2}处置对子公司投资的会计处理}{264}{subsubsection.27.9.2}%
+\contentsline {subsubsection}{\numberline {27.9.3}因子公司少数股东增资导致母公司股权稀释的会计处理}{264}{subsubsection.27.9.3}%
+\contentsline {subsubsection}{\numberline {27.9.4}交叉持股的合并处理}{264}{subsubsection.27.9.4}%
+\contentsline {subsubsection}{\numberline {27.9.5}逆流交易的合并处理}{264}{subsubsection.27.9.5}%
+\contentsline {subsubsection}{\numberline {27.9.6}其他特殊交易}{264}{subsubsection.27.9.6}%
+\contentsline {subsection}{\numberline {27.10}所得税会计相关的合并处理}{264}{subsection.27.10}%
+\contentsline {subsection}{\numberline {27.11}合并现金流量表的编制}{264}{subsection.27.11}%
+\contentsline {subsubsection}{\numberline {27.11.1}合并现金流量表概述}{264}{subsubsection.27.11.1}%
+\contentsline {subsubsection}{\numberline {27.11.2}编制合并现金流量表需要抵消的项目}{264}{subsubsection.27.11.2}%
+\contentsline {section}{\numberline {28}每股收益}{265}{section.28}%
+\contentsline {subsection}{\numberline {28.1}每股收益的基本概念}{265}{subsection.28.1}%
+\contentsline {subsection}{\numberline {28.2}基本每股收益}{265}{subsection.28.2}%
+\contentsline {subsubsection}{\numberline {28.2.1}分子的确定}{265}{subsubsection.28.2.1}%
+\contentsline {subsubsection}{\numberline {28.2.2}分母的确定}{265}{subsubsection.28.2.2}%
+\contentsline {subsection}{\numberline {28.3}稀释每股收益}{266}{subsection.28.3}%
+\contentsline {subsubsection}{\numberline {28.3.1}基本计算原则}{266}{subsubsection.28.3.1}%
+\contentsline {subsubsection}{\numberline {28.3.2}可转换公司债券}{266}{subsubsection.28.3.2}%
+\contentsline {subsubsection}{\numberline {28.3.3}认股权证、股份期权}{267}{subsubsection.28.3.3}%
+\contentsline {subsubsection}{\numberline {28.3.4}限制性股票}{267}{subsubsection.28.3.4}%
+\contentsline {subsubsection}{\numberline {28.3.5}企业承诺将回购其股份的合同}{268}{subsubsection.28.3.5}%
+\contentsline {subsubsection}{\numberline {28.3.6}多项潜在普通股}{268}{subsubsection.28.3.6}%
+\contentsline {subsubsection}{\numberline {28.3.7}子公司、合营企业或联营企业发行的潜在普通股}{269}{subsubsection.28.3.7}%
+\contentsline {subsection}{\numberline {28.4}每股收益的列报}{269}{subsection.28.4}%
+\contentsline {subsubsection}{\numberline {28.4.1}重新计算}{269}{subsubsection.28.4.1}%
+\contentsline {paragraph}{派发股票股利、公积金转增资本、拆股和并股}{269}{paragraph*.245}%
+\contentsline {paragraph}{配股}{269}{paragraph*.246}%
+\contentsline {subsubsection}{\numberline {28.4.2}列报}{270}{subsubsection.28.4.2}%
+\contentsline {section}{\numberline {29}公允价值计量}{271}{section.29}%
+\contentsline {subsection}{\numberline {29.1}公允价值概述}{271}{subsection.29.1}%
+\contentsline {subsubsection}{\numberline {29.1.1}公允价值的定义}{271}{subsubsection.29.1.1}%
+\contentsline {subsubsection}{\numberline {29.1.2}公允价值计量的基本要求}{271}{subsubsection.29.1.2}%
+\contentsline {subsection}{\numberline {29.2}公允价值计量要求}{273}{subsection.29.2}%
+\contentsline {subsubsection}{\numberline {29.2.1}公允价值的初始计量}{273}{subsubsection.29.2.1}%
+\contentsline {subsubsection}{\numberline {29.2.2}估值技术}{273}{subsubsection.29.2.2}%
+\contentsline {subsubsection}{\numberline {29.2.3}输入值}{275}{subsubsection.29.2.3}%
+\contentsline {subsubsection}{\numberline {29.2.4}公允价值层次}{275}{subsubsection.29.2.4}%
+\contentsline {subsection}{\numberline {29.3}公允价值计量的具体应用}{276}{subsection.29.3}%
+\contentsline {subsubsection}{\numberline {29.3.1}非金融资产}{276}{subsubsection.29.3.1}%
+\contentsline {subsubsection}{\numberline {29.3.2}负债和企业自身权益工具的公允价值计量}{276}{subsubsection.29.3.2}%
+\contentsline {subsubsection}{\numberline {29.3.3}市场风险或信用风险可抵消的金额}{277}{subsubsection.29.3.3}%
+\contentsline {subsubsection}{\numberline {29.3.4}资产和金融负债的公允价值计量}{277}{subsubsection.29.3.4}%
+\contentsline {section}{\numberline {30}政府及民间非盈利组织会计}{278}{section.30}%
+\contentsline {subsection}{\numberline {30.1}政府会计概述}{278}{subsection.30.1}%
+\contentsline {subsubsection}{\numberline {30.1.1}政府会计标准体系}{278}{subsubsection.30.1.1}%
+\contentsline {subsubsection}{\numberline {30.1.2}政府会计核算模式}{278}{subsubsection.30.1.2}%
+\contentsline {subsubsection}{\numberline {30.1.3}政府会计要素及其确认和计量}{278}{subsubsection.30.1.3}%
+\contentsline {subsubsection}{\numberline {30.1.4}政府财务报告和决算报告}{279}{subsubsection.30.1.4}%
+\contentsline {subsection}{\numberline {30.2}政府单位特定业务的会计核算}{279}{subsection.30.2}%
+\contentsline {subsubsection}{\numberline {30.2.1}单位会计核算一般原则}{279}{subsubsection.30.2.1}%
+\contentsline {subsubsection}{\numberline {30.2.2}财政拨款收支业务}{279}{subsubsection.30.2.2}%
+\contentsline {subsubsection}{\numberline {30.2.3}非财政拨款收支业务}{281}{subsubsection.30.2.3}%
+\contentsline {subsubsection}{\numberline {30.2.4}预算结转结余及分配业务}{283}{subsubsection.30.2.4}%
+\contentsline {subsubsection}{\numberline {30.2.5}净资产业务}{285}{subsubsection.30.2.5}%
+\contentsline {subsubsection}{\numberline {30.2.6}资产业务}{285}{subsubsection.30.2.6}%
+\contentsline {subsubsection}{\numberline {30.2.7}负债业务}{285}{subsubsection.30.2.7}%
+\contentsline {subsubsection}{\numberline {30.2.8}PPP项目合同}{285}{subsubsection.30.2.8}%
+\contentsline {subsubsection}{\numberline {30.2.9}部门（单位）合并财务报表}{285}{subsubsection.30.2.9}%
+\contentsline {subsection}{\numberline {30.3}民间非盈利组织会计}{285}{subsection.30.3}%
+\contentsline {subsubsection}{\numberline {30.3.1}民间非盈利组织会计概述}{285}{subsubsection.30.3.1}%
+\contentsline {subsubsection}{\numberline {30.3.2}民间非盈利组织特定业务的会计核算}{285}{subsubsection.30.3.2}%
