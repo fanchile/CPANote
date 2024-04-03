@@ -1,6 +1,7 @@
 \documentclass[UTF8,12pt]{ctexart}
 \usepackage{amsmath,amssymb,geometry,bm,graphicx,fontspec,amssymb,amsthm}
 \usepackage[mathscr]{euscript}
+\usepackage{tabularray}
 
 \usepackage[colorlinks,
 linkcolor=black,
@@ -1294,6 +1295,38 @@ citecolor=green
 	
 	\newpage
 	\section{销售与收款循环的审计}
+	\subsection{销售与收款循环的特点}
+	本节主要涉及主要单据与会计记录
+	
+	\subsection{销售与收款循环的主要业务活动和相关内部控制}
+	% \usepackage{tabularray}
+	\begin{table}[h]
+		\centering
+		\begin{tblr}{
+				width = \linewidth,
+				colspec = {Q[290]Q[306]Q[342]},
+				hlines,
+				vlines,
+			}
+			环节                & 主要单据/记录            & 报表项目/认定                                  \\
+			接受客户订购单           & 客户订购单、销售单          & 营业收入/发生                                  \\
+			批准赊销信用            & 销售单                & 应收账款等/准确性、计价和分摊                          \\
+			根据销售单编制出库单并发货     & 销售单、出库单            & 营业收入/发生，完整性                              \\
+			按出库单装运货物          & 出库单                & 营业收入/发生                                  \\
+			向客户开具发票           & 销售单、出库单、商品价目表、销售发票 & 营业收入/发生，完整性，准确性                          \\
+			记录销售（赊销、现销等）      & 销售单、出库单、销售发票       & {营业收入/发生，完整性，准确性\\应收帐款等/存在，完整性，准确、计价和分摊} \\
+			办理和记录现金、银行存款收入    & 转轧辊拼争、汇款通知书、现金     & 货币资金/完整性                                 \\
+			确认和记录可变对价单估计和结算情况 & 可变对价相关会计记录         & 营业收入/准确性                                 \\
+			集体坏账准备/合同资产减值准备   & 预期信用损失计算表          & 应收账款等/准确性、计价和分摊                          \\
+			核销坏账              & 坏账核销审批表            & 应收帐款等/存在，完整性                             
+		\end{tblr}
+	\end{table}
+	
+	\subsection{销售与收款循环的重大错报风险}
+	
+	\subsection{销售与收款循环的控制测试}
+	
+	\subsection{销售与收款循环的实质性程序}
 	
 	\newpage
 	\section{采购与付款循环的审计}
