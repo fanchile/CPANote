@@ -147,16 +147,16 @@
 \contentsline {subsubsection}{\numberline {9.2.4}非货币性福利}{72}{subsubsection.9.2.4}%
 \contentsline {paragraph}{自产产品}{73}{paragraph*.63}%
 \contentsline {paragraph}{外购产品}{73}{paragraph*.64}%
-\contentsline {paragraph}{自有住房无偿给员工使用}{73}{paragraph*.65}%
-\contentsline {paragraph}{租赁住房无偿给员工使用}{73}{paragraph*.66}%
+\contentsline {paragraph}{自有住房无偿给员工使用}{74}{paragraph*.65}%
+\contentsline {paragraph}{租赁住房无偿给员工使用}{74}{paragraph*.66}%
 \contentsline {paragraph}{提供支付了补贴的商品或服务}{74}{paragraph*.67}%
-\contentsline {subsection}{\numberline {9.3}离职后福利的确认与计量}{74}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.3}离职后福利的确认与计量}{75}{subsection.9.3}%
 \contentsline {subsubsection}{\numberline {9.3.1}设定提存计划}{75}{subsubsection.9.3.1}%
-\contentsline {subsubsection}{\numberline {9.3.2}设定收益计划}{75}{subsubsection.9.3.2}%
-\contentsline {subsection}{\numberline {9.4}辞退福利的确认与计量}{76}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.3.2}设定收益计划}{76}{subsubsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.4}辞退福利的确认与计量}{77}{subsection.9.4}%
 \contentsline {paragraph}{主要内容}{77}{paragraph*.68}%
 \contentsline {paragraph}{确认日期}{77}{paragraph*.69}%
-\contentsline {paragraph}{计量}{77}{paragraph*.70}%
+\contentsline {paragraph}{计量}{78}{paragraph*.70}%
 \contentsline {paragraph}{其他注意事项}{78}{paragraph*.71}%
 \contentsline {subsection}{\numberline {9.5}其他长期职工福利的确认与计量}{78}{subsection.9.5}%
 \contentsline {paragraph}{设定提存计划}{78}{paragraph*.72}%
