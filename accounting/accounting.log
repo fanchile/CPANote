@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  7 APR 2024 14:23
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  8 APR 2024 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1200,25 +1200,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 1497--1497
 > Step: build the whole table.
 [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
 [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78]
-[79] [80] [81] [82] [83] [84] [85] [86] [87]
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[88]
+[89]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[89] [90] [91] [92] [93]
+[90] [91] [92] [93] [94]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ∑ (U+2211) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-[107] [108] [109]
+[95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107]
+[108] [109] [110]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1253,7 +1253,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[110]
+[111]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1266,7 +1266,7 @@ Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[111] [112]
+[112] [113]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1277,7 +1277,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[113] [114]
+[114] [115]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1286,19 +1286,19 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[115] [116]
+[116] [117]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[117]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [118]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[119]
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 File: pic/screenshot001.png Graphic file (type bmp)
@@ -1306,18 +1306,18 @@ File: pic/screenshot001.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[119]
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [120]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[121]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1332,7 +1332,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[121] [122] [123] [124]
+[122] [123] [124] [125]
 File: pic/金融资产重分类1.png Graphic file (type bmp)
 <pic/金融资产重分类1.png>
 File: pic/金融资产重分类2.png Graphic file (type bmp)
@@ -1353,14 +1353,14 @@ File: pic/金融资产重分类5.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[125] [126] [127] [128] [129] [130]
+[126] [127] [128] [129] [130] [131]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[131]
+[132]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1377,15 +1377,15 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143]
-[144]
+[133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144]
+[145]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[145] [146]
+[146] [147]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1400,10 +1400,10 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[147] [148] [149]
+[148] [149] [150]
 Missing character: There is no ④ (U+2463) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[150]
+[151]
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
@@ -1414,7 +1414,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[151] [152]
+[152] [153]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1427,30 +1427,30 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[153] [154]
+[154] [155]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[155] [156]
+[156] [157]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [168]
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
+[158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[169] [170] [171]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[170] [171] [172]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1461,17 +1461,6 @@ Missing character: There is no ④ (U+2463) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[172]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1493,13 +1482,17 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [174]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1511,12 +1504,19 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
 [176]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [177]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[178]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1529,7 +1529,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[178] [179]
+[179] [180]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1540,7 +1540,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[180]
+[181]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1549,7 +1549,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[181] [182]
+[182] [183]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1569,13 +1569,6 @@ ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[183]
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [184]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1584,6 +1577,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
+[185]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1592,17 +1586,23 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[185] [186] [187] [188] [189]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[186] [187] [188] [189] [190]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[190] [191] [192] [193] [194] [195]
+[191] [192] [193] [194] [195] [196]
 Missing character: There is no  (U+F8FF) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no  (U+F8FF) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[196] [197]
+[197] [198]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1611,7 +1611,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[198] [199] [200] [201] [202] [203] [204]
+[199] [200] [201] [202] [203] [204] [205]
 Missing character: There is no  (U+F8FF) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no  (U+F8FF) in font [lmroman12-regular]:mapping=t
@@ -1622,12 +1622,12 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[205] [206] [207]
+[206] [207] [208]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[208]
+[209]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1636,17 +1636,17 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[209] [210]
+[210] [211]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[211] [212] [213]
+[212] [213] [214]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[214]
+[215]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1655,7 +1655,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[215] [216]
+[216] [217]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1668,7 +1668,7 @@ Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[217]
+[218]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1677,37 +1677,19 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[218] [219]
+[219] [220]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231]
-[232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243]
-[244]
+[221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [232]
+[233] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [244]
+[245]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[245] [246] [247] [248] [249]
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[250]
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[251] [252]
+[246] [247] [248] [249] [250]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1722,6 +1704,24 @@ Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
+[251]
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[252] [253]
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
+ex-text;!
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1732,15 +1732,15 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[253]
+[254]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[254] [255] [256] [257] [258]
+[255] [256] [257] [258] [259]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[259]
+[260]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1759,15 +1759,6 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[260]
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [261]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
@@ -1777,37 +1768,35 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [262]
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [263]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[264]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
+[264]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1817,7 +1806,18 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[266] [267] [268] [269] [270]
+Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[266]
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[267] [268] [269] [270] [271]
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
@@ -1826,7 +1826,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[271] [272]
+[272] [273]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1851,19 +1851,19 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[273]
+[274]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[274] [275] [276]
+[275] [276] [277]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[277]
+[278]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1876,7 +1876,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[278] [279]
+[279] [280]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
@@ -1889,7 +1889,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ↔ (U+2194) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[280] [281] [282] [283] [284]
+[281] [282] [283] [284] [285]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1906,7 +1906,7 @@ Missing character: There is no ④ (U+2463) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ⑤ (U+2464) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[285]
+[286]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
@@ -1927,21 +1927,21 @@ Missing character: There is no ⑥ (U+2465) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ⑤ (U+2464) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[286]
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [287]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
 [288]
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[289]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1960,14 +1960,14 @@ Missing character: There is no ④ (U+2463) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ⑤ (U+2464) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[289]
+[290]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[290] [291] (./accounting.aux)
+[291] [292] (./accounting.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -1979,8 +1979,14 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `accounting.out' has not changed.
-(rerunfilecheck)             Checksum: 2E05788815AC05F37066D0E7FE9CBADD;64371.
+
+Package rerunfilecheck Warning: File `accounting.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `accounting.out':
+(rerunfilecheck)             Before: 2E05788815AC05F37066D0E7FE9CBADD;64371
+(rerunfilecheck)             After:  3695778EE915A427736ED5D5D70A25A4;64446.
  ) 
 Here is how much of TeX's memory you used:
  22421 strings out of 474773
@@ -1991,4 +1997,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  93i,13n,123p,3243b,1007s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on accounting.pdf (291 pages).
+Output written on accounting.pdf (292 pages).

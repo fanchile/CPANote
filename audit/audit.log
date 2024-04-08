@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  5 APR 2024 21:51
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  8 APR 2024 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,7 +781,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 108.
+t line 109.
  [2])
 \tf@toc=\write4
 \openout4 = `audit.toc'.
@@ -855,28 +855,21 @@ ex-text;!
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [38] [39] [40] [41] [42] [43] [44] [45] [46]
-[47] [48] [49] [50] [51] [52] [53] [54] (./audit.aux)
+[47] [48] [49] [50] [51] [52] [53] [54] [55] (./audit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
-
-
-Package rerunfilecheck Warning: File `audit.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `audit.out':
-(rerunfilecheck)             Before: 9AA66A577F85EF3836B40B39714A452B;8627
-(rerunfilecheck)             After:  83FD6FC9AD7999BA1507762B31AE9641;9167.
+Package rerunfilecheck Info: File `audit.out' has not changed.
+(rerunfilecheck)             Checksum: C35B0809C7326AAAEB4CCC7339543DDF;9503.
  ) 
 Here is how much of TeX's memory you used:
- 19704 strings out of 474773
- 446475 string characters out of 5757724
+ 19705 strings out of 474773
+ 446487 string characters out of 5757724
  1952839 words of memory out of 5000000
- 41595 multiletter control sequences out of 15000+600000
+ 41596 multiletter control sequences out of 15000+600000
  574511 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,542b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on audit.pdf (54 pages).
+Output written on audit.pdf (55 pages).
