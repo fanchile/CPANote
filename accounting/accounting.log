@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  11 APR 2024 21:45
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  13 APR 2024 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -836,7 +836,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 82.
+t line 81.
  [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
 [14])
 \tf@toc=\write4
@@ -862,8 +862,10 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
+[46]
 File: pic/合营安排.png Graphic file (type bmp)
 <pic/合营安排.png>
+
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -874,7 +876,7 @@ Missing character: There is no ④ (U+2463) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ⑤ (U+2464) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[46] [47]
+[47] [48]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -883,237 +885,236 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 合 并 以 外 其
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 一
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 一
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 初 始 投 资 成
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 价 的 公 允 价
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 多
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 多
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 合 并 以 外 其
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 一
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 一
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 初 始 投 资 成
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 价 的 公 允 价
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 多
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 多
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 合 并 以 外 其
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 一
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 一
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 初 始 投 资 成
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 1453--1453
+Underfull \hbox (badness 2478) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 价 的 公 允 价
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 多
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []\TU/SongtiSCLight(0)/m/n/12 多
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 次
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1453
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \TU/SongtiSCLight(0)/m/n/12 交
  []
 
 
-Overfull \hbox (3.0877pt too wide) in paragraph at lines 1453--1455
+Overfull \hbox (3.0877pt too wide) in paragraph at lines 1459--1461
  [][] 
  []
 
-[48]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1122,33 +1123,33 @@ Overfull \hbox (3.0877pt too wide) in paragraph at lines 1453--1455
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1483
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1489
 \TU/SongtiSCLight(0)/m/n/12 的 费 用、|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1483
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1489
 []\TU/SongtiSCLight(0)/m/n/12 非 同 一 控
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1483
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1489
 \TU/SongtiSCLight(0)/m/n/12 的 费 用、|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1483
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1489
 []\TU/SongtiSCLight(0)/m/n/12 非 同 一 控
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1483
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1489
 \TU/SongtiSCLight(0)/m/n/12 的 费 用、|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1483--1483
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1489
 []\TU/SongtiSCLight(0)/m/n/12 非 同 一 控
  []
 
@@ -1160,33 +1161,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 1483--1483
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 []\TU/SongtiSCLight(0)/m/n/12 固 定 资
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 \TU/SongtiSCLight(0)/m/n/12 产 以 年
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 \TU/SongtiSCLight(0)/m/n/12 限 平 均
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 []\TU/SongtiSCLight(0)/m/n/12 固 定 资
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 \TU/SongtiSCLight(0)/m/n/12 产 以 年
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1508
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 \TU/SongtiSCLight(0)/m/n/12 限 平 均
  []
 
@@ -1234,19 +1235,19 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [112]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1259,7 +1260,7 @@ Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[113] [114]
+[113] [114] [115]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1270,7 +1271,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[115] [116]
+[116]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1291,26 +1292,22 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[120]
+[120] [121]
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 File: pic/screenshot001.png Graphic file (type bmp)
 <pic/screenshot001.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[121]
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [122]
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
+ex-text;!
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1321,18 +1318,25 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
+[123]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[123] [124] [125] [126]
+[124] [125] [126]
 File: pic/金融资产重分类1.png Graphic file (type bmp)
 <pic/金融资产重分类1.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: pic/金融资产重分类2.png Graphic file (type bmp)
 <pic/金融资产重分类2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: pic/金融资产重分类3.png Graphic file (type bmp)
 <pic/金融资产重分类3.png>
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1346,14 +1350,17 @@ File: pic/金融资产重分类5.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[127] [128] [129] [130] [131] [132]
+[127]
+
+LaTeX Warning: Text page 128 contains only floats.
+
+[128] [129] [130] [131] [132] [133]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[133]
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
@@ -1972,14 +1979,8 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `accounting.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `accounting.out':
-(rerunfilecheck)             Before: 3695778EE915A427736ED5D5D70A25A4;64446
-(rerunfilecheck)             After:  721021841A03284C7D1358C0E76C41EC;64521.
+Package rerunfilecheck Info: File `accounting.out' has not changed.
+(rerunfilecheck)             Checksum: 721021841A03284C7D1358C0E76C41EC;64521.
  ) 
 Here is how much of TeX's memory you used:
  22421 strings out of 474773
