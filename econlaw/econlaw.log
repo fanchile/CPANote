@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  14 APR 2024 14:07
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  15 APR 2024 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,21 +696,34 @@ Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[5] [6] (./econlaw.aux)
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[15] [16] [17] [18] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `econlaw.out' has not changed.
-(rerunfilecheck)             Checksum: 82FA73A2DE067ED6AB3467AA9F25C928;1129.
+(rerunfilecheck)             Checksum: B9541AD07BE339780EE5E885257E5D9B;1555.
  ) 
 Here is how much of TeX's memory you used:
- 17213 strings out of 474773
- 379819 string characters out of 5757724
- 1940839 words of memory out of 5000000
- 39113 multiletter control sequences out of 15000+600000
+ 17262 strings out of 474773
+ 383158 string characters out of 5757724
+ 1945839 words of memory out of 5000000
+ 39162 multiletter control sequences out of 15000+600000
  573056 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,97p,544b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,13n,97p,544b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (6 pages).
+Output written on econlaw.pdf (18 pages).
