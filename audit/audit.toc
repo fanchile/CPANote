@@ -99,68 +99,90 @@
 \contentsline {subsection}{\numberline {5.2}信息技术一般控制、信息处理控制和公司层面信息技术控制}{37}{subsection.5.2}%
 \contentsline {subsection}{\numberline {5.3}信息技术对审计过程的影响}{37}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}计算机辅助审计技术和电子表格的应用}{37}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}数据分析}{37}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}不同信息技术环境下的信息管理}{37}{subsection.5.6}%
-\contentsline {section}{\numberline {6}审计工作底稿}{38}{section.6}%
-\contentsline {section}{\numberline {7}风险评估}{39}{section.7}%
-\contentsline {subsection}{\numberline {7.1}风险识别和评估概述}{39}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}风险评估程序、信息来源以及项目组内部的讨论}{40}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}了解被审计单位及其环境的和适用的财务报告编制基础}{40}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}了解被审计单位内部控制体系各要素}{40}{subsection.7.4}%
-\contentsline {paragraph}{了解内控的目的}{41}{paragraph*.57}%
-\contentsline {paragraph}{直接控制与间接控制}{41}{paragraph*.58}%
-\contentsline {paragraph}{内部控制的局限性}{41}{paragraph*.59}%
-\contentsline {paragraph}{内部环境}{42}{paragraph*.60}%
-\contentsline {paragraph}{风险评估}{42}{paragraph*.61}%
-\contentsline {paragraph}{信息系统与沟通}{42}{paragraph*.62}%
-\contentsline {paragraph}{控制活动}{42}{paragraph*.63}%
-\contentsline {paragraph}{内部监督}{43}{paragraph*.64}%
-\contentsline {paragraph}{在整体层面和业务流程层面了解内部控制}{43}{paragraph*.65}%
-\contentsline {subsection}{\numberline {7.5}识别和评估重大错报风险}{43}{subsection.7.5}%
-\contentsline {paragraph}{识别和评估财务报表层次重大错报风险}{44}{paragraph*.66}%
-\contentsline {paragraph}{识别和评估认定层次重大错报风险}{44}{paragraph*.67}%
-\contentsline {paragraph}{评估固有风险}{44}{paragraph*.68}%
-\contentsline {paragraph}{需要特别考虑的重大错报风险}{45}{paragraph*.69}%
-\contentsline {paragraph}{仅实施实质性程序无法应对的重大错报风险}{45}{paragraph*.70}%
-\contentsline {paragraph}{修正风险识别或评估结果}{45}{paragraph*.71}%
-\contentsline {section}{\numberline {8}风险对应}{46}{section.8}%
-\contentsline {subsection}{\numberline {8.1}针对财务报表层次重大错报风险的总体应对措施}{46}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}总体审计方案}{47}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}针对认定层次重大错报风险的进一步审计程序}{47}{subsection.8.3}%
-\contentsline {paragraph}{性质}{47}{paragraph*.72}%
-\contentsline {paragraph}{时间}{47}{paragraph*.73}%
-\contentsline {paragraph}{范围}{48}{paragraph*.74}%
-\contentsline {subsection}{\numberline {8.4}控制测试}{48}{subsection.8.4}%
-\contentsline {paragraph}{性质}{48}{paragraph*.75}%
-\contentsline {paragraph}{时间}{48}{paragraph*.76}%
-\contentsline {paragraph}{范围}{49}{paragraph*.77}%
-\contentsline {subsection}{\numberline {8.5}实质性程序}{49}{subsection.8.5}%
-\contentsline {paragraph}{性质}{49}{paragraph*.78}%
-\contentsline {paragraph}{时间}{49}{paragraph*.79}%
-\contentsline {paragraph}{范围}{49}{paragraph*.80}%
-\contentsline {section}{\numberline {9}销售与收款循环的审计}{51}{section.9}%
-\contentsline {subsection}{\numberline {9.1}销售与收款循环的特点}{51}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}销售与收款循环的主要业务活动和相关内部控制}{51}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}销售与收款循环的重大错报风险}{51}{subsection.9.3}%
-\contentsline {paragraph}{收入确认存在的舞弊风险}{52}{paragraph*.81}%
-\contentsline {subsection}{\numberline {9.4}销售与收款循环的控制测试}{52}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}销售与收款循环的实质性程序}{53}{subsection.9.5}%
-\contentsline {section}{\numberline {10}采购与付款循环的审计}{54}{section.10}%
-\contentsline {subsection}{\numberline {10.1}采购与付款循环的特点}{54}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}采购与付款循环的主要业务活动和相关内部控制}{54}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}采购与付款循环的重大错报风险}{54}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}采购与付款循环的重大错报风险}{54}{subsection.10.4}%
-\contentsline {subsection}{\numberline {10.5}采购与付款循环的实质性程序}{54}{subsection.10.5}%
-\contentsline {section}{\numberline {11}生产与存货循环的审计}{56}{section.11}%
-\contentsline {section}{\numberline {12}货币资金的审计}{57}{section.12}%
-\contentsline {section}{\numberline {13}对舞弊和法律法规的考虑}{58}{section.13}%
-\contentsline {section}{\numberline {14}审计沟通}{59}{section.14}%
-\contentsline {section}{\numberline {15}注册会计师利用他人的工作}{60}{section.15}%
-\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{61}{section.16}%
-\contentsline {section}{\numberline {17}其他特殊项目的审计}{62}{section.17}%
-\contentsline {section}{\numberline {18}完成审计工作}{63}{section.18}%
-\contentsline {section}{\numberline {19}审计报告}{64}{section.19}%
-\contentsline {section}{\numberline {20}企业内部控制审计}{65}{section.20}%
-\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{66}{section.21}%
-\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{67}{section.22}%
-\contentsline {section}{\numberline {23}审计业务对独立性的要求}{68}{section.23}%
+\contentsline {paragraph}{计算机辅助审计技术}{37}{paragraph*.57}%
+\contentsline {paragraph}{电子表格}{37}{paragraph*.58}%
+\contentsline {subsection}{\numberline {5.5}数据分析}{38}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}不同信息技术环境下的信息管理}{38}{subsection.5.6}%
+\contentsline {section}{\numberline {6}审计工作底稿}{39}{section.6}%
+\contentsline {subsection}{\numberline {6.1}审计工作底稿概述}{39}{subsection.6.1}%
+\contentsline {paragraph}{基本概念}{39}{paragraph*.59}%
+\contentsline {paragraph}{目的}{39}{paragraph*.60}%
+\contentsline {paragraph}{编制要求}{40}{paragraph*.61}%
+\contentsline {paragraph}{控制}{40}{paragraph*.62}%
+\contentsline {subsection}{\numberline {6.2}审计工作底稿的格式、要素和范围}{40}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}审计工作底稿的归档}{41}{subsection.6.3}%
+\contentsline {section}{\numberline {7}风险评估}{43}{section.7}%
+\contentsline {subsection}{\numberline {7.1}风险识别和评估概述}{43}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}风险评估程序、信息来源以及项目组内部的讨论}{44}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}了解被审计单位及其环境的和适用的财务报告编制基础}{44}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}了解被审计单位内部控制体系各要素}{44}{subsection.7.4}%
+\contentsline {paragraph}{了解内控的目的}{45}{paragraph*.63}%
+\contentsline {paragraph}{直接控制与间接控制}{45}{paragraph*.64}%
+\contentsline {paragraph}{内部控制的局限性}{45}{paragraph*.65}%
+\contentsline {paragraph}{内部环境}{46}{paragraph*.66}%
+\contentsline {paragraph}{风险评估}{46}{paragraph*.67}%
+\contentsline {paragraph}{信息系统与沟通}{46}{paragraph*.68}%
+\contentsline {paragraph}{控制活动}{46}{paragraph*.69}%
+\contentsline {paragraph}{内部监督}{47}{paragraph*.70}%
+\contentsline {paragraph}{在整体层面和业务流程层面了解内部控制}{47}{paragraph*.71}%
+\contentsline {subsection}{\numberline {7.5}识别和评估重大错报风险}{47}{subsection.7.5}%
+\contentsline {paragraph}{识别和评估财务报表层次重大错报风险}{48}{paragraph*.72}%
+\contentsline {paragraph}{识别和评估认定层次重大错报风险}{48}{paragraph*.73}%
+\contentsline {paragraph}{评估固有风险}{48}{paragraph*.74}%
+\contentsline {paragraph}{需要特别考虑的重大错报风险}{49}{paragraph*.75}%
+\contentsline {paragraph}{仅实施实质性程序无法应对的重大错报风险}{49}{paragraph*.76}%
+\contentsline {paragraph}{修正风险识别或评估结果}{49}{paragraph*.77}%
+\contentsline {section}{\numberline {8}风险对应}{50}{section.8}%
+\contentsline {subsection}{\numberline {8.1}针对财务报表层次重大错报风险的总体应对措施}{50}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}总体审计方案}{51}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}针对认定层次重大错报风险的进一步审计程序}{51}{subsection.8.3}%
+\contentsline {paragraph}{性质}{51}{paragraph*.78}%
+\contentsline {paragraph}{时间}{51}{paragraph*.79}%
+\contentsline {paragraph}{范围}{52}{paragraph*.80}%
+\contentsline {subsection}{\numberline {8.4}控制测试}{52}{subsection.8.4}%
+\contentsline {paragraph}{性质}{52}{paragraph*.81}%
+\contentsline {paragraph}{时间}{52}{paragraph*.82}%
+\contentsline {paragraph}{范围}{53}{paragraph*.83}%
+\contentsline {subsection}{\numberline {8.5}实质性程序}{53}{subsection.8.5}%
+\contentsline {paragraph}{性质}{53}{paragraph*.84}%
+\contentsline {paragraph}{时间}{53}{paragraph*.85}%
+\contentsline {paragraph}{范围}{54}{paragraph*.86}%
+\contentsline {section}{\numberline {9}销售与收款循环的审计}{55}{section.9}%
+\contentsline {subsection}{\numberline {9.1}销售与收款循环的特点}{55}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}销售与收款循环的主要业务活动和相关内部控制}{55}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}销售与收款循环的重大错报风险}{55}{subsection.9.3}%
+\contentsline {paragraph}{收入确认存在的舞弊风险}{56}{paragraph*.87}%
+\contentsline {subsection}{\numberline {9.4}销售与收款循环的控制测试}{56}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}销售与收款循环的实质性程序}{57}{subsection.9.5}%
+\contentsline {section}{\numberline {10}采购与付款循环的审计}{58}{section.10}%
+\contentsline {subsection}{\numberline {10.1}采购与付款循环的特点}{58}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}采购与付款循环的主要业务活动和相关内部控制}{58}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}采购与付款循环的重大错报风险}{58}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}采购与付款循环的重大错报风险}{58}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}采购与付款循环的实质性程序}{58}{subsection.10.5}%
+\contentsline {section}{\numberline {11}生产与存货循环的审计}{60}{section.11}%
+\contentsline {section}{\numberline {12}货币资金的审计}{61}{section.12}%
+\contentsline {section}{\numberline {13}对舞弊和法律法规的考虑}{62}{section.13}%
+\contentsline {subsection}{\numberline {13.1}财务报表审计中与舞弊相关的责任}{62}{subsection.13.1}%
+\contentsline {paragraph}{舞弊的相关概念}{62}{paragraph*.88}%
+\contentsline {paragraph}{风险评估程序和相关活动}{62}{paragraph*.89}%
+\contentsline {paragraph}{识别和评估舞弊导致的重大错报风险}{62}{paragraph*.90}%
+\contentsline {paragraph}{应对评估的由于舞弊导致的重大错报风险}{63}{paragraph*.91}%
+\contentsline {paragraph}{评价审计证据}{64}{paragraph*.92}%
+\contentsline {paragraph}{无法继续执行审计业务}{64}{paragraph*.93}%
+\contentsline {paragraph}{与管理层、治理层和被审计单位之外的适当机构沟通}{64}{paragraph*.94}%
+\contentsline {subsection}{\numberline {13.2}财务报表审计中对法律法规的考虑}{64}{subsection.13.2}%
+\contentsline {paragraph}{法律法规的类别与相关责任}{64}{paragraph*.95}%
+\contentsline {paragraph}{对被审计单位遵守法律法规的考虑}{65}{paragraph*.96}%
+\contentsline {paragraph}{识别出或怀疑存在违反法律法规行为时实施的审计程序}{65}{paragraph*.97}%
+\contentsline {paragraph}{对识别出的或怀疑存在的违反法律法规行为的沟通和报告}{65}{paragraph*.98}%
+\contentsline {section}{\numberline {14}审计沟通}{66}{section.14}%
+\contentsline {section}{\numberline {15}注册会计师利用他人的工作}{67}{section.15}%
+\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{68}{section.16}%
+\contentsline {section}{\numberline {17}其他特殊项目的审计}{69}{section.17}%
+\contentsline {section}{\numberline {18}完成审计工作}{70}{section.18}%
+\contentsline {section}{\numberline {19}审计报告}{71}{section.19}%
+\contentsline {section}{\numberline {20}企业内部控制审计}{72}{section.20}%
+\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{73}{section.21}%
+\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{74}{section.22}%
+\contentsline {section}{\numberline {23}审计业务对独立性的要求}{75}{section.23}%

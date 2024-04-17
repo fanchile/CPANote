@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  13 APR 2024 13:13
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  17 APR 2024 20:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,7 +781,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 109.
+t line 115.
  [2] [3])
 \tf@toc=\write4
 \openout4 = `audit.toc'.
@@ -863,18 +863,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 7667) in paragraph at lines 1152--1152
+Underfull \hbox (badness 7667) in paragraph at lines 1154--1154
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 是 否 接
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 1152--1152
+Underfull \hbox (badness 7667) in paragraph at lines 1154--1154
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 是 否 接
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 7667) in paragraph at lines 1152--1152
+Underfull \hbox (badness 7667) in paragraph at lines 1154--1154
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 是 否 接
  []
 
@@ -886,18 +886,18 @@ Underfull \hbox (badness 7667) in paragraph at lines 1152--1152
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 1163) in paragraph at lines 1175--1175
+Underfull \hbox (badness 1163) in paragraph at lines 1177--1177
 []\TU/SongtiSCLight(0)/m/n/12 进 一 步 测
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1175--1175
+Underfull \hbox (badness 1163) in paragraph at lines 1177--1177
 []\TU/SongtiSCLight(0)/m/n/12 进 一 步 测
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 1163) in paragraph at lines 1175--1175
+Underfull \hbox (badness 1163) in paragraph at lines 1177--1177
 []\TU/SongtiSCLight(0)/m/n/12 进 一 步 测
  []
 
@@ -910,73 +910,73 @@ Underfull \hbox (badness 1163) in paragraph at lines 1175--1175
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 理 论 基
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 抽 样 风
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 设 计 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 选 取 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 变
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 分 层 要
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 样 本 规
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 理 论 基
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 抽 样 风
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 设 计 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 选 取 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 变
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 分 层 要
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1250--1250
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
 []\TU/SongtiSCLight(0)/m/n/12 样 本 规
  []
 
@@ -1000,7 +1000,7 @@ ex-text;!
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
-[50]
+[50] [51] [52] [53] [54]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1009,22 +1009,22 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
-[65] [66] [67] [68] (./audit.aux)
+ [55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
+[65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] (./audit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `audit.out' has not changed.
-(rerunfilecheck)             Checksum: 7AB44F892368B38B0EB1E47F1EEA8553;11205.
+(rerunfilecheck)             Checksum: EC8E137B3DA0F83AFEF59AF4323B0A3A;11995.
  ) 
 Here is how much of TeX's memory you used:
- 19743 strings out of 474773
- 447203 string characters out of 5757724
+ 19745 strings out of 474773
+ 447226 string characters out of 5757724
  1952839 words of memory out of 5000000
- 41632 multiletter control sequences out of 15000+600000
+ 41634 multiletter control sequences out of 15000+600000
  582570 words of font info for 139 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,542b,831s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on audit.pdf (68 pages).
+Output written on audit.pdf (75 pages).
