@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  19 APR 2024 14:06
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  20 APR 2024 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -782,11 +782,11 @@ LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
 t line 115.
- [2] [3])
+ [2] [3] [4])
 \tf@toc=\write4
 \openout4 = `audit.toc'.
 
- [4] [5] [6] [7] [8] [9]
+ [5] [6] [7] [8] [9]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -1010,7 +1010,7 @@ ex-text;!
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
-[66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
+[66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1019,44 +1019,44 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 3323) in paragraph at lines 2611--2611
+Underfull \hbox (badness 3323) in paragraph at lines 2762--2762
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 2611--2611
+Underfull \hbox (badness 4792) in paragraph at lines 2762--2762
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 3323) in paragraph at lines 2611--2611
+Underfull \hbox (badness 3323) in paragraph at lines 2762--2762
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 2611--2611
+Underfull \hbox (badness 4792) in paragraph at lines 2762--2762
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[77] [78] [79] [80] [81] [82] [83] [84] [85] (./audit.aux)
+[80] [81] [82] [83] [84] [85] [86] [87] [88] (./audit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `audit.out' has not changed.
-(rerunfilecheck)             Checksum: EC7C6B96D0FAE84E540916AF5E64325A;14835.
+(rerunfilecheck)             Checksum: FA7DAEB94DC4B8348B936A818D40A15D;15546.
  ) 
 Here is how much of TeX's memory you used:
- 19779 strings out of 474773
- 448302 string characters out of 5757724
+ 19808 strings out of 474773
+ 450209 string characters out of 5757724
  1952839 words of memory out of 5000000
- 41668 multiletter control sequences out of 15000+600000
+ 41697 multiletter control sequences out of 15000+600000
  583924 words of font info for 142 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,542b,831s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on audit.pdf (85 pages).
+Output written on audit.pdf (88 pages).

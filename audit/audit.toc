@@ -192,42 +192,57 @@
 \contentsline {paragraph}{接受委托后的沟通}{70}{paragraph*.104}%
 \contentsline {paragraph}{发现前任的报表可能存在重大错报}{70}{paragraph*.105}%
 \contentsline {section}{\numberline {15}注册会计师利用他人的工作}{71}{section.15}%
-\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{72}{section.16}%
-\contentsline {section}{\numberline {17}其他特殊项目的审计}{73}{section.17}%
-\contentsline {subsection}{\numberline {17.1}审计会计估计和相关披露}{73}{subsection.17.1}%
-\contentsline {subsubsection}{\numberline {17.1.1}了解会计估计}{73}{subsubsection.17.1.1}%
-\contentsline {subsubsection}{\numberline {17.1.2}风险评估程序和相关活动}{73}{subsubsection.17.1.2}%
-\contentsline {paragraph}{了解被审计单位及其环境、适用的财务报告编制基础和内部控制体系各要素}{73}{paragraph*.106}%
-\contentsline {paragraph}{复核以前期间会计估计的结果或管理层对以前期间会计估计作出的后续重新估计}{73}{paragraph*.107}%
-\contentsline {paragraph}{确定是否需要专门技能或知识}{73}{paragraph*.108}%
-\contentsline {subsubsection}{\numberline {17.1.3}识别和评估重大错报风险}{73}{subsubsection.17.1.3}%
-\contentsline {paragraph}{估计不确定性}{73}{paragraph*.109}%
-\contentsline {paragraph}{复杂或主观性}{74}{paragraph*.110}%
-\contentsline {paragraph}{考虑其他固有风险因素}{74}{paragraph*.111}%
-\contentsline {paragraph}{考虑特别风险}{74}{paragraph*.112}%
-\contentsline {subsubsection}{\numberline {17.1.4}应对评估的重大错报风险}{74}{subsubsection.17.1.4}%
-\contentsline {paragraph}{基本程序}{74}{paragraph*.113}%
-\contentsline {paragraph}{专门程序}{74}{paragraph*.114}%
-\contentsline {paragraph}{其他审计程序}{74}{paragraph*.115}%
-\contentsline {subsubsection}{\numberline {17.1.5}确定会计估计的合理性或错报}{75}{subsubsection.17.1.5}%
-\contentsline {subsection}{\numberline {17.2}关联方的审计}{75}{subsection.17.2}%
-\contentsline {subsubsection}{\numberline {17.2.1}风险评估程序和相关工作}{75}{subsubsection.17.2.1}%
-\contentsline {subsubsection}{\numberline {17.2.2}识别和评估重大错报风险}{75}{subsubsection.17.2.2}%
-\contentsline {subsubsection}{\numberline {17.2.3}针对重大错报风险的应对措施}{76}{subsubsection.17.2.3}%
-\contentsline {subsubsection}{\numberline {17.2.4}实施其他相关审计程序}{76}{subsubsection.17.2.4}%
-\contentsline {subsection}{\numberline {17.3}考虑持续经营假设}{76}{subsection.17.3}%
-\contentsline {paragraph}{对持续经营 假设的责任}{76}{paragraph*.116}%
-\contentsline {paragraph}{风险评估程序 和相关活动}{77}{paragraph*.117}%
-\contentsline {paragraph}{应对评估的重大错报风险}{77}{paragraph*.118}%
-\contentsline {paragraph}{审计结论}{77}{paragraph*.119}%
-\contentsline {subsection}{\numberline {17.4}首次接受委托时对期初余额的审计}{78}{subsection.17.4}%
-\contentsline {paragraph}{注册会计师的责任}{78}{paragraph*.120}%
-\contentsline {paragraph}{审计目标}{78}{paragraph*.121}%
-\contentsline {paragraph}{审计程序}{78}{paragraph*.122}%
-\contentsline {paragraph}{审计结论}{79}{paragraph*.123}%
-\contentsline {section}{\numberline {18}完成审计工作}{80}{section.18}%
-\contentsline {section}{\numberline {19}审计报告}{81}{section.19}%
-\contentsline {section}{\numberline {20}企业内部控制审计}{82}{section.20}%
-\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{83}{section.21}%
-\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{84}{section.22}%
-\contentsline {section}{\numberline {23}审计业务对独立性的要求}{85}{section.23}%
+\contentsline {subsection}{\numberline {15.1}利用内部审计工作}{71}{subsection.15.1}%
+\contentsline {subsubsection}{\numberline {15.1.1}注册会计师 的责任}{71}{subsubsection.15.1.1}%
+\contentsline {subsubsection}{\numberline {15.1.2}利用内部审计的工作}{71}{subsubsection.15.1.2}%
+\contentsline {paragraph}{确定是否利用}{71}{paragraph*.106}%
+\contentsline {paragraph}{确定在哪些领域利用以及在多大程度上利用}{72}{paragraph*.107}%
+\contentsline {paragraph}{针对内部利用工作实施的审计程序}{72}{paragraph*.108}%
+\contentsline {subsubsection}{\numberline {15.1.3}利用内部审计人员提供直接协助}{72}{subsubsection.15.1.3}%
+\contentsline {paragraph}{考虑因素}{72}{paragraph*.109}%
+\contentsline {paragraph}{针对利用内 部审计人员提 供直接协助的审 计程序和记录}{73}{paragraph*.110}%
+\contentsline {subsection}{\numberline {15.2}利用专家的工作}{73}{subsection.15.2}%
+\contentsline {paragraph}{专家的概念}{73}{paragraph*.111}%
+\contentsline {paragraph}{确定是否利用}{73}{paragraph*.112}%
+\contentsline {paragraph}{评价专家的工作是否足以实现审计目的}{73}{paragraph*.113}%
+\contentsline {paragraph}{与专家达成一致意见}{74}{paragraph*.114}%
+\contentsline {paragraph}{评价专家工作的恰当性}{74}{paragraph*.115}%
+\contentsline {section}{\numberline {16}对集团审计的特殊考虑}{75}{section.16}%
+\contentsline {section}{\numberline {17}其他特殊项目的审计}{76}{section.17}%
+\contentsline {subsection}{\numberline {17.1}审计会计估计和相关披露}{76}{subsection.17.1}%
+\contentsline {subsubsection}{\numberline {17.1.1}了解会计估计}{76}{subsubsection.17.1.1}%
+\contentsline {subsubsection}{\numberline {17.1.2}风险评估程序和相关活动}{76}{subsubsection.17.1.2}%
+\contentsline {paragraph}{了解被审计单位及其环境、适用的财务报告编制基础和内部控制体系各要素}{76}{paragraph*.116}%
+\contentsline {paragraph}{复核以前期间会计估计的结果或管理层对以前期间会计估计作出的后续重新估计}{76}{paragraph*.117}%
+\contentsline {paragraph}{确定是否需要专门技能或知识}{76}{paragraph*.118}%
+\contentsline {subsubsection}{\numberline {17.1.3}识别和评估重大错报风险}{76}{subsubsection.17.1.3}%
+\contentsline {paragraph}{估计不确定性}{76}{paragraph*.119}%
+\contentsline {paragraph}{复杂或主观性}{77}{paragraph*.120}%
+\contentsline {paragraph}{考虑其他固有风险因素}{77}{paragraph*.121}%
+\contentsline {paragraph}{考虑特别风险}{77}{paragraph*.122}%
+\contentsline {subsubsection}{\numberline {17.1.4}应对评估的重大错报风险}{77}{subsubsection.17.1.4}%
+\contentsline {paragraph}{基本程序}{77}{paragraph*.123}%
+\contentsline {paragraph}{专门程序}{77}{paragraph*.124}%
+\contentsline {paragraph}{其他审计程序}{77}{paragraph*.125}%
+\contentsline {subsubsection}{\numberline {17.1.5}确定会计估计的合理性或错报}{78}{subsubsection.17.1.5}%
+\contentsline {subsection}{\numberline {17.2}关联方的审计}{78}{subsection.17.2}%
+\contentsline {subsubsection}{\numberline {17.2.1}风险评估程序和相关工作}{78}{subsubsection.17.2.1}%
+\contentsline {subsubsection}{\numberline {17.2.2}识别和评估重大错报风险}{78}{subsubsection.17.2.2}%
+\contentsline {subsubsection}{\numberline {17.2.3}针对重大错报风险的应对措施}{79}{subsubsection.17.2.3}%
+\contentsline {subsubsection}{\numberline {17.2.4}实施其他相关审计程序}{79}{subsubsection.17.2.4}%
+\contentsline {subsection}{\numberline {17.3}考虑持续经营假设}{79}{subsection.17.3}%
+\contentsline {paragraph}{对持续经营 假设的责任}{79}{paragraph*.126}%
+\contentsline {paragraph}{风险评估程序 和相关活动}{80}{paragraph*.127}%
+\contentsline {paragraph}{应对评估的重大错报风险}{80}{paragraph*.128}%
+\contentsline {paragraph}{审计结论}{80}{paragraph*.129}%
+\contentsline {subsection}{\numberline {17.4}首次接受委托时对期初余额的审计}{81}{subsection.17.4}%
+\contentsline {paragraph}{注册会计师的责任}{81}{paragraph*.130}%
+\contentsline {paragraph}{审计目标}{81}{paragraph*.131}%
+\contentsline {paragraph}{审计程序}{81}{paragraph*.132}%
+\contentsline {paragraph}{审计结论}{82}{paragraph*.133}%
+\contentsline {section}{\numberline {18}完成审计工作}{83}{section.18}%
+\contentsline {section}{\numberline {19}审计报告}{84}{section.19}%
+\contentsline {section}{\numberline {20}企业内部控制审计}{85}{section.20}%
+\contentsline {section}{\numberline {21}会计师事务所业务质量管理}{86}{section.21}%
+\contentsline {section}{\numberline {22}职业道德基本原则和概念框架}{87}{section.22}%
+\contentsline {section}{\numberline {23}审计业务对独立性的要求}{88}{section.23}%
