@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  23 APR 2024 16:40
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  25 APR 2024 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1053,21 +1053,24 @@ Underfull \hbox (badness 4792) in paragraph at lines 3009--3009
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100]
-[101] [102] [103] [104] (./audit.aux)
+[101] [102]
+File: pic/APECtest.png Graphic file (type bmp)
+<pic/APECtest.png>
+ [103] [104] [105] [106] [107] [108] [109] (./audit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `audit.out' has not changed.
-(rerunfilecheck)             Checksum: 636CC107D44DECB28C1DDF4C24C6B5C1;21468.
+(rerunfilecheck)             Checksum: CEC70CE52178678BEA7DCCDC831845BE;22495.
  ) 
 Here is how much of TeX's memory you used:
- 19824 strings out of 474773
- 450488 string characters out of 5757724
+ 19871 strings out of 474773
+ 452616 string characters out of 5757724
  1952839 words of memory out of 5000000
- 41713 multiletter control sequences out of 15000+600000
+ 41758 multiletter control sequences out of 15000+600000
  585175 words of font info for 145 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,542b,831s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on audit.pdf (104 pages).
+Output written on audit.pdf (109 pages).
