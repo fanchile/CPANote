@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  4 MAY 2024 19:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  5 MAY 2024 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,19 +781,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 109.
- [2])
+t line 118.
+ [2] [3])
 \tf@toc=\write4
 \openout4 = `econlaw.toc'.
 
- [3] [4] [5] [6]
+ [4] [5] [6] [7]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -806,7 +806,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[17] [18] [19] [20] [21]
+[18] [19] [20] [21] [22]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -820,8 +820,8 @@ Overfull \hbox (3.61731pt too wide) in paragraph at lines 725--726
  [][] 
  []
 
-[22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]
-[37] [38] [39] [40] [41] [42] [43] [44] [45]
+[23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
+[38] [39] [40] [41] [42] [43] [44] [45] [46]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -834,28 +834,25 @@ Overfull \hbox (3.61731pt too wide) in paragraph at lines 725--726
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[46] [47] [48] [49] [50] [51] [52] [53] [54] [55] (./econlaw.aux)
+[47] [48] [49] [50] [51] [52] [53] [54]
+Overfull \vbox (457.20091pt too high) has occurred while \output is active []
+
+
+[55] [56] [57] [58] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
-
-
-Package rerunfilecheck Warning: File `econlaw.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `econlaw.out':
-(rerunfilecheck)             Before: 8B41267E5C1975027F423FDC8BE4F585;8563
-(rerunfilecheck)             After:  5B5BB9B40277FCFCBFD759F6232BFDE8;8435.
+Package rerunfilecheck Info: File `econlaw.out' has not changed.
+(rerunfilecheck)             Checksum: F2B24E4CDC6A4A803C06532CB51938DF;12956.
  ) 
 Here is how much of TeX's memory you used:
- 19939 strings out of 474773
- 457562 string characters out of 5757724
+ 19952 strings out of 474773
+ 458247 string characters out of 5757724
  1962839 words of memory out of 5000000
- 41831 multiletter control sequences out of 15000+600000
+ 41844 multiletter control sequences out of 15000+600000
  576368 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,544b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (55 pages).
+Output written on econlaw.pdf (58 pages).
