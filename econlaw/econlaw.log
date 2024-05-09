@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  8 MAY 2024 21:41
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  9 MAY 2024 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -836,7 +836,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
 [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
-[77] [78]
+[77] [78] [79] [80] [81]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -845,27 +845,27 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 3701) in paragraph at lines 2326--2326
+Underfull \hbox (badness 3701) in paragraph at lines 2444--2444
 []\TU/SongtiSCLight(0)/m/n/12 未 约 定
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 2326--2326
+Underfull \hbox (badness 3701) in paragraph at lines 2444--2444
 []\TU/SongtiSCLight(0)/m/n/12 约 定 利
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 3701) in paragraph at lines 2326--2326
+Underfull \hbox (badness 3701) in paragraph at lines 2444--2444
 []\TU/SongtiSCLight(0)/m/n/12 未 约 定
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 2326--2326
+Underfull \hbox (badness 3701) in paragraph at lines 2444--2444
 []\TU/SongtiSCLight(0)/m/n/12 约 定 利
  []
 
-[79] [80] [81]
+[82] [83]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -874,7 +874,7 @@ Underfull \hbox (badness 3701) in paragraph at lines 2326--2326
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [82] [83] [84] [85] [86] (./econlaw.aux)
+ [84] [85] [86] [87] [88] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -883,12 +883,12 @@ Package rerunfilecheck Info: File `econlaw.out' has not changed.
 (rerunfilecheck)             Checksum: F2B24E4CDC6A4A803C06532CB51938DF;12956.
  ) 
 Here is how much of TeX's memory you used:
- 19987 strings out of 474773
- 460346 string characters out of 5757724
+ 20005 strings out of 474773
+ 461598 string characters out of 5757724
  1962839 words of memory out of 5000000
- 41879 multiletter control sequences out of 15000+600000
+ 41897 multiletter control sequences out of 15000+600000
  578564 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,544b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (86 pages).
+Output written on econlaw.pdf (88 pages).
