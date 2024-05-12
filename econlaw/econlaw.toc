@@ -157,44 +157,124 @@
 \contentsline {paragraph}{履行发生困难}{59}{paragraph*.86}%
 \contentsline {paragraph}{情势变更}{59}{paragraph*.87}%
 \contentsline {subsubsection}{\numberline {4.1.8}涉及第三人的合同}{60}{subsubsection.4.1.8}%
+\contentsline {paragraph}{向第三人履行的合同}{60}{paragraph*.88}%
+\contentsline {paragraph}{由第三人履行的合同}{60}{paragraph*.89}%
+\contentsline {paragraph}{第三人单方自愿代为履行}{60}{paragraph*.90}%
 \contentsline {subsubsection}{\numberline {4.1.9}按份之债与连带之债}{61}{subsubsection.4.1.9}%
-\contentsline {subsubsection}{\numberline {4.1.10}双务合同履行中的抗辩权}{61}{subsubsection.4.1.10}%
+\contentsline {paragraph}{按份之债}{61}{paragraph*.91}%
+\contentsline {paragraph}{连带之债}{61}{paragraph*.92}%
+\contentsline {paragraph}{连带債务}{61}{paragraph*.93}%
+\contentsline {subsubsection}{\numberline {4.1.10}双务合同履行中的抗辩权}{62}{subsubsection.4.1.10}%
 \contentsline {subsubsection}{\numberline {4.1.11}债权人代位权}{62}{subsubsection.4.1.11}%
-\contentsline {subsubsection}{\numberline {4.1.12}债权人撤销权}{63}{subsubsection.4.1.12}%
-\contentsline {subsubsection}{\numberline {4.1.13}债权转让}{63}{subsubsection.4.1.13}%
-\contentsline {subsubsection}{\numberline {4.1.14}债务承担}{64}{subsubsection.4.1.14}%
-\contentsline {subsubsection}{\numberline {4.1.15}合同解除}{65}{subsubsection.4.1.15}%
-\contentsline {subsubsection}{\numberline {4.1.16}抵销}{66}{subsubsection.4.1.16}%
-\contentsline {subsubsection}{\numberline {4.1.17}提存}{66}{subsubsection.4.1.17}%
-\contentsline {subsubsection}{\numberline {4.1.18}债权债务的终止}{67}{subsubsection.4.1.18}%
-\contentsline {subsubsection}{\numberline {4.1.19}违约责任}{67}{subsubsection.4.1.19}%
-\contentsline {subsubsection}{\numberline {4.1.20}合同的相对性}{69}{subsubsection.4.1.20}%
-\contentsline {subsection}{\numberline {4.2}合同的担保}{69}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}保证合同}{69}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}保证方式}{70}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}保证期间}{70}{subsubsection.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.4}保证责任}{70}{subsubsection.4.2.4}%
-\contentsline {subsubsection}{\numberline {4.2.5}定金}{71}{subsubsection.4.2.5}%
-\contentsline {subsection}{\numberline {4.3}典型合同}{72}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}买卖合同}{72}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}商品房买卖合同}{73}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}租赁合同}{74}{subsubsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.4}融资租赁合同}{76}{subsubsection.4.3.4}%
-\contentsline {subsubsection}{\numberline {4.3.5}借款合同}{77}{subsubsection.4.3.5}%
-\contentsline {subsubsection}{\numberline {4.3.6}民间借贷合同}{78}{subsubsection.4.3.6}%
-\contentsline {subsubsection}{\numberline {4.3.7}赠与合同}{80}{subsubsection.4.3.7}%
-\contentsline {subsubsection}{\numberline {4.3.8}承揽合同}{80}{subsubsection.4.3.8}%
-\contentsline {subsubsection}{\numberline {4.3.9}建设工程合同}{81}{subsubsection.4.3.9}%
-\contentsline {subsubsection}{\numberline {4.3.10}客运合同}{82}{subsubsection.4.3.10}%
-\contentsline {subsubsection}{\numberline {4.3.11}货运合同}{83}{subsubsection.4.3.11}%
-\contentsline {subsubsection}{\numberline {4.3.12}委托合同}{83}{subsubsection.4.3.12}%
-\contentsline {subsubsection}{\numberline {4.3.13}行纪合同}{84}{subsubsection.4.3.13}%
-\contentsline {subsubsection}{\numberline {4.3.14}技术合同}{84}{subsubsection.4.3.14}%
-\contentsline {section}{\numberline {5}合伙企业法律制度}{86}{section.5}%
-\contentsline {section}{\numberline {6}公司法律制度}{87}{section.6}%
-\contentsline {section}{\numberline {7}证券法律制度}{88}{section.7}%
-\contentsline {section}{\numberline {8}企业破产法律制度}{88}{section.8}%
-\contentsline {section}{\numberline {9}票据与支付结算法律制度}{88}{section.9}%
-\contentsline {section}{\numberline {10}企业国有资产法律制度}{88}{section.10}%
-\contentsline {section}{\numberline {11}反垄断法律制度}{88}{section.11}%
-\contentsline {section}{\numberline {12}涉外法律制度}{88}{section.12}%
+\contentsline {paragraph}{代位权简介}{62}{paragraph*.94}%
+\contentsline {paragraph}{代位权行使的条件}{63}{paragraph*.95}%
+\contentsline {paragraph}{代位权诉讼中的主体和管辖}{63}{paragraph*.96}%
+\contentsline {subsubsection}{\numberline {4.1.12}债权人撤销权}{64}{subsubsection.4.1.12}%
+\contentsline {paragraph}{撤销权的行使期限}{64}{paragraph*.97}%
+\contentsline {paragraph}{撤销权诉讼中的主体和管辖}{64}{paragraph*.98}%
+\contentsline {subsubsection}{\numberline {4.1.13}债权转让}{65}{subsubsection.4.1.13}%
+\contentsline {paragraph}{债权的多重让与}{66}{paragraph*.99}%
+\contentsline {subsubsection}{\numberline {4.1.14}债务承担}{66}{subsubsection.4.1.14}%
+\contentsline {subsubsection}{\numberline {4.1.15}合同解除}{67}{subsubsection.4.1.15}%
+\contentsline {paragraph}{合同解除的类型}{67}{paragraph*.100}%
+\contentsline {paragraph}{解除权的行使}{67}{paragraph*.101}%
+\contentsline {paragraph}{合同解除的效力}{68}{paragraph*.102}%
+\contentsline {subsubsection}{\numberline {4.1.16}抵销}{68}{subsubsection.4.1.16}%
+\contentsline {subsubsection}{\numberline {4.1.17}提存}{69}{subsubsection.4.1.17}%
+\contentsline {subsubsection}{\numberline {4.1.18}债权债务的终止}{70}{subsubsection.4.1.18}%
+\contentsline {subsubsection}{\numberline {4.1.19}违约责任}{70}{subsubsection.4.1.19}%
+\contentsline {paragraph}{违约的种类}{70}{paragraph*.103}%
+\contentsline {paragraph}{债务的种类}{70}{paragraph*.104}%
+\contentsline {paragraph}{采取补救措施}{71}{paragraph*.105}%
+\contentsline {paragraph}{赔偿损失}{71}{paragraph*.106}%
+\contentsline {paragraph}{支付违约金}{72}{paragraph*.107}%
+\contentsline {paragraph}{定金}{72}{paragraph*.108}%
+\contentsline {paragraph}{不可抗力}{72}{paragraph*.109}%
+\contentsline {subsubsection}{\numberline {4.1.20}合同的相对性}{72}{subsubsection.4.1.20}%
+\contentsline {subsection}{\numberline {4.2}合同的担保}{73}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}保证合同}{73}{subsubsection.4.2.1}%
+\contentsline {paragraph}{保证合同}{73}{paragraph*.110}%
+\contentsline {paragraph}{保证人}{74}{paragraph*.111}%
+\contentsline {subsubsection}{\numberline {4.2.2}保证方式}{74}{subsubsection.4.2.2}%
+\contentsline {paragraph}{一般保证}{74}{paragraph*.112}%
+\contentsline {paragraph}{连带责任保证}{74}{paragraph*.113}%
+\contentsline {subsubsection}{\numberline {4.2.3}保证期间}{74}{subsubsection.4.2.3}%
+\contentsline {paragraph}{连带责任保证}{75}{paragraph*.114}%
+\contentsline {paragraph}{一般保证}{75}{paragraph*.115}%
+\contentsline {subsubsection}{\numberline {4.2.4}保证责任}{75}{subsubsection.4.2.4}%
+\contentsline {paragraph}{保证的范围}{75}{paragraph*.116}%
+\contentsline {paragraph}{债权转让}{75}{paragraph*.117}%
+\contentsline {paragraph}{债务转移}{75}{paragraph*.118}%
+\contentsline {paragraph}{债务加入}{75}{paragraph*.119}%
+\contentsline {paragraph}{主合同的变更}{75}{paragraph*.120}%
+\contentsline {paragraph}{共同保证}{76}{paragraph*.121}%
+\contentsline {subsubsection}{\numberline {4.2.5}定金}{76}{subsubsection.4.2.5}%
+\contentsline {paragraph}{共同保证}{76}{paragraph*.122}%
+\contentsline {paragraph}{定金罚则}{76}{paragraph*.123}%
+\contentsline {paragraph}{未交付定金的情况}{76}{paragraph*.124}%
+\contentsline {subsection}{\numberline {4.3}典型合同}{77}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}买卖合同}{77}{subsubsection.4.3.1}%
+\contentsline {paragraph}{标的物的风险负担}{77}{paragraph*.125}%
+\contentsline {paragraph}{标的物的检验}{77}{paragraph*.126}%
+\contentsline {paragraph}{买卖合同的特别解除规则}{78}{paragraph*.127}%
+\contentsline {paragraph}{试用买卖合同}{78}{paragraph*.128}%
+\contentsline {paragraph}{凭样品买卖合同}{78}{paragraph*.129}%
+\contentsline {subsubsection}{\numberline {4.3.2}商品房买卖合同}{78}{subsubsection.4.3.2}%
+\contentsline {paragraph}{商品房销售广告的性质}{78}{paragraph*.130}%
+\contentsline {paragraph}{商品房预售合同}{78}{paragraph*.131}%
+\contentsline {paragraph}{解除权的行使}{78}{paragraph*.132}%
+\contentsline {paragraph}{贷款合同的效力}{79}{paragraph*.133}%
+\contentsline {subsubsection}{\numberline {4.3.3}租赁合同}{79}{subsubsection.4.3.3}%
+\contentsline {paragraph}{租赁期限}{79}{paragraph*.134}%
+\contentsline {paragraph}{登记备案}{79}{paragraph*.135}%
+\contentsline {paragraph}{不定期租赁}{79}{paragraph*.136}%
+\contentsline {paragraph}{维修义务}{79}{paragraph*.137}%
+\contentsline {paragraph}{租金的支付期限}{80}{paragraph*.138}%
+\contentsline {paragraph}{承租人的权利和义务}{80}{paragraph*.139}%
+\contentsline {paragraph}{转租}{80}{paragraph*.140}%
+\contentsline {paragraph}{买卖不破租赁}{80}{paragraph*.141}%
+\contentsline {paragraph}{承租人的优先购买权}{81}{paragraph*.142}%
+\contentsline {paragraph}{房屋租赁合同的无效}{81}{paragraph*.143}%
+\contentsline {subsubsection}{\numberline {4.3.4}融资租赁合同}{81}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}借款合同}{83}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}民间借贷合同}{83}{subsubsection.4.3.6}%
+\contentsline {paragraph}{借期内利息}{83}{paragraph*.144}%
+\contentsline {paragraph}{逾期利率}{84}{paragraph*.145}%
+\contentsline {paragraph}{诉讼当事人}{84}{paragraph*.146}%
+\contentsline {paragraph}{自然人之间的借款合同}{84}{paragraph*.147}%
+\contentsline {paragraph}{民间借贷合同的无效}{84}{paragraph*.148}%
+\contentsline {paragraph}{网络贷款平台}{85}{paragraph*.149}%
+\contentsline {paragraph}{以订立买卖合同作为民间借贷合同的担保}{85}{paragraph*.150}%
+\contentsline {subsubsection}{\numberline {4.3.7}赠与合同}{85}{subsubsection.4.3.7}%
+\contentsline {paragraph}{任意撤销}{86}{paragraph*.151}%
+\contentsline {paragraph}{赠与的法定撤销}{86}{paragraph*.152}%
+\contentsline {subsubsection}{\numberline {4.3.8}承揽合同}{86}{subsubsection.4.3.8}%
+\contentsline {subsubsection}{\numberline {4.3.9}建设工程合同}{87}{subsubsection.4.3.9}%
+\contentsline {paragraph}{建设工程合同}{87}{paragraph*.153}%
+\contentsline {paragraph}{分包}{87}{paragraph*.154}%
+\contentsline {paragraph}{委托监理合同}{87}{paragraph*.155}%
+\contentsline {paragraph}{实际竣工日期}{87}{paragraph*.156}%
+\contentsline {paragraph}{垫资}{88}{paragraph*.157}%
+\contentsline {paragraph}{工程欠款}{88}{paragraph*.158}%
+\contentsline {subsubsection}{\numberline {4.3.10}客运合同}{89}{subsubsection.4.3.10}%
+\contentsline {subsubsection}{\numberline {4.3.11}货运合同}{89}{subsubsection.4.3.11}%
+\contentsline {subsubsection}{\numberline {4.3.12}委托合同}{90}{subsubsection.4.3.12}%
+\contentsline {paragraph}{受托人的报酬}{90}{paragraph*.159}%
+\contentsline {paragraph}{委托人的费用}{90}{paragraph*.160}%
+\contentsline {paragraph}{损失赔偿}{90}{paragraph*.161}%
+\contentsline {paragraph}{随时解除}{90}{paragraph*.162}%
+\contentsline {paragraph}{转委托}{90}{paragraph*.163}%
+\contentsline {paragraph}{隐名代理}{90}{paragraph*.164}%
+\contentsline {subsubsection}{\numberline {4.3.13}行纪合同}{91}{subsubsection.4.3.13}%
+\contentsline {subsubsection}{\numberline {4.3.14}技术合同}{91}{subsubsection.4.3.14}%
+\contentsline {paragraph}{技术合同的种类}{91}{paragraph*.165}%
+\contentsline {paragraph}{职务技术成果}{92}{paragraph*.166}%
+\contentsline {paragraph}{后续改进的技术成果}{92}{paragraph*.167}%
+\contentsline {section}{\numberline {5}合伙企业法律制度}{93}{section.5}%
+\contentsline {section}{\numberline {6}公司法律制度}{94}{section.6}%
+\contentsline {section}{\numberline {7}证券法律制度}{95}{section.7}%
+\contentsline {section}{\numberline {8}企业破产法律制度}{95}{section.8}%
+\contentsline {section}{\numberline {9}票据与支付结算法律制度}{95}{section.9}%
+\contentsline {section}{\numberline {10}企业国有资产法律制度}{95}{section.10}%
+\contentsline {section}{\numberline {11}反垄断法律制度}{95}{section.11}%
+\contentsline {section}{\numberline {12}涉外法律制度}{95}{section.12}%
