@@ -1,280 +1,307 @@
-\contentsline {section}{\numberline {1}法律基本原理}{5}{section.1}%
-\contentsline {subsection}{\numberline {1.1}法律基本概念}{5}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}我国的法律渊源}{5}{subsubsection.1.1.1}%
-\contentsline {paragraph}{宪法}{5}{paragraph*.2}%
-\contentsline {paragraph}{法律}{5}{paragraph*.3}%
-\contentsline {paragraph}{法规}{5}{paragraph*.4}%
-\contentsline {paragraph}{规章}{6}{paragraph*.5}%
-\contentsline {paragraph}{司法解释}{6}{paragraph*.6}%
-\contentsline {subsubsection}{\numberline {1.1.2}法律规范}{6}{subsubsection.1.1.2}%
-\contentsline {paragraph}{法律规范的概念}{6}{paragraph*.7}%
-\contentsline {paragraph}{法律规范与法律条文}{6}{paragraph*.8}%
-\contentsline {paragraph}{法律规范的种类}{6}{paragraph*.9}%
-\contentsline {subsection}{\numberline {1.2}法律关系}{7}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}法律关系的主体}{7}{subsubsection.1.2.1}%
-\contentsline {paragraph}{法律关系的概念}{7}{paragraph*.10}%
-\contentsline {paragraph}{法律关系主体的种类}{7}{paragraph*.11}%
-\contentsline {paragraph}{法人的分类}{8}{paragraph*.12}%
-\contentsline {paragraph}{非法人组织}{8}{paragraph*.13}%
-\contentsline {subsubsection}{\numberline {1.2.2}权利能力和行为能力}{8}{subsubsection.1.2.2}%
-\contentsline {paragraph}{权利能力和行为能力}{8}{paragraph*.14}%
-\contentsline {paragraph}{自然人的民事行为能力}{8}{paragraph*.15}%
-\contentsline {subsubsection}{\numberline {1.2.3}法律关系的客体}{9}{subsubsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.4}法律事实}{9}{subsubsection.1.2.4}%
-\contentsline {subsection}{\numberline {1.3}全面依法治国基本方略}{9}{subsection.1.3}%
-\contentsline {section}{\numberline {2}基本民事法律制度}{10}{section.2}%
-\contentsline {subsection}{\numberline {2.1}民事法律行为制度}{10}{subsection.2.1}%
-\contentsline {paragraph}{民事法律行为的分类}{10}{paragraph*.16}%
-\contentsline {paragraph}{意思表示}{11}{paragraph*.17}%
-\contentsline {paragraph}{民事法律行为的生效}{11}{paragraph*.18}%
-\contentsline {paragraph}{无效的民事法律行为}{12}{paragraph*.19}%
-\contentsline {paragraph}{可撤销的民事法律行为}{13}{paragraph*.20}%
-\contentsline {paragraph}{效力待定的民事法律行为}{14}{paragraph*.21}%
-\contentsline {paragraph}{附条件和附期限的民事法律行为}{16}{paragraph*.22}%
-\contentsline {subsection}{\numberline {2.2}代理制度}{16}{subsection.2.2}%
-\contentsline {paragraph}{代理的概念}{16}{paragraph*.23}%
-\contentsline {paragraph}{委托代理}{17}{paragraph*.24}%
-\contentsline {subsection}{\numberline {2.3}诉讼时效制度}{18}{subsection.2.3}%
-\contentsline {paragraph}{诉讼时效的基本理论}{18}{paragraph*.25}%
-\contentsline {paragraph}{诉讼时效的种类和起算}{19}{paragraph*.26}%
-\contentsline {paragraph}{诉讼时效的中止}{19}{paragraph*.27}%
-\contentsline {paragraph}{诉讼时效的中断事由}{20}{paragraph*.28}%
-\contentsline {section}{\numberline {3}物权法律制度}{22}{section.3}%
-\contentsline {subsection}{\numberline {3.1}物权法律制度概述}{22}{subsection.3.1}%
-\contentsline {paragraph}{物的种类}{22}{paragraph*.29}%
-\contentsline {paragraph}{物权的概念}{23}{paragraph*.30}%
-\contentsline {paragraph}{物权法律制度的基本原则}{24}{paragraph*.31}%
-\contentsline {paragraph}{物权行为和债权行为}{24}{paragraph*.32}%
-\contentsline {subsection}{\numberline {3.2}不动产的物权变动}{25}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}基于法律行为的物权变动}{25}{subsubsection.3.2.1}%
-\contentsline {paragraph}{登记生效}{25}{paragraph*.33}%
-\contentsline {paragraph}{登记对抗}{26}{paragraph*.34}%
-\contentsline {subsubsection}{\numberline {3.2.2}非基于法律行为的物权变动}{26}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}不动产登记制度}{26}{subsubsection.3.2.3}%
-\contentsline {paragraph}{首次登记}{27}{paragraph*.35}%
-\contentsline {paragraph}{变更登记}{27}{paragraph*.36}%
-\contentsline {paragraph}{转移登记}{27}{paragraph*.37}%
-\contentsline {paragraph}{注销登记}{28}{paragraph*.38}%
-\contentsline {paragraph}{更正登记}{28}{paragraph*.39}%
-\contentsline {paragraph}{异议登记}{28}{paragraph*.40}%
-\contentsline {paragraph}{预告登记}{28}{paragraph*.41}%
-\contentsline {subsection}{\numberline {3.3}动产动物权变动}{29}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}动产的所有权}{29}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}特殊的交付方式}{29}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}动产所有权的特殊取得方式}{29}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}有权处分和无权处分}{30}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}有权处分}{30}{subsubsection.3.4.1}%
-\contentsline {paragraph}{普通动产的一物二卖}{30}{paragraph*.42}%
-\contentsline {paragraph}{特殊动产的 一物二卖}{30}{paragraph*.43}%
-\contentsline {subsubsection}{\numberline {3.4.2}无权处分与善意取得制度}{31}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}拾得遗失物}{31}{subsubsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.5}共有}{32}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}基本规定}{32}{subsubsection.3.5.1}%
-\contentsline {paragraph}{共有的确定}{32}{paragraph*.44}%
-\contentsline {paragraph}{共有物的管理}{32}{paragraph*.45}%
-\contentsline {paragraph}{共有物的分割}{32}{paragraph*.46}%
-\contentsline {paragraph}{共有物的对内以及对外责任}{32}{paragraph*.47}%
-\contentsline {subsubsection}{\numberline {3.5.2}按份共有人转让自己的个人份额}{32}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}共有物的处分}{33}{subsubsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.6}建设用地使用权}{34}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}建设用地使用权的设立}{34}{subsubsection.3.6.1}%
-\contentsline {subsubsection}{\numberline {3.6.2}建设用地使用权的期限}{34}{subsubsection.3.6.2}%
-\contentsline {subsubsection}{\numberline {3.6.3}建设用地使用权的转让}{35}{subsubsection.3.6.3}%
-\contentsline {subsubsection}{\numberline {3.6.4}集体土地的建设使用}{35}{subsubsection.3.6.4}%
-\contentsline {paragraph}{农田}{35}{paragraph*.48}%
-\contentsline {paragraph}{集体经营性建设用地}{36}{paragraph*.49}%
-\contentsline {subsection}{\numberline {3.7}担保的一般规定}{36}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}担保的类型}{36}{subsubsection.3.7.1}%
-\contentsline {subsubsection}{\numberline {3.7.2}担保合同的效力}{36}{subsubsection.3.7.2}%
-\contentsline {subsubsection}{\numberline {3.7.3}担保合同无效的法律责任}{37}{subsubsection.3.7.3}%
-\contentsline {subsubsection}{\numberline {3.7.4}借新还旧的担保责任}{37}{subsubsection.3.7.4}%
-\contentsline {subsubsection}{\numberline {3.7.5}不可分性}{38}{subsubsection.3.7.5}%
-\contentsline {subsection}{\numberline {3.8}抵押权}{38}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}抵押财产}{38}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}抵押合同}{39}{subsubsection.3.8.2}%
-\contentsline {subsubsection}{\numberline {3.8.3}不动产的抵押}{39}{subsubsection.3.8.3}%
-\contentsline {paragraph}{不能办理抵押登记时的责任承担}{39}{paragraph*.50}%
-\contentsline {paragraph}{以划拨方式取得的建设用地使用权}{40}{paragraph*.51}%
-\contentsline {paragraph}{土地上新增的建筑物}{40}{paragraph*.52}%
-\contentsline {paragraph}{预告登记}{41}{paragraph*.53}%
-\contentsline {subsubsection}{\numberline {3.8.4}动产的抵押}{41}{subsubsection.3.8.4}%
-\contentsline {subsubsection}{\numberline {3.8.5}动产的浮动抵押}{42}{subsubsection.3.8.5}%
-\contentsline {subsubsection}{\numberline {3.8.6}抵押物的转让}{42}{subsubsection.3.8.6}%
-\contentsline {subsubsection}{\numberline {3.8.7}抵押物的出租}{43}{subsubsection.3.8.7}%
-\contentsline {paragraph}{先出租后抵押}{43}{paragraph*.54}%
-\contentsline {paragraph}{先抵押后出租}{43}{paragraph*.55}%
-\contentsline {subsubsection}{\numberline {3.8.8}抵押权的效力}{43}{subsubsection.3.8.8}%
-\contentsline {paragraph}{物上代位性}{43}{paragraph*.56}%
-\contentsline {paragraph}{孳息}{43}{paragraph*.57}%
-\contentsline {paragraph}{从物}{43}{paragraph*.58}%
-\contentsline {paragraph}{添附}{44}{paragraph*.59}%
-\contentsline {paragraph}{同一财产向两个以上债权人设定抵押时的清偿顺序}{44}{paragraph*.60}%
-\contentsline {paragraph}{抵押权顺位的变更}{44}{paragraph*.61}%
-\contentsline {paragraph}{抵押权的消灭}{44}{paragraph*.62}%
-\contentsline {subsection}{\numberline {3.9}质权}{45}{subsection.3.9}%
-\contentsline {subsubsection}{\numberline {3.9.1}动产质押}{45}{subsubsection.3.9.1}%
-\contentsline {subsubsection}{\numberline {3.9.2}权利质押}{46}{subsubsection.3.9.2}%
-\contentsline {subsection}{\numberline {3.10}留置权}{47}{subsection.3.10}%
-\contentsline {subsubsection}{\numberline {3.10.1}留置权}{47}{subsubsection.3.10.1}%
-\contentsline {subsubsection}{\numberline {3.10.2}担保物权与诉讼时效}{49}{subsubsection.3.10.2}%
-\contentsline {paragraph}{抵押权}{49}{paragraph*.63}%
-\contentsline {paragraph}{留置权 }{49}{paragraph*.64}%
-\contentsline {paragraph}{质权}{49}{paragraph*.65}%
-\contentsline {subsection}{\numberline {3.11}担保的并存}{49}{subsection.3.11}%
-\contentsline {subsubsection}{\numberline {3.11.1}人保+物保}{49}{subsubsection.3.11.1}%
-\contentsline {subsubsection}{\numberline {3.11.2}动产抵押权、质权与留置权的竞存}{50}{subsubsection.3.11.2}%
-\contentsline {subsubsection}{\numberline {3.11.3}动产抵押权人的超级优先权}{50}{subsubsection.3.11.3}%
-\contentsline {subsubsection}{\numberline {3.11.4}让与担保}{51}{subsubsection.3.11.4}%
-\contentsline {paragraph}{让与担保中所有权的效力}{51}{paragraph*.66}%
-\contentsline {paragraph}{流质的禁止}{51}{paragraph*.67}%
-\contentsline {section}{\numberline {4}合同法律制度}{53}{section.4}%
-\contentsline {subsection}{\numberline {4.1}通则}{53}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}要约}{53}{subsubsection.4.1.1}%
-\contentsline {paragraph}{要约及要约邀请}{53}{paragraph*.68}%
-\contentsline {paragraph}{要约的生效}{53}{paragraph*.69}%
-\contentsline {paragraph}{要约的撤回}{53}{paragraph*.70}%
-\contentsline {paragraph}{要约的撤销}{54}{paragraph*.71}%
-\contentsline {paragraph}{要约的失效}{54}{paragraph*.72}%
-\contentsline {subsubsection}{\numberline {4.1.2}承诺}{54}{subsubsection.4.1.2}%
-\contentsline {paragraph}{承诺的生效}{55}{paragraph*.73}%
-\contentsline {paragraph}{承诺的撤回}{55}{paragraph*.74}%
-\contentsline {paragraph}{承诺的迟延与迟到}{55}{paragraph*.75}%
-\contentsline {paragraph}{承诺的内容}{55}{paragraph*.76}%
-\contentsline {subsubsection}{\numberline {4.1.3}合同成立的时间和地点}{55}{subsubsection.4.1.3}%
-\contentsline {paragraph}{合同成立的时间}{55}{paragraph*.77}%
-\contentsline {paragraph}{合同成立的地点}{55}{paragraph*.78}%
-\contentsline {subsubsection}{\numberline {4.1.4}格式条款与免责条款}{56}{subsubsection.4.1.4}%
-\contentsline {paragraph}{格式条款}{56}{paragraph*.79}%
-\contentsline {paragraph}{免责条款}{56}{paragraph*.80}%
-\contentsline {subsubsection}{\numberline {4.1.5}缔约过失责任}{57}{subsubsection.4.1.5}%
-\contentsline {subsubsection}{\numberline {4.1.6}合同的生效}{57}{subsubsection.4.1.6}%
-\contentsline {paragraph}{通常情况}{57}{paragraph*.81}%
-\contentsline {paragraph}{特殊情况}{58}{paragraph*.82}%
-\contentsline {subsubsection}{\numberline {4.1.7}合同的履行规则}{58}{subsubsection.4.1.7}%
-\contentsline {paragraph}{约定不明的处理}{58}{paragraph*.83}%
-\contentsline {paragraph}{提前履行}{59}{paragraph*.84}%
-\contentsline {paragraph}{部分履行}{59}{paragraph*.85}%
-\contentsline {paragraph}{履行发生困难}{59}{paragraph*.86}%
-\contentsline {paragraph}{情势变更}{59}{paragraph*.87}%
-\contentsline {subsubsection}{\numberline {4.1.8}涉及第三人的合同}{60}{subsubsection.4.1.8}%
-\contentsline {paragraph}{向第三人履行的合同}{60}{paragraph*.88}%
-\contentsline {paragraph}{由第三人履行的合同}{60}{paragraph*.89}%
-\contentsline {paragraph}{第三人单方自愿代为履行}{60}{paragraph*.90}%
-\contentsline {subsubsection}{\numberline {4.1.9}按份之债与连带之债}{61}{subsubsection.4.1.9}%
-\contentsline {paragraph}{按份之债}{61}{paragraph*.91}%
-\contentsline {paragraph}{连带之债}{61}{paragraph*.92}%
-\contentsline {paragraph}{连带債务}{61}{paragraph*.93}%
-\contentsline {subsubsection}{\numberline {4.1.10}双务合同履行中的抗辩权}{62}{subsubsection.4.1.10}%
-\contentsline {subsubsection}{\numberline {4.1.11}债权人代位权}{62}{subsubsection.4.1.11}%
-\contentsline {paragraph}{代位权简介}{62}{paragraph*.94}%
-\contentsline {paragraph}{代位权行使的条件}{63}{paragraph*.95}%
-\contentsline {paragraph}{代位权诉讼中的主体和管辖}{63}{paragraph*.96}%
-\contentsline {subsubsection}{\numberline {4.1.12}债权人撤销权}{64}{subsubsection.4.1.12}%
-\contentsline {paragraph}{撤销权的行使期限}{64}{paragraph*.97}%
-\contentsline {paragraph}{撤销权诉讼中的主体和管辖}{64}{paragraph*.98}%
-\contentsline {subsubsection}{\numberline {4.1.13}债权转让}{65}{subsubsection.4.1.13}%
-\contentsline {paragraph}{债权的多重让与}{66}{paragraph*.99}%
-\contentsline {subsubsection}{\numberline {4.1.14}债务承担}{66}{subsubsection.4.1.14}%
-\contentsline {subsubsection}{\numberline {4.1.15}合同解除}{67}{subsubsection.4.1.15}%
-\contentsline {paragraph}{合同解除的类型}{67}{paragraph*.100}%
-\contentsline {paragraph}{解除权的行使}{67}{paragraph*.101}%
-\contentsline {paragraph}{合同解除的效力}{68}{paragraph*.102}%
-\contentsline {subsubsection}{\numberline {4.1.16}抵销}{68}{subsubsection.4.1.16}%
-\contentsline {subsubsection}{\numberline {4.1.17}提存}{69}{subsubsection.4.1.17}%
-\contentsline {subsubsection}{\numberline {4.1.18}债权债务的终止}{70}{subsubsection.4.1.18}%
-\contentsline {subsubsection}{\numberline {4.1.19}违约责任}{70}{subsubsection.4.1.19}%
-\contentsline {paragraph}{违约的种类}{70}{paragraph*.103}%
-\contentsline {paragraph}{债务的种类}{70}{paragraph*.104}%
-\contentsline {paragraph}{采取补救措施}{71}{paragraph*.105}%
-\contentsline {paragraph}{赔偿损失}{71}{paragraph*.106}%
-\contentsline {paragraph}{支付违约金}{72}{paragraph*.107}%
-\contentsline {paragraph}{定金}{72}{paragraph*.108}%
-\contentsline {paragraph}{不可抗力}{72}{paragraph*.109}%
-\contentsline {subsubsection}{\numberline {4.1.20}合同的相对性}{72}{subsubsection.4.1.20}%
-\contentsline {subsection}{\numberline {4.2}合同的担保}{73}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}保证合同}{73}{subsubsection.4.2.1}%
-\contentsline {paragraph}{保证合同}{73}{paragraph*.110}%
-\contentsline {paragraph}{保证人}{74}{paragraph*.111}%
-\contentsline {subsubsection}{\numberline {4.2.2}保证方式}{74}{subsubsection.4.2.2}%
-\contentsline {paragraph}{一般保证}{74}{paragraph*.112}%
-\contentsline {paragraph}{连带责任保证}{74}{paragraph*.113}%
-\contentsline {subsubsection}{\numberline {4.2.3}保证期间}{74}{subsubsection.4.2.3}%
-\contentsline {paragraph}{连带责任保证}{75}{paragraph*.114}%
-\contentsline {paragraph}{一般保证}{75}{paragraph*.115}%
-\contentsline {subsubsection}{\numberline {4.2.4}保证责任}{75}{subsubsection.4.2.4}%
-\contentsline {paragraph}{保证的范围}{75}{paragraph*.116}%
-\contentsline {paragraph}{债权转让}{75}{paragraph*.117}%
-\contentsline {paragraph}{债务转移}{75}{paragraph*.118}%
-\contentsline {paragraph}{债务加入}{75}{paragraph*.119}%
-\contentsline {paragraph}{主合同的变更}{75}{paragraph*.120}%
-\contentsline {paragraph}{共同保证}{76}{paragraph*.121}%
-\contentsline {subsubsection}{\numberline {4.2.5}定金}{76}{subsubsection.4.2.5}%
-\contentsline {paragraph}{共同保证}{76}{paragraph*.122}%
-\contentsline {paragraph}{定金罚则}{76}{paragraph*.123}%
-\contentsline {paragraph}{未交付定金的情况}{76}{paragraph*.124}%
-\contentsline {subsection}{\numberline {4.3}典型合同}{77}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}买卖合同}{77}{subsubsection.4.3.1}%
-\contentsline {paragraph}{标的物的风险负担}{77}{paragraph*.125}%
-\contentsline {paragraph}{标的物的检验}{77}{paragraph*.126}%
-\contentsline {paragraph}{买卖合同的特别解除规则}{78}{paragraph*.127}%
-\contentsline {paragraph}{试用买卖合同}{78}{paragraph*.128}%
-\contentsline {paragraph}{凭样品买卖合同}{78}{paragraph*.129}%
-\contentsline {subsubsection}{\numberline {4.3.2}商品房买卖合同}{78}{subsubsection.4.3.2}%
-\contentsline {paragraph}{商品房销售广告的性质}{78}{paragraph*.130}%
-\contentsline {paragraph}{商品房预售合同}{78}{paragraph*.131}%
-\contentsline {paragraph}{解除权的行使}{78}{paragraph*.132}%
-\contentsline {paragraph}{贷款合同的效力}{79}{paragraph*.133}%
-\contentsline {subsubsection}{\numberline {4.3.3}租赁合同}{79}{subsubsection.4.3.3}%
-\contentsline {paragraph}{租赁期限}{79}{paragraph*.134}%
-\contentsline {paragraph}{登记备案}{79}{paragraph*.135}%
-\contentsline {paragraph}{不定期租赁}{79}{paragraph*.136}%
-\contentsline {paragraph}{维修义务}{79}{paragraph*.137}%
-\contentsline {paragraph}{租金的支付期限}{80}{paragraph*.138}%
-\contentsline {paragraph}{承租人的权利和义务}{80}{paragraph*.139}%
-\contentsline {paragraph}{转租}{80}{paragraph*.140}%
-\contentsline {paragraph}{买卖不破租赁}{80}{paragraph*.141}%
-\contentsline {paragraph}{承租人的优先购买权}{81}{paragraph*.142}%
-\contentsline {paragraph}{房屋租赁合同的无效}{81}{paragraph*.143}%
-\contentsline {subsubsection}{\numberline {4.3.4}融资租赁合同}{81}{subsubsection.4.3.4}%
-\contentsline {subsubsection}{\numberline {4.3.5}借款合同}{83}{subsubsection.4.3.5}%
-\contentsline {subsubsection}{\numberline {4.3.6}民间借贷合同}{83}{subsubsection.4.3.6}%
-\contentsline {paragraph}{借期内利息}{83}{paragraph*.144}%
-\contentsline {paragraph}{逾期利率}{84}{paragraph*.145}%
-\contentsline {paragraph}{诉讼当事人}{84}{paragraph*.146}%
-\contentsline {paragraph}{自然人之间的借款合同}{84}{paragraph*.147}%
-\contentsline {paragraph}{民间借贷合同的无效}{84}{paragraph*.148}%
-\contentsline {paragraph}{网络贷款平台}{85}{paragraph*.149}%
-\contentsline {paragraph}{以订立买卖合同作为民间借贷合同的担保}{85}{paragraph*.150}%
-\contentsline {subsubsection}{\numberline {4.3.7}赠与合同}{85}{subsubsection.4.3.7}%
-\contentsline {paragraph}{任意撤销}{86}{paragraph*.151}%
-\contentsline {paragraph}{赠与的法定撤销}{86}{paragraph*.152}%
-\contentsline {subsubsection}{\numberline {4.3.8}承揽合同}{86}{subsubsection.4.3.8}%
-\contentsline {subsubsection}{\numberline {4.3.9}建设工程合同}{87}{subsubsection.4.3.9}%
-\contentsline {paragraph}{建设工程合同}{87}{paragraph*.153}%
-\contentsline {paragraph}{分包}{87}{paragraph*.154}%
-\contentsline {paragraph}{委托监理合同}{87}{paragraph*.155}%
-\contentsline {paragraph}{实际竣工日期}{87}{paragraph*.156}%
-\contentsline {paragraph}{垫资}{88}{paragraph*.157}%
-\contentsline {paragraph}{工程欠款}{88}{paragraph*.158}%
-\contentsline {subsubsection}{\numberline {4.3.10}客运合同}{89}{subsubsection.4.3.10}%
-\contentsline {subsubsection}{\numberline {4.3.11}货运合同}{89}{subsubsection.4.3.11}%
-\contentsline {subsubsection}{\numberline {4.3.12}委托合同}{90}{subsubsection.4.3.12}%
-\contentsline {paragraph}{受托人的报酬}{90}{paragraph*.159}%
-\contentsline {paragraph}{委托人的费用}{90}{paragraph*.160}%
-\contentsline {paragraph}{损失赔偿}{90}{paragraph*.161}%
-\contentsline {paragraph}{随时解除}{90}{paragraph*.162}%
-\contentsline {paragraph}{转委托}{90}{paragraph*.163}%
-\contentsline {paragraph}{隐名代理}{90}{paragraph*.164}%
-\contentsline {subsubsection}{\numberline {4.3.13}行纪合同}{91}{subsubsection.4.3.13}%
-\contentsline {subsubsection}{\numberline {4.3.14}技术合同}{91}{subsubsection.4.3.14}%
-\contentsline {paragraph}{技术合同的种类}{91}{paragraph*.165}%
-\contentsline {paragraph}{职务技术成果}{92}{paragraph*.166}%
-\contentsline {paragraph}{后续改进的技术成果}{92}{paragraph*.167}%
-\contentsline {section}{\numberline {5}合伙企业法律制度}{93}{section.5}%
-\contentsline {section}{\numberline {6}公司法律制度}{94}{section.6}%
-\contentsline {section}{\numberline {7}证券法律制度}{95}{section.7}%
-\contentsline {section}{\numberline {8}企业破产法律制度}{95}{section.8}%
-\contentsline {section}{\numberline {9}票据与支付结算法律制度}{95}{section.9}%
-\contentsline {section}{\numberline {10}企业国有资产法律制度}{95}{section.10}%
-\contentsline {section}{\numberline {11}反垄断法律制度}{95}{section.11}%
-\contentsline {section}{\numberline {12}涉外法律制度}{95}{section.12}%
+\contentsline {section}{\numberline {1}法律基本原理}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}法律基本概念}{6}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}我国的法律渊源}{6}{subsubsection.1.1.1}%
+\contentsline {paragraph}{宪法}{6}{paragraph*.2}%
+\contentsline {paragraph}{法律}{6}{paragraph*.3}%
+\contentsline {paragraph}{法规}{6}{paragraph*.4}%
+\contentsline {paragraph}{规章}{7}{paragraph*.5}%
+\contentsline {paragraph}{司法解释}{7}{paragraph*.6}%
+\contentsline {subsubsection}{\numberline {1.1.2}法律规范}{7}{subsubsection.1.1.2}%
+\contentsline {paragraph}{法律规范的概念}{7}{paragraph*.7}%
+\contentsline {paragraph}{法律规范与法律条文}{7}{paragraph*.8}%
+\contentsline {paragraph}{法律规范的种类}{7}{paragraph*.9}%
+\contentsline {subsection}{\numberline {1.2}法律关系}{8}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}法律关系的主体}{8}{subsubsection.1.2.1}%
+\contentsline {paragraph}{法律关系的概念}{8}{paragraph*.10}%
+\contentsline {paragraph}{法律关系主体的种类}{8}{paragraph*.11}%
+\contentsline {paragraph}{法人的分类}{9}{paragraph*.12}%
+\contentsline {paragraph}{非法人组织}{9}{paragraph*.13}%
+\contentsline {subsubsection}{\numberline {1.2.2}权利能力和行为能力}{9}{subsubsection.1.2.2}%
+\contentsline {paragraph}{权利能力和行为能力}{9}{paragraph*.14}%
+\contentsline {paragraph}{自然人的民事行为能力}{9}{paragraph*.15}%
+\contentsline {subsubsection}{\numberline {1.2.3}法律关系的客体}{10}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}法律事实}{10}{subsubsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.3}全面依法治国基本方略}{10}{subsection.1.3}%
+\contentsline {section}{\numberline {2}基本民事法律制度}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}民事法律行为制度}{11}{subsection.2.1}%
+\contentsline {paragraph}{民事法律行为的分类}{11}{paragraph*.16}%
+\contentsline {paragraph}{意思表示}{12}{paragraph*.17}%
+\contentsline {paragraph}{民事法律行为的生效}{12}{paragraph*.18}%
+\contentsline {paragraph}{无效的民事法律行为}{13}{paragraph*.19}%
+\contentsline {paragraph}{可撤销的民事法律行为}{14}{paragraph*.20}%
+\contentsline {paragraph}{效力待定的民事法律行为}{15}{paragraph*.21}%
+\contentsline {paragraph}{附条件和附期限的民事法律行为}{17}{paragraph*.22}%
+\contentsline {subsection}{\numberline {2.2}代理制度}{17}{subsection.2.2}%
+\contentsline {paragraph}{代理的概念}{17}{paragraph*.23}%
+\contentsline {paragraph}{委托代理}{18}{paragraph*.24}%
+\contentsline {subsection}{\numberline {2.3}诉讼时效制度}{19}{subsection.2.3}%
+\contentsline {paragraph}{诉讼时效的基本理论}{19}{paragraph*.25}%
+\contentsline {paragraph}{诉讼时效的种类和起算}{20}{paragraph*.26}%
+\contentsline {paragraph}{诉讼时效的中止}{20}{paragraph*.27}%
+\contentsline {paragraph}{诉讼时效的中断事由}{21}{paragraph*.28}%
+\contentsline {section}{\numberline {3}物权法律制度}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}物权法律制度概述}{23}{subsection.3.1}%
+\contentsline {paragraph}{物的种类}{23}{paragraph*.29}%
+\contentsline {paragraph}{物权的概念}{24}{paragraph*.30}%
+\contentsline {paragraph}{物权法律制度的基本原则}{25}{paragraph*.31}%
+\contentsline {paragraph}{物权行为和债权行为}{25}{paragraph*.32}%
+\contentsline {subsection}{\numberline {3.2}不动产的物权变动}{26}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}基于法律行为的物权变动}{26}{subsubsection.3.2.1}%
+\contentsline {paragraph}{登记生效}{26}{paragraph*.33}%
+\contentsline {paragraph}{登记对抗}{27}{paragraph*.34}%
+\contentsline {subsubsection}{\numberline {3.2.2}非基于法律行为的物权变动}{27}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}不动产登记制度}{27}{subsubsection.3.2.3}%
+\contentsline {paragraph}{首次登记}{28}{paragraph*.35}%
+\contentsline {paragraph}{变更登记}{28}{paragraph*.36}%
+\contentsline {paragraph}{转移登记}{28}{paragraph*.37}%
+\contentsline {paragraph}{注销登记}{29}{paragraph*.38}%
+\contentsline {paragraph}{更正登记}{29}{paragraph*.39}%
+\contentsline {paragraph}{异议登记}{29}{paragraph*.40}%
+\contentsline {paragraph}{预告登记}{29}{paragraph*.41}%
+\contentsline {subsection}{\numberline {3.3}动产动物权变动}{30}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}动产的所有权}{30}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}特殊的交付方式}{30}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}动产所有权的特殊取得方式}{30}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}有权处分和无权处分}{31}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}有权处分}{31}{subsubsection.3.4.1}%
+\contentsline {paragraph}{普通动产的一物二卖}{31}{paragraph*.42}%
+\contentsline {paragraph}{特殊动产的 一物二卖}{31}{paragraph*.43}%
+\contentsline {subsubsection}{\numberline {3.4.2}无权处分与善意取得制度}{32}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}拾得遗失物}{32}{subsubsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.5}共有}{33}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}基本规定}{33}{subsubsection.3.5.1}%
+\contentsline {paragraph}{共有的确定}{33}{paragraph*.44}%
+\contentsline {paragraph}{共有物的管理}{33}{paragraph*.45}%
+\contentsline {paragraph}{共有物的分割}{33}{paragraph*.46}%
+\contentsline {paragraph}{共有物的对内以及对外责任}{33}{paragraph*.47}%
+\contentsline {subsubsection}{\numberline {3.5.2}按份共有人转让自己的个人份额}{33}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}共有物的处分}{34}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}建设用地使用权}{35}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}建设用地使用权的设立}{35}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}建设用地使用权的期限}{35}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3}建设用地使用权的转让}{36}{subsubsection.3.6.3}%
+\contentsline {subsubsection}{\numberline {3.6.4}集体土地的建设使用}{36}{subsubsection.3.6.4}%
+\contentsline {paragraph}{农田}{36}{paragraph*.48}%
+\contentsline {paragraph}{集体经营性建设用地}{37}{paragraph*.49}%
+\contentsline {subsection}{\numberline {3.7}担保的一般规定}{37}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}担保的类型}{37}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}担保合同的效力}{37}{subsubsection.3.7.2}%
+\contentsline {subsubsection}{\numberline {3.7.3}担保合同无效的法律责任}{38}{subsubsection.3.7.3}%
+\contentsline {subsubsection}{\numberline {3.7.4}借新还旧的担保责任}{38}{subsubsection.3.7.4}%
+\contentsline {subsubsection}{\numberline {3.7.5}不可分性}{39}{subsubsection.3.7.5}%
+\contentsline {subsection}{\numberline {3.8}抵押权}{39}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}抵押财产}{39}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}抵押合同}{40}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3}不动产的抵押}{40}{subsubsection.3.8.3}%
+\contentsline {paragraph}{不能办理抵押登记时的责任承担}{40}{paragraph*.50}%
+\contentsline {paragraph}{以划拨方式取得的建设用地使用权}{41}{paragraph*.51}%
+\contentsline {paragraph}{土地上新增的建筑物}{41}{paragraph*.52}%
+\contentsline {paragraph}{预告登记}{42}{paragraph*.53}%
+\contentsline {subsubsection}{\numberline {3.8.4}动产的抵押}{42}{subsubsection.3.8.4}%
+\contentsline {subsubsection}{\numberline {3.8.5}动产的浮动抵押}{43}{subsubsection.3.8.5}%
+\contentsline {subsubsection}{\numberline {3.8.6}抵押物的转让}{43}{subsubsection.3.8.6}%
+\contentsline {subsubsection}{\numberline {3.8.7}抵押物的出租}{44}{subsubsection.3.8.7}%
+\contentsline {paragraph}{先出租后抵押}{44}{paragraph*.54}%
+\contentsline {paragraph}{先抵押后出租}{44}{paragraph*.55}%
+\contentsline {subsubsection}{\numberline {3.8.8}抵押权的效力}{44}{subsubsection.3.8.8}%
+\contentsline {paragraph}{物上代位性}{44}{paragraph*.56}%
+\contentsline {paragraph}{孳息}{44}{paragraph*.57}%
+\contentsline {paragraph}{从物}{44}{paragraph*.58}%
+\contentsline {paragraph}{添附}{45}{paragraph*.59}%
+\contentsline {paragraph}{同一财产向两个以上债权人设定抵押时的清偿顺序}{45}{paragraph*.60}%
+\contentsline {paragraph}{抵押权顺位的变更}{45}{paragraph*.61}%
+\contentsline {paragraph}{抵押权的消灭}{45}{paragraph*.62}%
+\contentsline {subsection}{\numberline {3.9}质权}{46}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}动产质押}{46}{subsubsection.3.9.1}%
+\contentsline {subsubsection}{\numberline {3.9.2}权利质押}{47}{subsubsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.10}留置权}{48}{subsection.3.10}%
+\contentsline {subsubsection}{\numberline {3.10.1}留置权}{48}{subsubsection.3.10.1}%
+\contentsline {subsubsection}{\numberline {3.10.2}担保物权与诉讼时效}{50}{subsubsection.3.10.2}%
+\contentsline {paragraph}{抵押权}{50}{paragraph*.63}%
+\contentsline {paragraph}{留置权 }{50}{paragraph*.64}%
+\contentsline {paragraph}{质权}{50}{paragraph*.65}%
+\contentsline {subsection}{\numberline {3.11}担保的并存}{50}{subsection.3.11}%
+\contentsline {subsubsection}{\numberline {3.11.1}人保+物保}{50}{subsubsection.3.11.1}%
+\contentsline {subsubsection}{\numberline {3.11.2}动产抵押权、质权与留置权的竞存}{51}{subsubsection.3.11.2}%
+\contentsline {subsubsection}{\numberline {3.11.3}动产抵押权人的超级优先权}{51}{subsubsection.3.11.3}%
+\contentsline {subsubsection}{\numberline {3.11.4}让与担保}{52}{subsubsection.3.11.4}%
+\contentsline {paragraph}{让与担保中所有权的效力}{52}{paragraph*.66}%
+\contentsline {paragraph}{流质的禁止}{52}{paragraph*.67}%
+\contentsline {section}{\numberline {4}合同法律制度}{54}{section.4}%
+\contentsline {subsection}{\numberline {4.1}通则}{54}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}要约}{54}{subsubsection.4.1.1}%
+\contentsline {paragraph}{要约及要约邀请}{54}{paragraph*.68}%
+\contentsline {paragraph}{要约的生效}{54}{paragraph*.69}%
+\contentsline {paragraph}{要约的撤回}{54}{paragraph*.70}%
+\contentsline {paragraph}{要约的撤销}{55}{paragraph*.71}%
+\contentsline {paragraph}{要约的失效}{55}{paragraph*.72}%
+\contentsline {subsubsection}{\numberline {4.1.2}承诺}{55}{subsubsection.4.1.2}%
+\contentsline {paragraph}{承诺的生效}{56}{paragraph*.73}%
+\contentsline {paragraph}{承诺的撤回}{56}{paragraph*.74}%
+\contentsline {paragraph}{承诺的迟延与迟到}{56}{paragraph*.75}%
+\contentsline {paragraph}{承诺的内容}{56}{paragraph*.76}%
+\contentsline {subsubsection}{\numberline {4.1.3}合同成立的时间和地点}{56}{subsubsection.4.1.3}%
+\contentsline {paragraph}{合同成立的时间}{56}{paragraph*.77}%
+\contentsline {paragraph}{合同成立的地点}{56}{paragraph*.78}%
+\contentsline {subsubsection}{\numberline {4.1.4}格式条款与免责条款}{57}{subsubsection.4.1.4}%
+\contentsline {paragraph}{格式条款}{57}{paragraph*.79}%
+\contentsline {paragraph}{免责条款}{57}{paragraph*.80}%
+\contentsline {subsubsection}{\numberline {4.1.5}缔约过失责任}{58}{subsubsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.6}合同的生效}{58}{subsubsection.4.1.6}%
+\contentsline {paragraph}{通常情况}{58}{paragraph*.81}%
+\contentsline {paragraph}{特殊情况}{59}{paragraph*.82}%
+\contentsline {subsubsection}{\numberline {4.1.7}合同的履行规则}{59}{subsubsection.4.1.7}%
+\contentsline {paragraph}{约定不明的处理}{59}{paragraph*.83}%
+\contentsline {paragraph}{提前履行}{60}{paragraph*.84}%
+\contentsline {paragraph}{部分履行}{60}{paragraph*.85}%
+\contentsline {paragraph}{履行发生困难}{60}{paragraph*.86}%
+\contentsline {paragraph}{情势变更}{60}{paragraph*.87}%
+\contentsline {subsubsection}{\numberline {4.1.8}涉及第三人的合同}{61}{subsubsection.4.1.8}%
+\contentsline {paragraph}{向第三人履行的合同}{61}{paragraph*.88}%
+\contentsline {paragraph}{由第三人履行的合同}{61}{paragraph*.89}%
+\contentsline {paragraph}{第三人单方自愿代为履行}{61}{paragraph*.90}%
+\contentsline {subsubsection}{\numberline {4.1.9}按份之债与连带之债}{62}{subsubsection.4.1.9}%
+\contentsline {paragraph}{按份之债}{62}{paragraph*.91}%
+\contentsline {paragraph}{连带之债}{62}{paragraph*.92}%
+\contentsline {paragraph}{连带債务}{62}{paragraph*.93}%
+\contentsline {subsubsection}{\numberline {4.1.10}双务合同履行中的抗辩权}{63}{subsubsection.4.1.10}%
+\contentsline {subsubsection}{\numberline {4.1.11}债权人代位权}{63}{subsubsection.4.1.11}%
+\contentsline {paragraph}{代位权简介}{63}{paragraph*.94}%
+\contentsline {paragraph}{代位权行使的条件}{64}{paragraph*.95}%
+\contentsline {paragraph}{代位权诉讼中的主体和管辖}{64}{paragraph*.96}%
+\contentsline {subsubsection}{\numberline {4.1.12}债权人撤销权}{65}{subsubsection.4.1.12}%
+\contentsline {paragraph}{撤销权的行使期限}{65}{paragraph*.97}%
+\contentsline {paragraph}{撤销权诉讼中的主体和管辖}{65}{paragraph*.98}%
+\contentsline {subsubsection}{\numberline {4.1.13}债权转让}{66}{subsubsection.4.1.13}%
+\contentsline {paragraph}{债权的多重让与}{67}{paragraph*.99}%
+\contentsline {subsubsection}{\numberline {4.1.14}债务承担}{67}{subsubsection.4.1.14}%
+\contentsline {subsubsection}{\numberline {4.1.15}合同解除}{68}{subsubsection.4.1.15}%
+\contentsline {paragraph}{合同解除的类型}{68}{paragraph*.100}%
+\contentsline {paragraph}{解除权的行使}{68}{paragraph*.101}%
+\contentsline {paragraph}{合同解除的效力}{69}{paragraph*.102}%
+\contentsline {subsubsection}{\numberline {4.1.16}抵销}{69}{subsubsection.4.1.16}%
+\contentsline {subsubsection}{\numberline {4.1.17}提存}{70}{subsubsection.4.1.17}%
+\contentsline {subsubsection}{\numberline {4.1.18}债权债务的终止}{71}{subsubsection.4.1.18}%
+\contentsline {subsubsection}{\numberline {4.1.19}违约责任}{71}{subsubsection.4.1.19}%
+\contentsline {paragraph}{违约的种类}{71}{paragraph*.103}%
+\contentsline {paragraph}{债务的种类}{71}{paragraph*.104}%
+\contentsline {paragraph}{采取补救措施}{72}{paragraph*.105}%
+\contentsline {paragraph}{赔偿损失}{72}{paragraph*.106}%
+\contentsline {paragraph}{支付违约金}{73}{paragraph*.107}%
+\contentsline {paragraph}{定金}{73}{paragraph*.108}%
+\contentsline {paragraph}{不可抗力}{73}{paragraph*.109}%
+\contentsline {subsubsection}{\numberline {4.1.20}合同的相对性}{73}{subsubsection.4.1.20}%
+\contentsline {subsection}{\numberline {4.2}合同的担保}{74}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}保证合同}{74}{subsubsection.4.2.1}%
+\contentsline {paragraph}{保证合同}{74}{paragraph*.110}%
+\contentsline {paragraph}{保证人}{75}{paragraph*.111}%
+\contentsline {subsubsection}{\numberline {4.2.2}保证方式}{75}{subsubsection.4.2.2}%
+\contentsline {paragraph}{一般保证}{75}{paragraph*.112}%
+\contentsline {paragraph}{连带责任保证}{75}{paragraph*.113}%
+\contentsline {subsubsection}{\numberline {4.2.3}保证期间}{75}{subsubsection.4.2.3}%
+\contentsline {paragraph}{连带责任保证}{76}{paragraph*.114}%
+\contentsline {paragraph}{一般保证}{76}{paragraph*.115}%
+\contentsline {subsubsection}{\numberline {4.2.4}保证责任}{76}{subsubsection.4.2.4}%
+\contentsline {paragraph}{保证的范围}{76}{paragraph*.116}%
+\contentsline {paragraph}{债权转让}{76}{paragraph*.117}%
+\contentsline {paragraph}{债务转移}{76}{paragraph*.118}%
+\contentsline {paragraph}{债务加入}{76}{paragraph*.119}%
+\contentsline {paragraph}{主合同的变更}{76}{paragraph*.120}%
+\contentsline {paragraph}{共同保证}{77}{paragraph*.121}%
+\contentsline {subsubsection}{\numberline {4.2.5}定金}{77}{subsubsection.4.2.5}%
+\contentsline {paragraph}{共同保证}{77}{paragraph*.122}%
+\contentsline {paragraph}{定金罚则}{77}{paragraph*.123}%
+\contentsline {paragraph}{未交付定金的情况}{77}{paragraph*.124}%
+\contentsline {subsection}{\numberline {4.3}典型合同}{78}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}买卖合同}{78}{subsubsection.4.3.1}%
+\contentsline {paragraph}{标的物的风险负担}{78}{paragraph*.125}%
+\contentsline {paragraph}{标的物的检验}{78}{paragraph*.126}%
+\contentsline {paragraph}{买卖合同的特别解除规则}{79}{paragraph*.127}%
+\contentsline {paragraph}{试用买卖合同}{79}{paragraph*.128}%
+\contentsline {paragraph}{凭样品买卖合同}{79}{paragraph*.129}%
+\contentsline {subsubsection}{\numberline {4.3.2}商品房买卖合同}{79}{subsubsection.4.3.2}%
+\contentsline {paragraph}{商品房销售广告的性质}{79}{paragraph*.130}%
+\contentsline {paragraph}{商品房预售合同}{79}{paragraph*.131}%
+\contentsline {paragraph}{解除权的行使}{79}{paragraph*.132}%
+\contentsline {paragraph}{贷款合同的效力}{80}{paragraph*.133}%
+\contentsline {subsubsection}{\numberline {4.3.3}租赁合同}{80}{subsubsection.4.3.3}%
+\contentsline {paragraph}{租赁期限}{80}{paragraph*.134}%
+\contentsline {paragraph}{登记备案}{80}{paragraph*.135}%
+\contentsline {paragraph}{不定期租赁}{80}{paragraph*.136}%
+\contentsline {paragraph}{维修义务}{80}{paragraph*.137}%
+\contentsline {paragraph}{租金的支付期限}{81}{paragraph*.138}%
+\contentsline {paragraph}{承租人的权利和义务}{81}{paragraph*.139}%
+\contentsline {paragraph}{转租}{81}{paragraph*.140}%
+\contentsline {paragraph}{买卖不破租赁}{81}{paragraph*.141}%
+\contentsline {paragraph}{承租人的优先购买权}{82}{paragraph*.142}%
+\contentsline {paragraph}{房屋租赁合同的无效}{82}{paragraph*.143}%
+\contentsline {subsubsection}{\numberline {4.3.4}融资租赁合同}{82}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}借款合同}{84}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}民间借贷合同}{84}{subsubsection.4.3.6}%
+\contentsline {paragraph}{借期内利息}{84}{paragraph*.144}%
+\contentsline {paragraph}{逾期利率}{85}{paragraph*.145}%
+\contentsline {paragraph}{诉讼当事人}{85}{paragraph*.146}%
+\contentsline {paragraph}{自然人之间的借款合同}{85}{paragraph*.147}%
+\contentsline {paragraph}{民间借贷合同的无效}{85}{paragraph*.148}%
+\contentsline {paragraph}{网络贷款平台}{86}{paragraph*.149}%
+\contentsline {paragraph}{以订立买卖合同作为民间借贷合同的担保}{86}{paragraph*.150}%
+\contentsline {subsubsection}{\numberline {4.3.7}赠与合同}{86}{subsubsection.4.3.7}%
+\contentsline {paragraph}{任意撤销}{87}{paragraph*.151}%
+\contentsline {paragraph}{赠与的法定撤销}{87}{paragraph*.152}%
+\contentsline {subsubsection}{\numberline {4.3.8}承揽合同}{87}{subsubsection.4.3.8}%
+\contentsline {subsubsection}{\numberline {4.3.9}建设工程合同}{88}{subsubsection.4.3.9}%
+\contentsline {paragraph}{建设工程合同}{88}{paragraph*.153}%
+\contentsline {paragraph}{分包}{88}{paragraph*.154}%
+\contentsline {paragraph}{委托监理合同}{88}{paragraph*.155}%
+\contentsline {paragraph}{实际竣工日期}{88}{paragraph*.156}%
+\contentsline {paragraph}{垫资}{89}{paragraph*.157}%
+\contentsline {paragraph}{工程欠款}{89}{paragraph*.158}%
+\contentsline {subsubsection}{\numberline {4.3.10}客运合同}{90}{subsubsection.4.3.10}%
+\contentsline {subsubsection}{\numberline {4.3.11}货运合同}{90}{subsubsection.4.3.11}%
+\contentsline {subsubsection}{\numberline {4.3.12}委托合同}{91}{subsubsection.4.3.12}%
+\contentsline {paragraph}{受托人的报酬}{91}{paragraph*.159}%
+\contentsline {paragraph}{委托人的费用}{91}{paragraph*.160}%
+\contentsline {paragraph}{损失赔偿}{91}{paragraph*.161}%
+\contentsline {paragraph}{随时解除}{91}{paragraph*.162}%
+\contentsline {paragraph}{转委托}{91}{paragraph*.163}%
+\contentsline {paragraph}{隐名代理}{91}{paragraph*.164}%
+\contentsline {subsubsection}{\numberline {4.3.13}行纪合同}{92}{subsubsection.4.3.13}%
+\contentsline {subsubsection}{\numberline {4.3.14}技术合同}{92}{subsubsection.4.3.14}%
+\contentsline {paragraph}{技术合同的种类}{92}{paragraph*.165}%
+\contentsline {paragraph}{职务技术成果}{93}{paragraph*.166}%
+\contentsline {paragraph}{后续改进的技术成果}{93}{paragraph*.167}%
+\contentsline {section}{\numberline {5}合伙企业法律制度}{94}{section.5}%
+\contentsline {subsection}{\numberline {5.1}普通合伙企业}{94}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}合伙企业的特征}{94}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}合伙企业的类型}{94}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}普通合伙企业的设立条件}{94}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}合伙企业的财产}{95}{subsubsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.5}合伙企业的事务执行和利润分配}{96}{subsubsection.5.1.5}%
+\contentsline {subsubsection}{\numberline {5.1.6}合伙企业与第三人的关系}{97}{subsubsection.5.1.6}%
+\contentsline {subsubsection}{\numberline {5.1.7}退伙的类型}{98}{subsubsection.5.1.7}%
+\contentsline {subsubsection}{\numberline {5.1.8}财产继承}{99}{subsubsection.5.1.8}%
+\contentsline {subsubsection}{\numberline {5.1.9}特殊的普通合伙企业}{100}{subsubsection.5.1.9}%
+\contentsline {subsection}{\numberline {5.2}有限合伙企业}{101}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}有限合伙企业的设立}{101}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}有限合伙企业的合伙协议}{101}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}有限合伙企业的事务执行}{101}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}交易}{101}{subsubsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.5}竞争}{101}{subsubsection.5.2.5}%
+\contentsline {subsubsection}{\numberline {5.2.6}出质}{101}{subsubsection.5.2.6}%
+\contentsline {subsubsection}{\numberline {5.2.7}财产份额的对外转让}{101}{subsubsection.5.2.7}%
+\contentsline {subsubsection}{\numberline {5.2.8}有限合伙人的债务清偿}{101}{subsubsection.5.2.8}%
+\contentsline {subsubsection}{\numberline {5.2.9}入伙}{101}{subsubsection.5.2.9}%
+\contentsline {subsubsection}{\numberline {5.2.10}退伙}{101}{subsubsection.5.2.10}%
+\contentsline {subsubsection}{\numberline {5.2.11}合伙人性质的转变}{101}{subsubsection.5.2.11}%
+\contentsline {subsubsection}{\numberline {5.2.12}法定事项与约定事项}{101}{subsubsection.5.2.12}%
+\contentsline {subsubsection}{\numberline {5.2.13}合伙企业的设立登记}{101}{subsubsection.5.2.13}%
+\contentsline {subsubsection}{\numberline {5.2.14}合伙企业的解散与清算}{101}{subsubsection.5.2.14}%
+\contentsline {section}{\numberline {6}公司法律制度}{102}{section.6}%
+\contentsline {section}{\numberline {7}证券法律制度}{103}{section.7}%
+\contentsline {section}{\numberline {8}企业破产法律制度}{104}{section.8}%
+\contentsline {section}{\numberline {9}票据与支付结算法律制度}{105}{section.9}%
+\contentsline {section}{\numberline {10}企业国有资产法律制度}{106}{section.10}%
+\contentsline {section}{\numberline {11}反垄断法律制度}{107}{section.11}%
+\contentsline {section}{\numberline {12}涉外法律制度}{108}{section.12}%
+\contentsline {section}{\numberline {13}附录}{109}{section.13}%
+\contentsline {subsection}{\numberline {13.1}所有和时间有关的知识点}{109}{subsection.13.1}%

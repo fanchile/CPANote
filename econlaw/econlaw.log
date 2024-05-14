@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  12 MAY 2024 21:51
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  13 MAY 2024 21:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -782,18 +782,18 @@ LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
 t line 118.
- [2] [3])
+ [2] [3] [4])
 \tf@toc=\write4
 \openout4 = `econlaw.toc'.
 
- [4] [5] [6] [7]
+ [5] [6] [7] [8]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+[9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
 Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
@@ -806,7 +806,7 @@ Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[18] [19] [20] [21] [22]
+[19] [20] [21] [22] [23]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -820,8 +820,8 @@ Overfull \hbox (3.61731pt too wide) in paragraph at lines 725--726
  [][] 
  []
 
-[23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37]
-[38] [39] [40] [41] [42] [43] [44] [45] [46]
+[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
+[39] [40] [41] [42] [43] [44] [45] [46] [47]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -834,9 +834,9 @@ Overfull \hbox (3.61731pt too wide) in paragraph at lines 725--726
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
-[77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87]
+[48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
+[63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
+[78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -865,7 +865,7 @@ Underfull \hbox (badness 3701) in paragraph at lines 2739--2739
 []\TU/SongtiSCLight(0)/m/n/12 约 定 利
  []
 
-[88] [89] [90]
+[89] [90] [91]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -874,21 +874,22 @@ Underfull \hbox (badness 3701) in paragraph at lines 2739--2739
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [91] [92] [93] [94] [95] (./econlaw.aux)
+ [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[103] [104] [105] [106] [107] [108] [109] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `econlaw.out' has not changed.
-(rerunfilecheck)             Checksum: F2B24E4CDC6A4A803C06532CB51938DF;12956.
+(rerunfilecheck)             Checksum: 9746C91F13C53D18712CB331939D28B4;16341.
  ) 
 Here is how much of TeX's memory you used:
- 20005 strings out of 474773
- 461598 string characters out of 5757724
+ 20018 strings out of 474773
+ 462279 string characters out of 5757724
  1962839 words of memory out of 5000000
- 41897 multiletter control sequences out of 15000+600000
+ 41910 multiletter control sequences out of 15000+600000
  578564 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,544b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (95 pages).
+Output written on econlaw.pdf (109 pages).
