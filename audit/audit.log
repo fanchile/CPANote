@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  13 MAY 2024 21:58
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  14 MAY 2024 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,7 +781,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 115.
+t line 117.
  [2] [3] [4] [5] [6])
 \tf@toc=\write4
 \openout4 = `audit.toc'.
@@ -863,18 +863,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 7667) in paragraph at lines 1154--1154
+Underfull \hbox (badness 7667) in paragraph at lines 1153--1153
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 是 否 接
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 1154--1154
+Underfull \hbox (badness 7667) in paragraph at lines 1153--1153
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 是 否 接
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 7667) in paragraph at lines 1154--1154
+Underfull \hbox (badness 7667) in paragraph at lines 1153--1153
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 是 否 接
  []
 
@@ -886,18 +886,18 @@ Underfull \hbox (badness 7667) in paragraph at lines 1154--1154
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 1163) in paragraph at lines 1177--1177
+Underfull \hbox (badness 1163) in paragraph at lines 1176--1176
 []\TU/SongtiSCLight(0)/m/n/12 进 一 步 测
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1177--1177
+Underfull \hbox (badness 1163) in paragraph at lines 1176--1176
 []\TU/SongtiSCLight(0)/m/n/12 进 一 步 测
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 1163) in paragraph at lines 1177--1177
+Underfull \hbox (badness 1163) in paragraph at lines 1176--1176
 []\TU/SongtiSCLight(0)/m/n/12 进 一 步 测
  []
 
@@ -910,73 +910,73 @@ Underfull \hbox (badness 1163) in paragraph at lines 1177--1177
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 理 论 基
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 抽 样 风
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 设 计 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 选 取 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 变
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 分 层 要
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 样 本 规
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 理 论 基
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 抽 样 风
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 设 计 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 选 取 样
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 考 虑 变
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 分 层 要
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1252--1252
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1251
 []\TU/SongtiSCLight(0)/m/n/12 样 本 规
  []
 
@@ -1029,23 +1029,23 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 3323) in paragraph at lines 3187--3187
+Underfull \hbox (badness 3323) in paragraph at lines 3186--3186
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 3187--3187
+Underfull \hbox (badness 4792) in paragraph at lines 3186--3186
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 3323) in paragraph at lines 3187--3187
+Underfull \hbox (badness 3323) in paragraph at lines 3186--3186
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 3187--3187
+Underfull \hbox (badness 4792) in paragraph at lines 3186--3186
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
