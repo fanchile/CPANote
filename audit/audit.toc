@@ -66,24 +66,24 @@
 \contentsline {subsubsection}{\numberline {4.1.1}审计抽样的含义}{31}{subsubsection.4.1.1}%
 \contentsline {subsubsection}{\numberline {4.1.2}审计抽样的类型}{31}{subsubsection.4.1.2}%
 \contentsline {subsubsection}{\numberline {4.1.3}具体的选样方法}{31}{subsubsection.4.1.3}%
-\contentsline {subsubsection}{\numberline {4.1.4}抽样风险和非抽样风险}{33}{subsubsection.4.1.4}%
-\contentsline {paragraph}{抽样风险}{33}{paragraph*.38}%
+\contentsline {subsubsection}{\numberline {4.1.4}抽样风险和非抽样风险}{32}{subsubsection.4.1.4}%
+\contentsline {paragraph}{抽样风险}{32}{paragraph*.38}%
 \contentsline {paragraph}{非抽样风险}{33}{paragraph*.39}%
 \contentsline {subsection}{\numberline {4.2}审计抽样在控制测试中的应用}{33}{subsection.4.2}%
 \contentsline {subsubsection}{\numberline {4.2.1}设计样本阶段}{33}{subsubsection.4.2.1}%
 \contentsline {paragraph}{确定测试目标}{33}{paragraph*.40}%
-\contentsline {paragraph}{定义总体和抽样单元}{34}{paragraph*.41}%
+\contentsline {paragraph}{定义总体和抽样单元}{33}{paragraph*.41}%
 \contentsline {paragraph}{定义偏差构成条件}{34}{paragraph*.42}%
 \contentsline {paragraph}{定义测试期间}{34}{paragraph*.43}%
 \contentsline {subsubsection}{\numberline {4.2.2}选取样本阶段}{34}{subsubsection.4.2.2}%
 \contentsline {paragraph}{确定抽样方法}{34}{paragraph*.44}%
 \contentsline {paragraph}{确定样本规模}{34}{paragraph*.45}%
 \contentsline {paragraph}{选取样本并实施审计程序}{34}{paragraph*.46}%
-\contentsline {subsubsection}{\numberline {4.2.3}评价样本结果阶段}{35}{subsubsection.4.2.3}%
-\contentsline {paragraph}{计算偏差率}{35}{paragraph*.47}%
+\contentsline {subsubsection}{\numberline {4.2.3}评价样本结果阶段}{34}{subsubsection.4.2.3}%
+\contentsline {paragraph}{计算偏差率}{34}{paragraph*.47}%
 \contentsline {paragraph}{考虑抽样风险}{35}{paragraph*.48}%
 \contentsline {paragraph}{考虑偏差的性质和原因}{35}{paragraph*.49}%
-\contentsline {paragraph}{得出总体结论}{36}{paragraph*.50}%
+\contentsline {paragraph}{得出总体结论}{35}{paragraph*.50}%
 \contentsline {subsection}{\numberline {4.3}审计抽样在细节测试中的应用}{36}{subsection.4.3}%
 \contentsline {subsubsection}{\numberline {4.3.1}设计样本阶段}{36}{subsubsection.4.3.1}%
 \contentsline {paragraph}{确定测试目标}{36}{paragraph*.51}%
@@ -97,7 +97,7 @@
 \contentsline {subsubsection}{\numberline {4.3.3}评价样本结果阶段}{38}{subsubsection.4.3.3}%
 \contentsline {paragraph}{推断总体的错报}{38}{paragraph*.58}%
 \contentsline {paragraph}{考虑抽样风险}{38}{paragraph*.59}%
-\contentsline {paragraph}{考虑错报的性质和原因}{39}{paragraph*.60}%
+\contentsline {paragraph}{考虑错报的性质和原因}{38}{paragraph*.60}%
 \contentsline {paragraph}{得出总体结论}{39}{paragraph*.61}%
 \contentsline {section}{\numberline {5}信息技术对审计的影响}{40}{section.5}%
 \contentsline {subsection}{\numberline {5.1}信息技术对企业财务报告和内部控制的影响}{40}{subsection.5.1}%
