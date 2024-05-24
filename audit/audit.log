@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  21 MAY 2024 15:01
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  23 MAY 2024 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,7 +1004,8 @@ ex-text;!
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52]
-[53] [54] [55] [56] [57]
+[53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]
+[68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1013,18 +1014,8 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]
-[68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
- [82]
-[83] [84] [85] [86] [87] [88] [89]
+
+[83] [84] [85] [86] [87] [88] [89] [90]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1033,35 +1024,35 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 3323) in paragraph at lines 3192--3192
+Underfull \hbox (badness 3323) in paragraph at lines 3252--3252
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 3192--3192
+Underfull \hbox (badness 4792) in paragraph at lines 3252--3252
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 3323) in paragraph at lines 3192--3192
+Underfull \hbox (badness 3323) in paragraph at lines 3252--3252
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 3192--3192
+Underfull \hbox (badness 4792) in paragraph at lines 3252--3252
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103]
-[104] [105] [106]
+[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
+[105] [106] [107]
 File: pic/APECtest.png Graphic file (type bmp)
 <pic/APECtest.png>
- [107] [108] [109] [110] [111] [112] [113] [114] [115]
-[116] [117] [118] (./audit.aux)
+ [108] [109] [110] [111] [112] [113] [114] [115] [116]
+[117] [118] [119] (./audit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -1070,12 +1061,12 @@ Package rerunfilecheck Info: File `audit.out' has not changed.
 (rerunfilecheck)             Checksum: 62E94828447B890B3B3780224DF006C9;24593.
  ) 
 Here is how much of TeX's memory you used:
- 19971 strings out of 474773
- 459302 string characters out of 5757724
- 1952839 words of memory out of 5000000
- 41858 multiletter control sequences out of 15000+600000
- 585175 words of font info for 145 fonts, out of 8000000 for 9000
+ 19955 strings out of 474773
+ 458731 string characters out of 5757724
+ 1951839 words of memory out of 5000000
+ 41842 multiletter control sequences out of 15000+600000
+ 583720 words of font info for 142 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,13n,99p,542b,831s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,13n,99p,542b,814s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on audit.pdf (118 pages).
+Output written on audit.pdf (119 pages).
