@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  23 MAY 2024 15:19
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  24 MAY 2024 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1006,6 +1006,7 @@ ex-text;!
 [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52]
 [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]
 [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82]
+[83]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1014,8 +1015,7 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
-
-[83] [84] [85] [86] [87] [88] [89] [90]
+ [84] [85] [86] [87] [88] [89] [90] [91]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1024,35 +1024,35 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 3323) in paragraph at lines 3252--3252
+Underfull \hbox (badness 3323) in paragraph at lines 3257--3257
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 3252--3252
+Underfull \hbox (badness 4792) in paragraph at lines 3257--3257
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 3323) in paragraph at lines 3252--3252
+Underfull \hbox (badness 3323) in paragraph at lines 3257--3257
 []\TU/SongtiSCLight(0)/m/n/12 持 续 经 营 假 设 的
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 3252--3252
+Underfull \hbox (badness 4792) in paragraph at lines 3257--3257
 []\TU/SongtiSCLight(0)/m/n/12 是 否 具 有 重 大
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
-[105] [106] [107]
+[92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
+[106] [107] [108]
 File: pic/APECtest.png Graphic file (type bmp)
 <pic/APECtest.png>
- [108] [109] [110] [111] [112] [113] [114] [115] [116]
-[117] [118] [119] (./audit.aux)
+ [109] [110] [111] [112] [113] [114] [115] [116] [117]
+[118] [119] [120] (./audit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -1069,4 +1069,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,542b,814s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on audit.pdf (119 pages).
+Output written on audit.pdf (120 pages).
