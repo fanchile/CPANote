@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  27 MAY 2024 22:49
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.31)  5 JUN 2024 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,24 +895,33 @@ ex-text;!
  [141] [142] [143] [144] [145] [146] [147] [148] [149] [150]
 [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162]
 [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174]
-[175]
+[175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
+[187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198]
+[199] [200] [201] [202] [203] [204] [205] [206] [207]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[176] [177] [178] (./econlaw.aux)
+[208] [209] [210] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
-Package rerunfilecheck Info: File `econlaw.out' has not changed.
-(rerunfilecheck)             Checksum: 21839A3F838ECDFF3C9DDEBC02D6A68D;22879.
+
+
+Package rerunfilecheck Warning: File `econlaw.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `econlaw.out':
+(rerunfilecheck)             Before: 21839A3F838ECDFF3C9DDEBC02D6A68D;22879
+(rerunfilecheck)             After:  326682EEB6266C41994ED7BE5DAA825F;32658.
  ) 
 Here is how much of TeX's memory you used:
- 20073 strings out of 474773
- 465548 string characters out of 5757724
+ 20091 strings out of 474773
+ 466800 string characters out of 5757724
  1962839 words of memory out of 5000000
- 41965 multiletter control sequences out of 15000+600000
+ 41983 multiletter control sequences out of 15000+600000
  579788 words of font info for 128 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,544b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (178 pages).
+Output written on econlaw.pdf (210 pages).
