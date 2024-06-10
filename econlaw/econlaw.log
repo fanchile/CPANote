@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  9 JUN 2024 19:18
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  10 JUN 2024 13:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -894,10 +894,10 @@ ex-text;!
 [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189]
 [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201]
 [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213]
-[214] [215] [216] [217] [218] [219] [220]
+[214] [215] [216] [217] [218] [219] [220] [221]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[221] [222] [223] (./econlaw.aux)
+[222] [223] [224] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -906,12 +906,12 @@ Package rerunfilecheck Info: File `econlaw.out' has not changed.
 (rerunfilecheck)             Checksum: 326682EEB6266C41994ED7BE5DAA825F;32658.
  ) 
 Here is how much of TeX's memory you used:
- 20082 strings out of 474773
- 460596 string characters out of 5761290
+ 20115 strings out of 474773
+ 462642 string characters out of 5761290
  1962842 words of memory out of 5000000
- 41974 multiletter control sequences out of 15000+600000
+ 42007 multiletter control sequences out of 15000+600000
  579804 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,560b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (223 pages).
+Output written on econlaw.pdf (224 pages).
