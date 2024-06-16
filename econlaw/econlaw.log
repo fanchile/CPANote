@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  14 JUN 2024 22:32
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  16 JUN 2024 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -879,7 +879,7 @@ ex-text;!
 Missing character: There is no ≤ (U+2264) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141]
-[142] [143] [144] [145] [146]
+[142] [143] [144] [145] [146] [147] [148] [149]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -888,17 +888,17 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [147] [148] [149] [150] [151] [152] [153]
+ [150] [151] [152] [153]
 [154] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165]
 [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177]
 [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189]
 [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201]
 [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213]
 [214] [215] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225]
-[226] [227] [228] [229] [230]
+[226] [227] [228] [229] [230] [231] [232] [233]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[231] [232] [233] (./econlaw.aux)
+[234] [235] [236] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -910,16 +910,16 @@ Package rerunfilecheck Warning: File `econlaw.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `econlaw.out':
-(rerunfilecheck)             Before: 326682EEB6266C41994ED7BE5DAA825F;32658
-(rerunfilecheck)             After:  16BA74E17DEEE75CDDA39D4FF1289BCC;34201.
+(rerunfilecheck)             Before: 16BA74E17DEEE75CDDA39D4FF1289BCC;34201
+(rerunfilecheck)             After:  30B89BA7838F6EEE75FB3BD07B472F07;35345.
  ) 
 Here is how much of TeX's memory you used:
- 20124 strings out of 474773
- 463214 string characters out of 5761290
+ 20126 strings out of 474773
+ 463246 string characters out of 5761290
  1962842 words of memory out of 5000000
- 42016 multiletter control sequences out of 15000+600000
+ 42018 multiletter control sequences out of 15000+600000
  579804 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,560b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (233 pages).
+Output written on econlaw.pdf (236 pages).
