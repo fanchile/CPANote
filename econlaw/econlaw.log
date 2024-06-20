@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  18 JUN 2024 22:30
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  20 JUN 2024 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -777,11 +777,11 @@ LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
 118.
 
-[2] [3] [4] [5] [6] [7] [8])
+[2] [3] [4] [5] [6] [7] [8] [9])
 \tf@toc=\write4
 \openout4 = `econlaw.toc'.
 
- [9] [10] [11] [12] [13]
+ [10] [11] [12] [13]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
@@ -879,7 +879,7 @@ ex-text;!
 Missing character: There is no ≤ (U+2264) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142]
-[143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153]
+[143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -888,17 +888,17 @@ ex-text;!
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- [154]
+
 [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166]
 [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178]
 [179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190]
 [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
 [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214]
 [215] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225] [226]
-[227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237]
+[227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238]
 Missing character: There is no ≥ (U+2265) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[238] [239] [240] (./econlaw.aux)
+[239] [240] [241] (./econlaw.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -910,16 +910,16 @@ Package rerunfilecheck Warning: File `econlaw.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `econlaw.out':
-(rerunfilecheck)             Before: 30B89BA7838F6EEE75FB3BD07B472F07;35345
-(rerunfilecheck)             After:  F11AC182B8A835489AF4450DCCC8E093;36821.
+(rerunfilecheck)             Before: F11AC182B8A835489AF4450DCCC8E093;36821
+(rerunfilecheck)             After:  80FE0FEC2CCB8486F45435246F6B464C;37260.
  ) 
 Here is how much of TeX's memory you used:
- 20128 strings out of 474773
- 463278 string characters out of 5761290
+ 20130 strings out of 474773
+ 463310 string characters out of 5761290
  1962842 words of memory out of 5000000
- 42020 multiletter control sequences out of 15000+600000
+ 42022 multiletter control sequences out of 15000+600000
  579804 words of font info for 130 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,99p,560b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on econlaw.pdf (240 pages).
+Output written on econlaw.pdf (241 pages).
