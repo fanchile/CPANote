@@ -1,26 +1,26 @@
-\contentsline {section}{\numberline {1}法律基本原理}{11}{section.1}%
-\contentsline {subsection}{\numberline {1.1}法律基本概念}{11}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}我国的法律渊源}{11}{subsubsection.1.1.1}%
-\contentsline {paragraph}{宪法}{11}{paragraph*.2}%
-\contentsline {paragraph}{法律}{11}{paragraph*.3}%
-\contentsline {paragraph}{法规}{11}{paragraph*.4}%
-\contentsline {paragraph}{规章}{12}{paragraph*.5}%
-\contentsline {paragraph}{司法解释}{12}{paragraph*.6}%
-\contentsline {subsubsection}{\numberline {1.1.2}法律规范}{12}{subsubsection.1.1.2}%
-\contentsline {paragraph}{法律规范的概念}{12}{paragraph*.7}%
-\contentsline {paragraph}{法律规范与法律条文}{12}{paragraph*.8}%
-\contentsline {paragraph}{法律规范的种类}{12}{paragraph*.9}%
-\contentsline {subsection}{\numberline {1.2}法律关系}{13}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}法律关系的主体}{13}{subsubsection.1.2.1}%
-\contentsline {paragraph}{法律关系的概念}{13}{paragraph*.10}%
-\contentsline {paragraph}{法律关系主体的种类}{13}{paragraph*.11}%
-\contentsline {paragraph}{法人的分类}{14}{paragraph*.12}%
-\contentsline {paragraph}{非法人组织}{14}{paragraph*.13}%
-\contentsline {subsubsection}{\numberline {1.2.2}权利能力和行为能力}{14}{subsubsection.1.2.2}%
-\contentsline {paragraph}{权利能力和行为能力}{14}{paragraph*.14}%
+\contentsline {section}{\numberline {1}法律基本原理}{12}{section.1}%
+\contentsline {subsection}{\numberline {1.1}法律基本概念}{12}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}我国的法律渊源}{12}{subsubsection.1.1.1}%
+\contentsline {paragraph}{宪法}{12}{paragraph*.2}%
+\contentsline {paragraph}{法律}{12}{paragraph*.3}%
+\contentsline {paragraph}{法规}{12}{paragraph*.4}%
+\contentsline {paragraph}{规章}{13}{paragraph*.5}%
+\contentsline {paragraph}{司法解释}{13}{paragraph*.6}%
+\contentsline {subsubsection}{\numberline {1.1.2}法律规范}{13}{subsubsection.1.1.2}%
+\contentsline {paragraph}{法律规范的概念}{13}{paragraph*.7}%
+\contentsline {paragraph}{法律规范与法律条文}{13}{paragraph*.8}%
+\contentsline {paragraph}{法律规范的种类}{13}{paragraph*.9}%
+\contentsline {subsection}{\numberline {1.2}法律关系}{14}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}法律关系的主体}{14}{subsubsection.1.2.1}%
+\contentsline {paragraph}{法律关系的概念}{14}{paragraph*.10}%
+\contentsline {paragraph}{法律关系主体的种类}{14}{paragraph*.11}%
+\contentsline {paragraph}{法人的分类}{15}{paragraph*.12}%
+\contentsline {paragraph}{非法人组织}{15}{paragraph*.13}%
+\contentsline {subsubsection}{\numberline {1.2.2}权利能力和行为能力}{15}{subsubsection.1.2.2}%
+\contentsline {paragraph}{权利能力和行为能力}{15}{paragraph*.14}%
 \contentsline {paragraph}{自然人的民事行为能力}{15}{paragraph*.15}%
-\contentsline {subsubsection}{\numberline {1.2.3}法律关系的客体}{15}{subsubsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.4}法律事实}{15}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.3}法律关系的客体}{16}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}法律事实}{16}{subsubsection.1.2.4}%
 \contentsline {subsection}{\numberline {1.3}全面依法治国基本方略}{16}{subsection.1.3}%
 \contentsline {section}{\numberline {2}基本民事法律制度}{17}{section.2}%
 \contentsline {subsection}{\numberline {2.1}民事法律行为制度}{17}{subsection.2.1}%
@@ -388,204 +388,229 @@
 \contentsline {subsubsection}{\numberline {7.4.4}回购与并购重组}{149}{subsubsection.7.4.4}%
 \contentsline {subsection}{\numberline {7.5}公司债券}{149}{subsection.7.5}%
 \contentsline {subsubsection}{\numberline {7.5.1}公开发行公司债券}{149}{subsubsection.7.5.1}%
-\contentsline {subsubsection}{\numberline {7.5.2}公司债券持有人的权益保护}{149}{subsubsection.7.5.2}%
-\contentsline {subsubsection}{\numberline {7.5.3}非公开发行公司债券}{149}{subsubsection.7.5.3}%
-\contentsline {subsubsection}{\numberline {7.5.4}可转换公司债券}{149}{subsubsection.7.5.4}%
-\contentsline {subsection}{\numberline {7.6}上市公司收购}{149}{subsection.7.6}%
-\contentsline {subsubsection}{\numberline {7.6.1}收购人}{149}{subsubsection.7.6.1}%
-\contentsline {subsubsection}{\numberline {7.6.2}权益变动披露}{150}{subsubsection.7.6.2}%
-\contentsline {subsubsection}{\numberline {7.6.3}权益披露的内容}{150}{subsubsection.7.6.3}%
-\contentsline {subsubsection}{\numberline {7.6.4}全面要约还是部分要约}{151}{subsubsection.7.6.4}%
-\contentsline {subsubsection}{\numberline {7.6.5}免于发出要约}{151}{subsubsection.7.6.5}%
-\contentsline {subsubsection}{\numberline {7.6.6}要约收购}{151}{subsubsection.7.6.6}%
-\contentsline {subsubsection}{\numberline {7.6.7}协议收购}{151}{subsubsection.7.6.7}%
-\contentsline {subsubsection}{\numberline {7.6.8}管理层收购}{152}{subsubsection.7.6.8}%
-\contentsline {subsection}{\numberline {7.7}上市公司重大资产重组}{152}{subsection.7.7}%
-\contentsline {subsubsection}{\numberline {7.7.1}重大资产重组行为的界定}{152}{subsubsection.7.7.1}%
-\contentsline {subsubsection}{\numberline {7.7.2}title}{153}{subsubsection.7.7.2}%
-\contentsline {subsubsection}{\numberline {7.7.3}title}{153}{subsubsection.7.7.3}%
-\contentsline {subsubsection}{\numberline {7.7.4}title}{153}{subsubsection.7.7.4}%
-\contentsline {subsection}{\numberline {7.8}强制信息披露制度}{153}{subsection.7.8}%
-\contentsline {subsection}{\numberline {7.9}内幕交易}{153}{subsection.7.9}%
-\contentsline {subsection}{\numberline {7.10}虛假陈述}{153}{subsection.7.10}%
-\contentsline {subsection}{\numberline {7.11}上市公司退市制度}{153}{subsection.7.11}%
-\contentsline {subsection}{\numberline {7.12}非上市公众公司}{153}{subsection.7.12}%
-\contentsline {section}{\numberline {8}企业破产法律制度}{154}{section.8}%
-\contentsline {subsection}{\numberline {8.1}破产申请}{154}{subsection.8.1}%
-\contentsline {paragraph}{破产原因}{154}{paragraph*.222}%
-\contentsline {paragraph}{破产申请}{155}{paragraph*.223}%
-\contentsline {paragraph}{破产申请的受理}{155}{paragraph*.224}%
-\contentsline {subsection}{\numberline {8.2}破产申请受理的效力}{156}{subsection.8.2}%
-\contentsline {paragraph}{基本规定}{156}{paragraph*.225}%
-\contentsline {paragraph}{尚未履行完毕的合同}{156}{paragraph*.226}%
-\contentsline {paragraph}{基于债务人财产的诉讼}{157}{paragraph*.227}%
-\contentsline {paragraph}{执行案件的移送破产审查}{157}{paragraph*.228}%
-\contentsline {subsection}{\numberline {8.3}管理人制度}{158}{subsection.8.3}%
-\contentsline {paragraph}{管理人的资格}{158}{paragraph*.229}%
-\contentsline {paragraph}{管理人的报酬}{159}{paragraph*.230}%
-\contentsline {paragraph}{管理人的职责与限制}{159}{paragraph*.231}%
-\contentsline {subsection}{\numberline {8.4}债务人财产的一般规定}{160}{subsection.8.4}%
-\contentsline {paragraph}{债务人财产的范围}{160}{paragraph*.232}%
-\contentsline {paragraph}{债务人财产的收回}{161}{paragraph*.233}%
-\contentsline {subsection}{\numberline {8.5}撤销权}{161}{subsection.8.5}%
-\contentsline {paragraph}{管理人的撤销权}{161}{paragraph*.234}%
-\contentsline {paragraph}{个别清偿}{161}{paragraph*.235}%
-\contentsline {paragraph}{债权人的撤销权}{162}{paragraph*.236}%
-\contentsline {paragraph}{对外债权的诉讼时效}{162}{paragraph*.237}%
-\contentsline {paragraph}{无效行为}{162}{paragraph*.238}%
-\contentsline {subsection}{\numberline {8.6}取回权}{162}{subsection.8.6}%
-\contentsline {paragraph}{取回权的一般规定}{162}{paragraph*.239}%
-\contentsline {paragraph}{他人财产被违法转让的}{162}{paragraph*.240}%
-\contentsline {paragraph}{代偿取回权}{163}{paragraph*.241}%
-\contentsline {paragraph}{在途标的物的取回权}{163}{paragraph*.242}%
-\contentsline {paragraph}{所有权保留买卖合同中的取回权}{163}{paragraph*.243}%
-\contentsline {subsection}{\numberline {8.7}破产抵销权}{164}{subsection.8.7}%
-\contentsline {paragraph}{破产抵销权的一般规定}{164}{paragraph*.244}%
-\contentsline {paragraph}{禁止抵销的情形}{164}{paragraph*.245}%
-\contentsline {paragraph}{破产抵销权的特殊规定}{165}{paragraph*.246}%
-\contentsline {subsection}{\numberline {8.8}破产费用和共益债务}{165}{subsection.8.8}%
-\contentsline {paragraph}{破产费用}{165}{paragraph*.247}%
-\contentsline {paragraph}{共益债务}{166}{paragraph*.248}%
-\contentsline {paragraph}{破产费用和共益债务的清偿}{167}{paragraph*.249}%
-\contentsline {subsection}{\numberline {8.9}破产債权}{167}{subsection.8.9}%
-\contentsline {paragraph}{债权申报的要求}{167}{paragraph*.250}%
-\contentsline {paragraph}{破产债权的核查与确认}{168}{paragraph*.251}%
-\contentsline {subsection}{\numberline {8.10}保证}{169}{subsection.8.10}%
-\contentsline {paragraph}{债务人破产}{169}{paragraph*.252}%
-\contentsline {paragraph}{保证人破产}{169}{paragraph*.253}%
-\contentsline {paragraph}{债务人、保证人均破产}{169}{paragraph*.254}%
-\contentsline {subsection}{\numberline {8.11}有财产担保的债权}{169}{subsection.8.11}%
-\contentsline {paragraph}{别除权}{169}{paragraph*.255}%
-\contentsline {paragraph}{有财产担保的债权 (综 述 )}{170}{paragraph*.256}%
-\contentsline {subsection}{\numberline {8.12}债权人会议与债权人委员会}{171}{subsection.8.12}%
-\contentsline {paragraph}{债权人会议}{171}{paragraph*.257}%
-\contentsline {paragraph}{债权人委员会}{172}{paragraph*.258}%
-\contentsline {subsection}{\numberline {8.13}重整程序与和解制度}{173}{subsection.8.13}%
-\contentsline {subsubsection}{\numberline {8.13.1}破产重整}{173}{subsubsection.8.13.1}%
-\contentsline {paragraph}{重整申请}{173}{paragraph*.259}%
-\contentsline {paragraph}{重整期间}{173}{paragraph*.260}%
-\contentsline {paragraph}{重整计划的制定与执行}{174}{paragraph*.261}%
-\contentsline {paragraph}{重整计划草案的分组表决}{174}{paragraph*.262}%
-\contentsline {paragraph}{重整计划草案的批准}{174}{paragraph*.263}%
-\contentsline {paragraph}{重整计划的效力}{176}{paragraph*.264}%
-\contentsline {paragraph}{上市公司的破产重整}{176}{paragraph*.265}%
-\contentsline {subsubsection}{\numberline {8.13.2}破产和解}{176}{subsubsection.8.13.2}%
-\contentsline {paragraph}{和解制度}{176}{paragraph*.266}%
-\contentsline {subsection}{\numberline {8.14}破产清算程序}{177}{subsection.8.14}%
-\contentsline {paragraph}{破产财产的清偿顺序}{177}{paragraph*.267}%
-\contentsline {paragraph}{破产财产分配方案的实施}{178}{paragraph*.268}%
-\contentsline {subsection}{\numberline {8.15}关联企业合并破产}{178}{subsection.8.15}%
-\contentsline {paragraph}{关联企业实质合并破产}{178}{paragraph*.269}%
-\contentsline {paragraph}{关联企业程序合并破产}{178}{paragraph*.270}%
-\contentsline {section}{\numberline {9}票据与支付结算法律制度}{180}{section.9}%
-\contentsline {subsection}{\numberline {9.1}支票和银行本票}{180}{subsection.9.1}%
-\contentsline {subsubsection}{\numberline {9.1.1}票据的特征与经济功能}{180}{subsubsection.9.1.1}%
-\contentsline {subsubsection}{\numberline {9.1.2}支票}{180}{subsubsection.9.1.2}%
-\contentsline {subsubsection}{\numberline {9.1.3}银行本票}{181}{subsubsection.9.1.3}%
-\contentsline {subsection}{\numberline {9.2}商业汇票}{182}{subsection.9.2}%
-\contentsline {subsubsection}{\numberline {9.2.1}商业汇票的出票}{182}{subsubsection.9.2.1}%
-\contentsline {subsubsection}{\numberline {9.2.2}商业汇票的背书}{184}{subsubsection.9.2.2}%
-\contentsline {subsubsection}{\numberline {9.2.3}商业汇票的承兑}{185}{subsubsection.9.2.3}%
-\contentsline {subsubsection}{\numberline {9.2.4}汇票的保证}{186}{subsubsection.9.2.4}%
-\contentsline {subsubsection}{\numberline {9.2.5}付款请求权}{188}{subsubsection.9.2.5}%
-\contentsline {subsubsection}{\numberline {9.2.6}追索权}{188}{subsubsection.9.2.6}%
-\contentsline {subsection}{\numberline {9.3}票据权利和票据行为}{189}{subsection.9.3}%
-\contentsline {subsubsection}{\numberline {9.3.1}票据权利的取得}{189}{subsubsection.9.3.1}%
-\contentsline {subsubsection}{\numberline {9.3.2}票据权利的善意取得}{190}{subsubsection.9.3.2}%
-\contentsline {subsubsection}{\numberline {9.3.3}票据基础关系对票据行为效力的影响}{190}{subsubsection.9.3.3}%
-\contentsline {subsubsection}{\numberline {9.3.4}票据行力的代理}{191}{subsubsection.9.3.4}%
-\contentsline {subsubsection}{\numberline {9.3.5}票据的伪造}{192}{subsubsection.9.3.5}%
-\contentsline {subsubsection}{\numberline {9.3.6}票据抗辩}{192}{subsubsection.9.3.6}%
-\contentsline {subsubsection}{\numberline {9.3.7}票据权利的消灭时效}{194}{subsubsection.9.3.7}%
-\contentsline {subsubsection}{\numberline {9.3.8}票据权利的补救}{194}{subsubsection.9.3.8}%
-\contentsline {subsection}{\numberline {9.4}非票据结算方式}{195}{subsection.9.4}%
-\contentsline {subsubsection}{\numberline {9.4.1}支付结算方式的分类}{195}{subsubsection.9.4.1}%
-\contentsline {subsubsection}{\numberline {9.4.2}汇兑}{196}{subsubsection.9.4.2}%
-\contentsline {subsubsection}{\numberline {9.4.3}委托收款}{196}{subsubsection.9.4.3}%
-\contentsline {subsubsection}{\numberline {9.4.4}国内信用证}{196}{subsubsection.9.4.4}%
-\contentsline {subsubsection}{\numberline {9.4.5}银行卡}{197}{subsubsection.9.4.5}%
-\contentsline {subsubsection}{\numberline {9.4.6}单位银行结算账户}{197}{subsubsection.9.4.6}%
-\contentsline {subsubsection}{\numberline {9.4.7}个人银行结算账户}{198}{subsubsection.9.4.7}%
-\contentsline {section}{\numberline {10}企业国有资产法律制度}{200}{section.10}%
-\contentsline {subsection}{\numberline {10.1}企业国有资产法律制度概述}{200}{subsection.10.1}%
-\contentsline {subsubsection}{\numberline {10.1.1}企业国有资产的监督管理体制}{200}{subsubsection.10.1.1}%
-\contentsline {subsubsection}{\numberline {10.1.2}国家出资企业的管理者}{201}{subsubsection.10.1.2}%
-\contentsline {subsubsection}{\numberline {10.1.3}企业改制}{201}{subsubsection.10.1.3}%
-\contentsline {subsection}{\numberline {10.2}企业国有资产的产权登记}{202}{subsection.10.2}%
-\contentsline {subsubsection}{\numberline {10.2.1}企业国有资产产权登记的范围}{202}{subsubsection.10.2.1}%
-\contentsline {subsubsection}{\numberline {10.2.2}企业国有资产产权登记的内容}{202}{subsubsection.10.2.2}%
-\contentsline {subsubsection}{\numberline {10.2.3}产权登记的管理机关}{204}{subsubsection.10.2.3}%
-\contentsline {subsubsection}{\numberline {10.2.4}产权登记的年度检查}{204}{subsubsection.10.2.4}%
-\contentsline {subsection}{\numberline {10.3}企业国有资产的评估}{205}{subsection.10.3}%
-\contentsline {subsubsection}{\numberline {10.3.1}企业国有资产评估的范围}{205}{subsubsection.10.3.1}%
-\contentsline {subsubsection}{\numberline {10.3.2}核准制与备案制}{206}{subsubsection.10.3.2}%
-\contentsline {subsection}{\numberline {10.4}企业国有资产交易管理制度}{207}{subsection.10.4}%
-\contentsline {subsubsection}{\numberline {10.4.1}企业产权转让}{207}{subsubsection.10.4.1}%
-\contentsline {subsubsection}{\numberline {10.4.2}企业增资}{208}{subsubsection.10.4.2}%
-\contentsline {subsubsection}{\numberline {10.4.3}企业国有产权的无偿划转}{208}{subsubsection.10.4.3}%
-\contentsline {subsection}{\numberline {10.5}上市公司国有股权变动管理}{209}{subsection.10.5}%
-\contentsline {subsubsection}{\numberline {10.5.1}国有股东所持上市公司股份通过证券交易系统转让}{209}{subsubsection.10.5.1}%
-\contentsline {subsubsection}{\numberline {10.5.2}国有股东所持上市公司股份公开征集转让}{209}{subsubsection.10.5.2}%
-\contentsline {subsubsection}{\numberline {10.5.3}国有股东所持上市公司股份非公开协议转让}{210}{subsubsection.10.5.3}%
-\contentsline {subsubsection}{\numberline {10.5.4}国有股东所持上市公司股份间接转让}{211}{subsubsection.10.5.4}%
-\contentsline {subsubsection}{\numberline {10.5.5}国有股东发行可交换公司债券}{211}{subsubsection.10.5.5}%
-\contentsline {subsubsection}{\numberline {10.5.6}国有股东与上市公司进行资产重组}{212}{subsubsection.10.5.6}%
-\contentsline {section}{\numberline {11}反垄断法律制度}{213}{section.11}%
-\contentsline {subsection}{\numberline {11.1}反垄断法律制度概述}{213}{subsection.11.1}%
-\contentsline {subsubsection}{\numberline {11.1.1} 《反垄断法》的适用范围}{213}{subsubsection.11.1.1}%
-\contentsline {subsubsection}{\numberline {11.1.2}反垄断机构}{213}{subsubsection.11.1.2}%
-\contentsline {subsubsection}{\numberline {11.1.3}反垄断调查}{214}{subsubsection.11.1.3}%
-\contentsline {subsubsection}{\numberline {11.1.4}反垄断约谈制度}{214}{subsubsection.11.1.4}%
-\contentsline {subsubsection}{\numberline {11.1.5}经营者承诺}{214}{subsubsection.11.1.5}%
-\contentsline {subsubsection}{\numberline {11.1.6}反垄断法律责任}{215}{subsubsection.11.1.6}%
-\contentsline {subsubsection}{\numberline {11.1.7}反垄断民事诉讼}{216}{subsubsection.11.1.7}%
-\contentsline {subsubsection}{\numberline {11.1.8}相关市场界定}{216}{subsubsection.11.1.8}%
-\contentsline {subsection}{\numberline {11.2}垄断协议}{218}{subsection.11.2}%
-\contentsline {subsubsection}{\numberline {11.2.1}垄断协议的认定}{218}{subsubsection.11.2.1}%
-\contentsline {subsubsection}{\numberline {11.2.2}《反垄断法》禁止的横向垄断协议}{218}{subsubsection.11.2.2}%
-\contentsline {subsubsection}{\numberline {11.2.3}《反垄断法》禁止的纵向垄断协议}{219}{subsubsection.11.2.3}%
-\contentsline {subsubsection}{\numberline {11.2.4}垄断协议可被 《反垄断法》豁免的条件}{220}{subsubsection.11.2.4}%
-\contentsline {subsubsection}{\numberline {11.2.5}宽大制度}{220}{subsubsection.11.2.5}%
-\contentsline {subsubsection}{\numberline {11.2.6}行业协会组织本行业经营者从事垄断协议的行为}{221}{subsubsection.11.2.6}%
-\contentsline {subsubsection}{\numberline {11.2.7}垄断协议的组织、帮助行为}{221}{subsubsection.11.2.7}%
-\contentsline {subsubsection}{\numberline {11.2.8}垄断协议行为的法律责任}{221}{subsubsection.11.2.8}%
-\contentsline {subsection}{\numberline {11.3}滥用市场支配地位}{222}{subsection.11.3}%
-\contentsline {subsubsection}{\numberline {11.3.1}市场支配地位的认定}{222}{subsubsection.11.3.1}%
-\contentsline {subsubsection}{\numberline {11.3.2}滥用市场支配地位的行为}{223}{subsubsection.11.3.2}%
-\contentsline {subsubsection}{\numberline {11.3.3}滥用市场支配地位行为的法律责任}{224}{subsubsection.11.3.3}%
-\contentsline {subsection}{\numberline {11.4}经营者集中}{225}{subsection.11.4}%
-\contentsline {subsubsection}{\numberline {11.4.1}经营者集中的申报}{225}{subsubsection.11.4.1}%
-\contentsline {subsubsection}{\numberline {11.4.2}经营者集中的审查}{226}{subsubsection.11.4.2}%
-\contentsline {subsubsection}{\numberline {11.4.3}简易程序}{227}{subsubsection.11.4.3}%
-\contentsline {subsubsection}{\numberline {11.4.4}经营者集中附加限制性条件批准制度}{227}{subsubsection.11.4.4}%
-\contentsline {subsection}{\numberline {11.5}行政垄断}{228}{subsection.11.5}%
-\contentsline {subsubsection}{\numberline {11.5.1}行政垄断行为}{228}{subsubsection.11.5.1}%
-\contentsline {subsubsection}{\numberline {11.5.2}公平竞争审制度}{230}{subsubsection.11.5.2}%
-\contentsline {section}{\numberline {12}涉外法律制度}{232}{section.12}%
-\contentsline {subsection}{\numberline {12.1}涉外投资法律制度}{232}{subsection.12.1}%
-\contentsline {paragraph}{外商投资的概念}{232}{paragraph*.271}%
-\contentsline {paragraph}{准入前国民待遇加负面清单管理制度}{232}{paragraph*.272}%
-\contentsline {paragraph}{外商投资合同}{233}{paragraph*.273}%
-\contentsline {paragraph}{投资促进}{233}{paragraph*.274}%
-\contentsline {paragraph}{投资保护}{235}{paragraph*.275}%
-\contentsline {paragraph}{投资管理}{237}{paragraph*.276}%
-\contentsline {paragraph}{外商投资安全审查制度}{238}{paragraph*.277}%
-\contentsline {paragraph}{对外直接投资法律制度}{239}{paragraph*.278}%
-\contentsline {subsection}{\numberline {12.2}对外贸易法律制度}{239}{subsection.12.2}%
-\contentsline {paragraph}{《对外贸易法》的适用范围和原则}{239}{paragraph*.279}%
-\contentsline {paragraph}{对外贸易经营者}{240}{paragraph*.280}%
-\contentsline {paragraph}{货物进出口与技术进出口}{240}{paragraph*.281}%
-\contentsline {paragraph}{国际服务贸易}{240}{paragraph*.282}%
-\contentsline {paragraph}{反倾销措施}{240}{paragraph*.283}%
-\contentsline {paragraph}{反补贴措施}{240}{paragraph*.284}%
-\contentsline {paragraph}{保障措施}{240}{paragraph*.285}%
-\contentsline {subsection}{\numberline {12.3}外汇管理法律制度}{240}{subsection.12.3}%
-\contentsline {paragraph}{《外汇管理条例》的适用范围}{240}{paragraph*.286}%
-\contentsline {paragraph}{经常项目}{240}{paragraph*.287}%
-\contentsline {paragraph}{资本项目}{240}{paragraph*.288}%
-\contentsline {paragraph}{直接投资项下的外汇管理}{240}{paragraph*.289}%
-\contentsline {paragraph}{间接投资项下的外汇管理}{240}{paragraph*.290}%
-\contentsline {paragraph}{外债管理}{240}{paragraph*.291}%
-\contentsline {paragraph}{人民币汇率与特别提款权}{240}{paragraph*.292}%
-\contentsline {section}{\numberline {13}附录}{241}{section.13}%
-\contentsline {subsection}{\numberline {13.1}所有和时间有关的知识点}{241}{subsection.13.1}%
+\contentsline {subsubsection}{\numberline {7.5.2}公司债券持有人的权益保护}{150}{subsubsection.7.5.2}%
+\contentsline {subsubsection}{\numberline {7.5.3}非公开发行公司债券}{151}{subsubsection.7.5.3}%
+\contentsline {subsubsection}{\numberline {7.5.4}可转换公司债券}{151}{subsubsection.7.5.4}%
+\contentsline {subsection}{\numberline {7.6}上市公司收购}{152}{subsection.7.6}%
+\contentsline {subsubsection}{\numberline {7.6.1}收购人}{152}{subsubsection.7.6.1}%
+\contentsline {subsubsection}{\numberline {7.6.2}权益变动披露}{153}{subsubsection.7.6.2}%
+\contentsline {subsubsection}{\numberline {7.6.3}权益披露的内容}{155}{subsubsection.7.6.3}%
+\contentsline {subsubsection}{\numberline {7.6.4}全面要约还是部分要约}{155}{subsubsection.7.6.4}%
+\contentsline {subsubsection}{\numberline {7.6.5}免于发出要约}{155}{subsubsection.7.6.5}%
+\contentsline {subsubsection}{\numberline {7.6.6}要约收购}{156}{subsubsection.7.6.6}%
+\contentsline {subsubsection}{\numberline {7.6.7}协议收购}{156}{subsubsection.7.6.7}%
+\contentsline {subsubsection}{\numberline {7.6.8}管理层收购}{156}{subsubsection.7.6.8}%
+\contentsline {subsection}{\numberline {7.7}上市公司重大资产重组}{156}{subsection.7.7}%
+\contentsline {subsubsection}{\numberline {7.7.1}重大资产重组行为的界定}{156}{subsubsection.7.7.1}%
+\contentsline {subsubsection}{\numberline {7.7.2}借壳上市}{157}{subsubsection.7.7.2}%
+\contentsline {subsubsection}{\numberline {7.7.3}发行股份购买资产}{158}{subsubsection.7.7.3}%
+\contentsline {subsubsection}{\numberline {7.7.4}公司决议}{158}{subsubsection.7.7.4}%
+\contentsline {subsection}{\numberline {7.8}强制信息披露制度}{159}{subsection.7.8}%
+\contentsline {subsubsection}{\numberline {7.8.1}信息披露的概念和分类}{159}{subsubsection.7.8.1}%
+\contentsline {subsubsection}{\numberline {7.8.2}定期报告}{160}{subsubsection.7.8.2}%
+\contentsline {subsubsection}{\numberline {7.8.3}临时报告}{160}{subsubsection.7.8.3}%
+\contentsline {subsubsection}{\numberline {7.8.4}信息披露的事务管理}{162}{subsubsection.7.8.4}%
+\contentsline {subsection}{\numberline {7.9}内幕交易}{163}{subsection.7.9}%
+\contentsline {subsubsection}{\numberline {7.9.1}内幕信息}{163}{subsubsection.7.9.1}%
+\contentsline {subsubsection}{\numberline {7.9.2}内幕交易行为}{164}{subsubsection.7.9.2}%
+\contentsline {subsubsection}{\numberline {7.9.3}短线交易}{165}{subsubsection.7.9.3}%
+\contentsline {subsubsection}{\numberline {7.9.4}股份转让的限制}{165}{subsubsection.7.9.4}%
+\contentsline {subsection}{\numberline {7.10}虛假陈述}{166}{subsection.7.10}%
+\contentsline {subsubsection}{\numberline {7.10.1}虚假陈述行为的界定}{166}{subsubsection.7.10.1}%
+\contentsline {subsubsection}{\numberline {7.10.2}虚假陈述行为的行政责任}{166}{subsubsection.7.10.2}%
+\contentsline {subsubsection}{\numberline {7.10.3}虚假陈述行为的民事赔偿责任}{167}{subsubsection.7.10.3}%
+\contentsline {subsubsection}{\numberline {7.10.4}过错认定}{167}{subsubsection.7.10.4}%
+\contentsline {subsubsection}{\numberline {7.10.5}责任主体}{169}{subsubsection.7.10.5}%
+\contentsline {subsubsection}{\numberline {7.10.6}因果关系}{170}{subsubsection.7.10.6}%
+\contentsline {subsubsection}{\numberline {7.10.7}损失认定}{171}{subsubsection.7.10.7}%
+\contentsline {subsubsection}{\numberline {7.10.8}虚假陈述民事诉讼}{172}{subsubsection.7.10.8}%
+\contentsline {subsubsection}{\numberline {7.10.9}证券纠纷代表人诉讼}{172}{subsubsection.7.10.9}%
+\contentsline {subsubsection}{\numberline {7.10.10}操纵证券市场}{173}{subsubsection.7.10.10}%
+\contentsline {subsubsection}{\numberline {7.10.11}编造、传播虚假信息}{173}{subsubsection.7.10.11}%
+\contentsline {subsection}{\numberline {7.11}上市公司退市制度}{174}{subsection.7.11}%
+\contentsline {subsubsection}{\numberline {7.11.1}主动退市}{174}{subsubsection.7.11.1}%
+\contentsline {subsubsection}{\numberline {7.11.2}重大违法类强制退市}{174}{subsubsection.7.11.2}%
+\contentsline {subsection}{\numberline {7.12}非上市公众公司}{175}{subsection.7.12}%
+\contentsline {subsubsection}{\numberline {7.12.1}非上市公众公司的界定}{175}{subsubsection.7.12.1}%
+\contentsline {subsubsection}{\numberline {7.12.2}非上市公众公司的定向发行}{175}{subsubsection.7.12.2}%
+\contentsline {subsubsection}{\numberline {7.12.3}非上市公众公司的信息披露}{176}{subsubsection.7.12.3}%
+\contentsline {subsubsection}{\numberline {7.12.4}title}{177}{subsubsection.7.12.4}%
+\contentsline {section}{\numberline {8}企业破产法律制度}{178}{section.8}%
+\contentsline {subsection}{\numberline {8.1}破产申请}{178}{subsection.8.1}%
+\contentsline {paragraph}{破产原因}{178}{paragraph*.222}%
+\contentsline {paragraph}{破产申请}{179}{paragraph*.223}%
+\contentsline {paragraph}{破产申请的受理}{179}{paragraph*.224}%
+\contentsline {subsection}{\numberline {8.2}破产申请受理的效力}{180}{subsection.8.2}%
+\contentsline {paragraph}{基本规定}{180}{paragraph*.225}%
+\contentsline {paragraph}{尚未履行完毕的合同}{180}{paragraph*.226}%
+\contentsline {paragraph}{基于债务人财产的诉讼}{181}{paragraph*.227}%
+\contentsline {paragraph}{执行案件的移送破产审查}{181}{paragraph*.228}%
+\contentsline {subsection}{\numberline {8.3}管理人制度}{182}{subsection.8.3}%
+\contentsline {paragraph}{管理人的资格}{182}{paragraph*.229}%
+\contentsline {paragraph}{管理人的报酬}{183}{paragraph*.230}%
+\contentsline {paragraph}{管理人的职责与限制}{183}{paragraph*.231}%
+\contentsline {subsection}{\numberline {8.4}债务人财产的一般规定}{184}{subsection.8.4}%
+\contentsline {paragraph}{债务人财产的范围}{184}{paragraph*.232}%
+\contentsline {paragraph}{债务人财产的收回}{185}{paragraph*.233}%
+\contentsline {subsection}{\numberline {8.5}撤销权}{185}{subsection.8.5}%
+\contentsline {paragraph}{管理人的撤销权}{185}{paragraph*.234}%
+\contentsline {paragraph}{个别清偿}{185}{paragraph*.235}%
+\contentsline {paragraph}{债权人的撤销权}{186}{paragraph*.236}%
+\contentsline {paragraph}{对外债权的诉讼时效}{186}{paragraph*.237}%
+\contentsline {paragraph}{无效行为}{186}{paragraph*.238}%
+\contentsline {subsection}{\numberline {8.6}取回权}{186}{subsection.8.6}%
+\contentsline {paragraph}{取回权的一般规定}{186}{paragraph*.239}%
+\contentsline {paragraph}{他人财产被违法转让的}{186}{paragraph*.240}%
+\contentsline {paragraph}{代偿取回权}{187}{paragraph*.241}%
+\contentsline {paragraph}{在途标的物的取回权}{187}{paragraph*.242}%
+\contentsline {paragraph}{所有权保留买卖合同中的取回权}{187}{paragraph*.243}%
+\contentsline {subsection}{\numberline {8.7}破产抵销权}{188}{subsection.8.7}%
+\contentsline {paragraph}{破产抵销权的一般规定}{188}{paragraph*.244}%
+\contentsline {paragraph}{禁止抵销的情形}{188}{paragraph*.245}%
+\contentsline {paragraph}{破产抵销权的特殊规定}{189}{paragraph*.246}%
+\contentsline {subsection}{\numberline {8.8}破产费用和共益债务}{189}{subsection.8.8}%
+\contentsline {paragraph}{破产费用}{189}{paragraph*.247}%
+\contentsline {paragraph}{共益债务}{190}{paragraph*.248}%
+\contentsline {paragraph}{破产费用和共益债务的清偿}{191}{paragraph*.249}%
+\contentsline {subsection}{\numberline {8.9}破产債权}{191}{subsection.8.9}%
+\contentsline {paragraph}{债权申报的要求}{191}{paragraph*.250}%
+\contentsline {paragraph}{破产债权的核查与确认}{192}{paragraph*.251}%
+\contentsline {subsection}{\numberline {8.10}保证}{193}{subsection.8.10}%
+\contentsline {paragraph}{债务人破产}{193}{paragraph*.252}%
+\contentsline {paragraph}{保证人破产}{193}{paragraph*.253}%
+\contentsline {paragraph}{债务人、保证人均破产}{193}{paragraph*.254}%
+\contentsline {subsection}{\numberline {8.11}有财产担保的债权}{193}{subsection.8.11}%
+\contentsline {paragraph}{别除权}{193}{paragraph*.255}%
+\contentsline {paragraph}{有财产担保的债权 (综 述 )}{194}{paragraph*.256}%
+\contentsline {subsection}{\numberline {8.12}债权人会议与债权人委员会}{195}{subsection.8.12}%
+\contentsline {paragraph}{债权人会议}{195}{paragraph*.257}%
+\contentsline {paragraph}{债权人委员会}{196}{paragraph*.258}%
+\contentsline {subsection}{\numberline {8.13}重整程序与和解制度}{197}{subsection.8.13}%
+\contentsline {subsubsection}{\numberline {8.13.1}破产重整}{197}{subsubsection.8.13.1}%
+\contentsline {paragraph}{重整申请}{197}{paragraph*.259}%
+\contentsline {paragraph}{重整期间}{197}{paragraph*.260}%
+\contentsline {paragraph}{重整计划的制定与执行}{198}{paragraph*.261}%
+\contentsline {paragraph}{重整计划草案的分组表决}{198}{paragraph*.262}%
+\contentsline {paragraph}{重整计划草案的批准}{198}{paragraph*.263}%
+\contentsline {paragraph}{重整计划的效力}{200}{paragraph*.264}%
+\contentsline {paragraph}{上市公司的破产重整}{200}{paragraph*.265}%
+\contentsline {subsubsection}{\numberline {8.13.2}破产和解}{200}{subsubsection.8.13.2}%
+\contentsline {paragraph}{和解制度}{200}{paragraph*.266}%
+\contentsline {subsection}{\numberline {8.14}破产清算程序}{201}{subsection.8.14}%
+\contentsline {paragraph}{破产财产的清偿顺序}{201}{paragraph*.267}%
+\contentsline {paragraph}{破产财产分配方案的实施}{202}{paragraph*.268}%
+\contentsline {subsection}{\numberline {8.15}关联企业合并破产}{202}{subsection.8.15}%
+\contentsline {paragraph}{关联企业实质合并破产}{202}{paragraph*.269}%
+\contentsline {paragraph}{关联企业程序合并破产}{202}{paragraph*.270}%
+\contentsline {section}{\numberline {9}票据与支付结算法律制度}{204}{section.9}%
+\contentsline {subsection}{\numberline {9.1}支票和银行本票}{204}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}票据的特征与经济功能}{204}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}支票}{204}{subsubsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.3}银行本票}{205}{subsubsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.2}商业汇票}{206}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}商业汇票的出票}{206}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}商业汇票的背书}{208}{subsubsection.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.3}商业汇票的承兑}{209}{subsubsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.4}汇票的保证}{210}{subsubsection.9.2.4}%
+\contentsline {subsubsection}{\numberline {9.2.5}付款请求权}{212}{subsubsection.9.2.5}%
+\contentsline {subsubsection}{\numberline {9.2.6}追索权}{212}{subsubsection.9.2.6}%
+\contentsline {subsection}{\numberline {9.3}票据权利和票据行为}{213}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}票据权利的取得}{213}{subsubsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.2}票据权利的善意取得}{214}{subsubsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.3}票据基础关系对票据行为效力的影响}{214}{subsubsection.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.3.4}票据行力的代理}{215}{subsubsection.9.3.4}%
+\contentsline {subsubsection}{\numberline {9.3.5}票据的伪造}{216}{subsubsection.9.3.5}%
+\contentsline {subsubsection}{\numberline {9.3.6}票据抗辩}{216}{subsubsection.9.3.6}%
+\contentsline {subsubsection}{\numberline {9.3.7}票据权利的消灭时效}{218}{subsubsection.9.3.7}%
+\contentsline {subsubsection}{\numberline {9.3.8}票据权利的补救}{218}{subsubsection.9.3.8}%
+\contentsline {subsection}{\numberline {9.4}非票据结算方式}{219}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}支付结算方式的分类}{219}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}汇兑}{220}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}委托收款}{220}{subsubsection.9.4.3}%
+\contentsline {subsubsection}{\numberline {9.4.4}国内信用证}{220}{subsubsection.9.4.4}%
+\contentsline {subsubsection}{\numberline {9.4.5}银行卡}{221}{subsubsection.9.4.5}%
+\contentsline {subsubsection}{\numberline {9.4.6}单位银行结算账户}{221}{subsubsection.9.4.6}%
+\contentsline {subsubsection}{\numberline {9.4.7}个人银行结算账户}{222}{subsubsection.9.4.7}%
+\contentsline {section}{\numberline {10}企业国有资产法律制度}{224}{section.10}%
+\contentsline {subsection}{\numberline {10.1}企业国有资产法律制度概述}{224}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1}企业国有资产的监督管理体制}{224}{subsubsection.10.1.1}%
+\contentsline {subsubsection}{\numberline {10.1.2}国家出资企业的管理者}{225}{subsubsection.10.1.2}%
+\contentsline {subsubsection}{\numberline {10.1.3}企业改制}{225}{subsubsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.2}企业国有资产的产权登记}{226}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}企业国有资产产权登记的范围}{226}{subsubsection.10.2.1}%
+\contentsline {subsubsection}{\numberline {10.2.2}企业国有资产产权登记的内容}{226}{subsubsection.10.2.2}%
+\contentsline {subsubsection}{\numberline {10.2.3}产权登记的管理机关}{228}{subsubsection.10.2.3}%
+\contentsline {subsubsection}{\numberline {10.2.4}产权登记的年度检查}{228}{subsubsection.10.2.4}%
+\contentsline {subsection}{\numberline {10.3}企业国有资产的评估}{229}{subsection.10.3}%
+\contentsline {subsubsection}{\numberline {10.3.1}企业国有资产评估的范围}{229}{subsubsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.2}核准制与备案制}{230}{subsubsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.4}企业国有资产交易管理制度}{231}{subsection.10.4}%
+\contentsline {subsubsection}{\numberline {10.4.1}企业产权转让}{231}{subsubsection.10.4.1}%
+\contentsline {subsubsection}{\numberline {10.4.2}企业增资}{232}{subsubsection.10.4.2}%
+\contentsline {subsubsection}{\numberline {10.4.3}企业国有产权的无偿划转}{232}{subsubsection.10.4.3}%
+\contentsline {subsection}{\numberline {10.5}上市公司国有股权变动管理}{233}{subsection.10.5}%
+\contentsline {subsubsection}{\numberline {10.5.1}国有股东所持上市公司股份通过证券交易系统转让}{233}{subsubsection.10.5.1}%
+\contentsline {subsubsection}{\numberline {10.5.2}国有股东所持上市公司股份公开征集转让}{233}{subsubsection.10.5.2}%
+\contentsline {subsubsection}{\numberline {10.5.3}国有股东所持上市公司股份非公开协议转让}{234}{subsubsection.10.5.3}%
+\contentsline {subsubsection}{\numberline {10.5.4}国有股东所持上市公司股份间接转让}{235}{subsubsection.10.5.4}%
+\contentsline {subsubsection}{\numberline {10.5.5}国有股东发行可交换公司债券}{235}{subsubsection.10.5.5}%
+\contentsline {subsubsection}{\numberline {10.5.6}国有股东与上市公司进行资产重组}{236}{subsubsection.10.5.6}%
+\contentsline {section}{\numberline {11}反垄断法律制度}{237}{section.11}%
+\contentsline {subsection}{\numberline {11.1}反垄断法律制度概述}{237}{subsection.11.1}%
+\contentsline {subsubsection}{\numberline {11.1.1} 《反垄断法》的适用范围}{237}{subsubsection.11.1.1}%
+\contentsline {subsubsection}{\numberline {11.1.2}反垄断机构}{237}{subsubsection.11.1.2}%
+\contentsline {subsubsection}{\numberline {11.1.3}反垄断调查}{238}{subsubsection.11.1.3}%
+\contentsline {subsubsection}{\numberline {11.1.4}反垄断约谈制度}{238}{subsubsection.11.1.4}%
+\contentsline {subsubsection}{\numberline {11.1.5}经营者承诺}{238}{subsubsection.11.1.5}%
+\contentsline {subsubsection}{\numberline {11.1.6}反垄断法律责任}{239}{subsubsection.11.1.6}%
+\contentsline {subsubsection}{\numberline {11.1.7}反垄断民事诉讼}{240}{subsubsection.11.1.7}%
+\contentsline {subsubsection}{\numberline {11.1.8}相关市场界定}{240}{subsubsection.11.1.8}%
+\contentsline {subsection}{\numberline {11.2}垄断协议}{242}{subsection.11.2}%
+\contentsline {subsubsection}{\numberline {11.2.1}垄断协议的认定}{242}{subsubsection.11.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.2}《反垄断法》禁止的横向垄断协议}{242}{subsubsection.11.2.2}%
+\contentsline {subsubsection}{\numberline {11.2.3}《反垄断法》禁止的纵向垄断协议}{243}{subsubsection.11.2.3}%
+\contentsline {subsubsection}{\numberline {11.2.4}垄断协议可被 《反垄断法》豁免的条件}{244}{subsubsection.11.2.4}%
+\contentsline {subsubsection}{\numberline {11.2.5}宽大制度}{244}{subsubsection.11.2.5}%
+\contentsline {subsubsection}{\numberline {11.2.6}行业协会组织本行业经营者从事垄断协议的行为}{245}{subsubsection.11.2.6}%
+\contentsline {subsubsection}{\numberline {11.2.7}垄断协议的组织、帮助行为}{245}{subsubsection.11.2.7}%
+\contentsline {subsubsection}{\numberline {11.2.8}垄断协议行为的法律责任}{245}{subsubsection.11.2.8}%
+\contentsline {subsection}{\numberline {11.3}滥用市场支配地位}{246}{subsection.11.3}%
+\contentsline {subsubsection}{\numberline {11.3.1}市场支配地位的认定}{246}{subsubsection.11.3.1}%
+\contentsline {subsubsection}{\numberline {11.3.2}滥用市场支配地位的行为}{247}{subsubsection.11.3.2}%
+\contentsline {subsubsection}{\numberline {11.3.3}滥用市场支配地位行为的法律责任}{248}{subsubsection.11.3.3}%
+\contentsline {subsection}{\numberline {11.4}经营者集中}{249}{subsection.11.4}%
+\contentsline {subsubsection}{\numberline {11.4.1}经营者集中的申报}{249}{subsubsection.11.4.1}%
+\contentsline {subsubsection}{\numberline {11.4.2}经营者集中的审查}{250}{subsubsection.11.4.2}%
+\contentsline {subsubsection}{\numberline {11.4.3}简易程序}{251}{subsubsection.11.4.3}%
+\contentsline {subsubsection}{\numberline {11.4.4}经营者集中附加限制性条件批准制度}{251}{subsubsection.11.4.4}%
+\contentsline {subsection}{\numberline {11.5}行政垄断}{252}{subsection.11.5}%
+\contentsline {subsubsection}{\numberline {11.5.1}行政垄断行为}{252}{subsubsection.11.5.1}%
+\contentsline {subsubsection}{\numberline {11.5.2}公平竞争审制度}{253}{subsubsection.11.5.2}%
+\contentsline {section}{\numberline {12}涉外法律制度}{256}{section.12}%
+\contentsline {subsection}{\numberline {12.1}涉外投资法律制度}{256}{subsection.12.1}%
+\contentsline {paragraph}{外商投资的概念}{256}{paragraph*.271}%
+\contentsline {paragraph}{准入前国民待遇加负面清单管理制度}{256}{paragraph*.272}%
+\contentsline {paragraph}{外商投资合同}{257}{paragraph*.273}%
+\contentsline {paragraph}{投资促进}{257}{paragraph*.274}%
+\contentsline {paragraph}{投资保护}{259}{paragraph*.275}%
+\contentsline {paragraph}{投资管理}{261}{paragraph*.276}%
+\contentsline {paragraph}{外商投资安全审查制度}{262}{paragraph*.277}%
+\contentsline {paragraph}{对外直接投资法律制度}{263}{paragraph*.278}%
+\contentsline {subsection}{\numberline {12.2}对外贸易法律制度}{263}{subsection.12.2}%
+\contentsline {paragraph}{《对外贸易法》的适用范围和原则}{263}{paragraph*.279}%
+\contentsline {paragraph}{对外贸易经营者}{264}{paragraph*.280}%
+\contentsline {paragraph}{货物进出口与技术进出口}{264}{paragraph*.281}%
+\contentsline {paragraph}{国际服务贸易}{264}{paragraph*.282}%
+\contentsline {paragraph}{反倾销措施}{264}{paragraph*.283}%
+\contentsline {paragraph}{反补贴措施}{264}{paragraph*.284}%
+\contentsline {paragraph}{保障措施}{264}{paragraph*.285}%
+\contentsline {subsection}{\numberline {12.3}外汇管理法律制度}{264}{subsection.12.3}%
+\contentsline {paragraph}{《外汇管理条例》的适用范围}{264}{paragraph*.286}%
+\contentsline {paragraph}{经常项目}{264}{paragraph*.287}%
+\contentsline {paragraph}{资本项目}{264}{paragraph*.288}%
+\contentsline {paragraph}{直接投资项下的外汇管理}{264}{paragraph*.289}%
+\contentsline {paragraph}{间接投资项下的外汇管理}{264}{paragraph*.290}%
+\contentsline {paragraph}{外债管理}{264}{paragraph*.291}%
+\contentsline {paragraph}{人民币汇率与特别提款权}{264}{paragraph*.292}%
+\contentsline {section}{\numberline {13}附录}{265}{section.13}%
+\contentsline {subsection}{\numberline {13.1}所有和时间有关的知识点}{265}{subsection.13.1}%
