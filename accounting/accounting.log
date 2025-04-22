@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  20 APR 2025 21:45
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  22 APR 2025 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1466,12 +1466,7 @@ Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[187] [188] [189] [190] [191]
-Missing character: There is no ① (U+2460) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no ② (U+2461) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[192] [193] [194] [195] [196] [197]
+[187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197]
 Missing character: There is no  (U+F8FF) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no  (U+F8FF) in font [lmroman12-regular]:mapping=t
@@ -1853,14 +1848,8 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `accounting.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `accounting.out':
-(rerunfilecheck)             Before: 0E7FA62DD2C437E623D0CB8DEBB01EC2;65225
-(rerunfilecheck)             After:  BB6BBC4920989F82937D2B9DA915B35A;64759.
+Package rerunfilecheck Info: File `accounting.out' has not changed.
+(rerunfilecheck)             Checksum: BB6BBC4920989F82937D2B9DA915B35A;64759.
  ) 
 Here is how much of TeX's memory you used:
  22317 strings out of 474773
