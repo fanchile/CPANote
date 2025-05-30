@@ -1,0 +1,6 @@
+**/*.aux
+accounting/*.aux
+**/*.log
+**/*.out
+**/*.synctex.gz
+**/*.toc

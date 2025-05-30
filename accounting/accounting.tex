@@ -22,8 +22,36 @@ citecolor=green
 \newtheorem{Assu}{假设}[section]
 \newtheorem{Axiom}{Axiom}
 
-\newenvironment{Dr}{\noindent 借：}{\par}
-\newenvironment{Cr}{\noindent \ \ 贷：}{\par}
+\newenvironment{Dr}{%
+	\begin{list}{}%
+		{
+			\setlength{\leftmargin}{2em}
+			\setlength{\labelwidth}{2em}
+			\setlength{\labelsep}{0pt}
+			\setlength{\itemindent}{0pt}
+			\setlength{\listparindent}{0pt}
+			\setlength{\parsep}{0pt}
+			\setlength{\topsep}{0pt}
+		}
+		\item[\textbf{借：}]
+	}{%
+	\end{list}
+}
+\newenvironment{Cr}{%
+	\begin{list}{}%
+		{
+			\setlength{\leftmargin}{2em}
+			\setlength{\labelwidth}{2em}
+			\setlength{\labelsep}{0pt}
+			\setlength{\itemindent}{0pt}
+			\setlength{\listparindent}{0pt}
+			\setlength{\parsep}{0pt}
+			\setlength{\topsep}{0pt}
+		}
+		\item[\textbf{贷：}]
+	}{%
+	\end{list}
+}
 
 \numberwithin{equation}{section} % 按章节进行排序与编号
 \numberwithin{figure}{section}
@@ -6611,15 +6639,20 @@ citecolor=green
 	\begin{Cr}
 		股本
 		
-		\ \ 资本公积-股本溢价
+		资本公积-股本溢价
 	\end{Cr}
 	发行手续费、佣金等发行费用抵减资本公积-股本溢价
 	
 	\subsubsection{实收资本增加的会计处理}
 	
-	实收资本增加的来源很多，首先就是将资本公积或者盈余公积转为实收资本。这块的账务处理比较简单，就是贷记实收资本或股本，借记减少的项目。
-	
-	如果是所有者投入资本，账务处理和最初始类似。
+	增加有几种情况
+	\begin{enumerate}
+		\item 所有者或者新股东继续通过投入资产的方式增加所有者权益。这种类型的账务处理和发行时类似。
+		
+		\item 企业自身的债务转换为所有者权益。例如可转债的转换以及通过债转股实现债务重组
+		
+		\item 企业通过股份来支付。例如以权益结算的股份支付和股份有限公司发放股票股利
+	\end{enumerate}
 
 	\paragraph{股份有限公司发放股票股利}
 	本质上是用未分配利润或盈余公积转增股本，即：不发现金给股东，而是按持股比例给股东“送股份”。这不改变总资产，但实收资本（股本）增加，同时留存收益或盈余公积减少。
@@ -6654,9 +6687,9 @@ citecolor=green
 	\begin{Cr}
 		股本
 		
-		应付债券-可转换公司债权（利息调整）
+		\ \ 应付债券-可转换公司债权（利息调整）
 		
-		资本公积-股本溢价
+		\ \ 资本公积-股本溢价
 	\end{Cr}
 
 	\paragraph{企业将重组债务转为资本}
@@ -6664,12 +6697,7 @@ citecolor=green
 	
 	即：债权人（如银行、供应商、关联公司等）同意放弃对企业的债权，转而成为公司的投资人，以等值或折价的方式将债务转为股权。
 	
-	会计实质：
-	负债减少：债务不再需要偿还
-	
-	所有者权益增加：新增股本和资本公积
-	
-	可能产生债务重组收益：若转股金额 < 原债务账面价值。这块计入投资收益
+	债转股的会计实质是企业债务减少，所有者权益增加。此外如果转股金额 < 原债务账面价值。这块计入投资收益（企业的）
 	
 	
 	\begin{Dr}
@@ -6678,12 +6706,13 @@ citecolor=green
 	\begin{Cr}
 		股本（实收资本）
 		
-		资本公积-股本溢价（资本溢价）
+		\ \ 资本公积-股本溢价（资本溢价）
 		
-		投资收益
+		\ \ 投资收益
 	\end{Cr}
 
 	\paragraph{以权益结算的股份支付的行权}
+	
 	1. 行权时，公司增加股本和资本公积
 	
 	2. 累计确认的股份支付费用已在等待期内分摊至“管理费用”等
@@ -6698,10 +6727,11 @@ citecolor=green
 	\begin{Cr}
 		股本（实收资本）
 		
-		资本公积-股本溢价（资本溢价）
+		\ \ 资本公积-股本溢价（资本溢价）
 	\end{Cr}
 	
 	在等待期内，每期都确认一部分费用：
+	
 	\begin{Dr}
 		管理费用 / 销售费用
 	\end{Dr}
@@ -6712,6 +6742,8 @@ citecolor=green
 	
 	\subsubsection{实收资本减少的会计处理}
 	
+	\paragraph{减资}
+	
 	\textit{一般企业减资，账务处理如下}
 	
 	\begin{Dr}
@@ -6720,8 +6752,12 @@ citecolor=green
 	\begin{Cr}
 		银行存款
 	\end{Cr}
-
-	\textit{股份有限公司回购股票，账务处理要分两部分。股份有限公司为减少注册资本而回购本公司股份的，首先}
+	
+	\paragraph{股票回购}
+	
+	股票回购后无论是用于注销还是股份支付，首先都要记到库存股。因为库存股在会计上是对公司已发行股份的暂时收回，他不是一项资产，而是所有者权益的抵减项。
+	
+	回购股份不能算作购买资产、只能算做自有资本的减少，因此用库存股这个科目来表现。
 	
 	\begin{Dr}
 		库存股
@@ -6730,7 +6766,8 @@ citecolor=green
 		银行存款（实际支付的金额）
 	\end{Cr}
 	
-	\textit{注销库存股，如果回购价格超过股本}
+	
+	注销库存股的时候可能出现回购价格高于或者低于股本。这时候就按顺序冲减资本公积等项目。\textit{注销库存股，如果回购价格超过股本}
 	
 	\begin{Dr}
 		股本
