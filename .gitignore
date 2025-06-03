@@ -1,5 +1,4 @@
-**/*.aux
-accounting/*.aux
+*.aux
 **/*.log
 **/*.out
 **/*.synctex.gz
